@@ -1,3 +1,3 @@
 <container xmlns="https://openstax.org/namespaces/book-container" version="1">
-    <book slug="college-success" collection-id="col30990" href="../collections/college-success.collection.xml" />
+    <book slug="college-success" collection-id="col30990" style="college-success" href="../collections/college-success.collection.xml" />
 </container>
