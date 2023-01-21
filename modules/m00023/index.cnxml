@@ -1,11 +1,11 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document xmlns="http://cnx.rice.edu/cnxml" class="introduction">
   <title>Introduction</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
-    <md:title/>
+    <md:title>Introduction</md:title>
     <md:content-id>m00023</md:content-id>
     <md:uuid>339743e9-5169-4164-817f-eaefd23c1d02</md:uuid>
   </metadata>
-  <content>
+  <content class="introduction">
     <figure class="splash" id="fig-00001">
       <media alt="Three people perform a dance in which they have their arms extended."><image mime-type="image/jpg" src="../../media/CS_Figure_05_00_001_Splash.jpg"/></media>
       <caption>Success in college and in later careers will require you to develop and maintain healthy and productive relationships with people in various roles and from a wide array of backgrounds. (Credit: AXIS Dance / Flickr Attribution 2.0 Generic (CC-BY 2.0))</caption>
