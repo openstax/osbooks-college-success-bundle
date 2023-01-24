@@ -28,14 +28,15 @@
       </figure>
       <para id="para-00003">Why do professors assign group projects if they are often fraught with challenges? Perhaps it is because group projects are probably the most “real world” experience you will do in college. Very rarely will you be asked to create a report, present to a client, develop a new product or treatment, or fix a problem without working with others and depending on them to do their parts in a timely and professional manner. The more practice you have developing your own skills as a group member and troubleshooting when things don’t go smoothly, the more nimble you will be when you have to collaborate in your job.</para>
       <para id="para-00004">If you approach working in groups by anticipating the challenges and developing strategies to minimize their negative impact, you will be able to weather the stresses more successfully. <link target-id="table-00002">Table 5.1</link> provides some common challenges that you may experience working in a group and review the strategies you can use to minimize or eliminate the challenges.</para>
-      <table summary=" " id="table-00002">
-      <title/>
+      <table summary=" " class="top-titled" id="table-00002">
       <tgroup cols="2">
-      <tbody>
+      <thead>
       <row>
-      <entry><emphasis effect="bold">Role or Responsibility</emphasis></entry>
-      <entry><emphasis effect="bold">Why It Is Helpful for You to Know</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Role or Responsibility</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Why It Is Helpful for You to Know</emphasis></entry>
       </row>
+      </thead>
+      <tbody>
       <row>
       <entry>Challenges of Group Work</entry>
       <entry>Strategies for Improving Group Work</entry>
@@ -75,14 +76,16 @@
       </section>
       <section id="sect-00005"><title>Choose Roles</title>
       <para id="para-00008">Next, your group should determine roles. You may want to determine first the leader, or you may decide to share leadership between two members or choose a “second in command” should the leader not be able to fulfill the duties. Then, you will need to set roles and responsibilities for everyone else in the group. Be sure to discuss each other’s strengths, weaknesses, and interests. Different types of group projects call for different roles, so you may need to pick and choose what is appropriate for your project. <link target-id="table-00003">Table 5.2</link> provides examples of roles and responsibilities that you may consider when assigning roles.</para>
-      <table summary=" " id="table-00003">
+      <table summary=" " class="top-titled" id="table-00003">
       <title/>
       <tgroup cols="2">
-      <tbody>
+      <thead>
       <row>
-      <entry><emphasis effect="bold">Role</emphasis></entry>
-      <entry><emphasis effect="bold">Responsibilities</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Role</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Responsibilities</emphasis></entry>
       </row>
+      </thead>
+      <tbody>
       <row>
       <entry>Leader</entry>
       <entry>Ensures that everyone in the group works towards the objectives of the assignment and stays on task.</entry>
@@ -140,15 +143,17 @@
       <note class="application" id="note-00001"><label/>
       <para id="para-00012">You have been assigned a group project in which you and three classmates must research the topic For-Profit Prisons over the next two weeks. For the assignment, your group must find 4 academic journals, two of which argue for and two which argue against for-profit prisons as necessary for managing the criminal population, and read them carefully. Using the 4 academic journals, your group will be writing a 3-page summary of the pro and con sides of the topic and creating a 6-slide presentation that shares the key highlights of each source. Create a contract for your group by assigning roles, developing a communication plan, and writing down key milestones to complete your assignment on time.</para>
       <para id="para-00013"><emphasis effect="bold">Roles: What roles will each of you play in the group? Consider the tasks that must be completed to determine what roles you need.</emphasis></para>
-      <table summary=" " id="table-00004">
+      <table summary=" " class="unnumbered top-titled" id="table-00004">
       <title/>
       <tgroup cols="3">
-      <tbody>
+      <thead>
       <row>
-      <entry><emphasis effect="bold">Group Member</emphasis></entry>
-      <entry><emphasis effect="bold">Role</emphasis></entry>
-      <entry><emphasis effect="bold">Responsibilities</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Group Member</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Role</emphasis></entry>
+      <entry align="center"><emphasis effect="bold">Responsibilities</emphasis></entry>
       </row>
+      </thead>
+      <tbody>
       <row>
       <entry><emphasis effect="italics">Ex: Group Member 1</emphasis></entry>
       <entry><emphasis effect="italics">Researcher</emphasis></entry>
@@ -178,15 +183,16 @@
       </tgroup>
       </table>
       <para id="para-00014"><emphasis effect="bold">Communication Plan: How will the group communicate throughout the project? Consider creating a back-up plan.</emphasis></para>
-      <table summary=" " id="table-00005">
-      <title/>
+      <table summary=" " class="unnumbered top-titled" id="table-00005">
       <tgroup cols="3">
-      <tbody>
+      <thead>
       <row>
       <entry><emphasis effect="bold">Communication Plan</emphasis></entry>
       <entry><emphasis effect="bold">Expectations</emphasis></entry>
       </row>
-      <row>
+</thead>
+<tbody>
+  <row>
       <entry><emphasis effect="italics">Ex: We will use Group Me for scheduling meeting times and to provide updates</emphasis></entry>
       <entry>Each member will respond via Group Me when asked questions about meeting times or updates on their part of the project.</entry>
       </row>
@@ -202,7 +208,7 @@
       </tgroup>
       </table>
       <para id="para-00015"><emphasis effect="bold">Key Milestones: How will you plan out the work and keep everyone on track? Be sure to include time to proofread, edit, and practice for the presentation.</emphasis></para>
-      <table summary=" " id="table-00006">
+      <table summary=" " class="unnumbered top-titled" id="table-00006">
       <title/>
       <tgroup cols="3">
       <tbody>
@@ -255,24 +261,24 @@
       <para id="para-00017">Most conflict occurs when there is a lack of communication about what is expected. Providing your group members with examples of how to deliver bad or difficult news (e.g., “I am not able to meet my deadline” or “I think I need help with my tasks”) can help your members feel more comfortable when it does occur. Be sure to treat others respectfully and with kindness even if you are justifiably frustrated by your group members’ actions or inactions.</para>
       <note class="application" id="note-00002"><label/>
       <para id="para-00018">Your classmate Garth shows up for the in-person meetings, but has yet to complete any of his parts for the project. The rest of your group cannot move forward without his finished work, and you are getting nervous that your classmate’s unfinished work will keep you from successfully completing the project on time. Write Garth a clear and kind message in which you explain what has happened from your observation, what you need from your classmate, when you need their work, and the consequence of their not completing their work by the deadline.</para>
-      <table summary=" " id="table-00007">
-      <title/>
+      <table summary=" " class="unstyled unnumbered" id="table-00007">
       <tgroup cols="1">
+        <colspec colnum="1" colname="c1" colwidth="3*"/>
       <tbody>
       <row>
-      <entry>Dear Garth,</entry>
-      </row>
-      <row>
-      <entry/>
-      </row>
-      <row>
-      <entry/>
-      </row>
-      <row>
-      <entry/>
-      </row>
-      <row>
-      <entry/>
+      <entry><para id="para-00018a">Dear Garth,</para>
+        <para id="para-00018b">&#160;</para>
+        <para id="para-00018d">&#160;</para>
+        <para id="para-00018e">&#160;</para>
+        <para id="para-00018f">&#160;</para>
+        <para id="para-00018g">&#160;</para>
+        <para id="para-00018h">&#160;</para>
+        <para id="para-00018i">&#160;</para>
+        <para id="para-00018j">&#160;</para>
+        <para id="para-00018k">&#160;</para>
+        <para id="para-00018l">&#160;</para>
+      </entry>
+
       </row>
       </tbody>
       </tgroup>

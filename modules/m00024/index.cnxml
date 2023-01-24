@@ -57,14 +57,14 @@
       <para id="fs-idm357632496">According to a 2018 report from the American College Health Association, in a 12-month period, 63 percent of college students have felt very lonely. If you are feeling lonely or having a hard time making friends, know that the majority of people around you have also felt this way. Joining a group or a club of people who share your interests and passions is one of the best ways to make great friends and stay connected.</para>
       <note class="activity" id="note-00001"><label/>
       <para id="para-00001">Lisa Nunn’s (2021) book College Belonging: How First-Year and First-Generation College Students Navigate Campus Life suggests that students experience belonging in three areas: academic belonging, social belonging, and campus-community belonging. Think about how you can take steps to feel as though you belong in each of these three categories and write down what you can do.</para>
-      <table summary=" " id="table-00001">
+      <table summary=" " class="unnumbered top-titled" id="table-00001">
       <title/>
       <tgroup cols="3">
       <tbody>
       <row>
-      <entry>Realm of Belonging</entry>
-      <entry>Description</entry>
-      <entry>Steps You Can Take to Enhance Your Belonging</entry>
+      <entry align="center">Realm of Belonging</entry>
+      <entry align="center">Description</entry>
+      <entry align="center">Steps You Can Take to Enhance Your Belonging</entry>
       </row>
       <row>
       <entry>Academic belonging</entry>
@@ -111,9 +111,9 @@
       <note class="get-connected" id="note-00002"><label/>
       <para id="para-00016">Which apps and websites help you get more comfortable developing relationships?</para>
       <list list-type="bulleted" id="list-00002">
-      <item>Do you want to meet people who have similar interests? Meetup (https://meetup.com) provides you the opportunity to create interest groups based on your location. You can use the app to create online or in-person groups.</item>
+      <item>Do you want to meet people who have similar interests? <link url="https://openstax.org/l/meetup">Meetup</link> provides you the opportunity to create interest groups based on your location. You can use the app to create online or in-person groups.</item>
       <item>Do you want to learn how to start conversations and have fun doing it? Apps such as Real Talk, Make Talk, and Holsom can make starting conversations enjoyable. Learn what kinds of questions to ask that can get people talking and talking and talking.</item>
-      <item>How about training in conflict management? Colorado State’s Conflict Resolution for College Students (https://www.online.colostate.edu/free-online-courses/conflict-management/) provides an in-depth course that explores common reasons for conflict and common experiences that college students may encounter and need to manage.</item>
+      <item>How about training in conflict management? Colorado State’s <link url="https://openstax.org/l/conflictmanagement">Conflict Resolution for College Students</link> provides an in-depth course that explores common reasons for conflict and common experiences that college students may encounter and need to manage.</item>
       </list>
       </note>
       </section>
