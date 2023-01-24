@@ -28,7 +28,7 @@
       </figure>
       <para id="para-00003">Why do professors assign group projects if they are often fraught with challenges? Perhaps it is because group projects are probably the most “real world” experience you will do in college. Very rarely will you be asked to create a report, present to a client, develop a new product or treatment, or fix a problem without working with others and depending on them to do their parts in a timely and professional manner. The more practice you have developing your own skills as a group member and troubleshooting when things don’t go smoothly, the more nimble you will be when you have to collaborate in your job.</para>
       <para id="para-00004">If you approach working in groups by anticipating the challenges and developing strategies to minimize their negative impact, you will be able to weather the stresses more successfully. <link target-id="table-00002">Table 5.1</link> provides some common challenges that you may experience working in a group and review the strategies you can use to minimize or eliminate the challenges.</para>
-      <table summary=" " class="top-titled" id="table-00002">
+      <table summary=" " id="table-00002">
       <tgroup cols="2">
       <thead>
       <row>
@@ -76,7 +76,7 @@
       </section>
       <section id="sect-00005"><title>Choose Roles</title>
       <para id="para-00008">Next, your group should determine roles. You may want to determine first the leader, or you may decide to share leadership between two members or choose a “second in command” should the leader not be able to fulfill the duties. Then, you will need to set roles and responsibilities for everyone else in the group. Be sure to discuss each other’s strengths, weaknesses, and interests. Different types of group projects call for different roles, so you may need to pick and choose what is appropriate for your project. <link target-id="table-00003">Table 5.2</link> provides examples of roles and responsibilities that you may consider when assigning roles.</para>
-      <table summary=" " class="top-titled" id="table-00003">
+      <table summary=" " id="table-00003">
       <title/>
       <tgroup cols="2">
       <thead>
@@ -143,7 +143,7 @@
       <note class="application" id="note-00001"><label/>
       <para id="para-00012">You have been assigned a group project in which you and three classmates must research the topic For-Profit Prisons over the next two weeks. For the assignment, your group must find 4 academic journals, two of which argue for and two which argue against for-profit prisons as necessary for managing the criminal population, and read them carefully. Using the 4 academic journals, your group will be writing a 3-page summary of the pro and con sides of the topic and creating a 6-slide presentation that shares the key highlights of each source. Create a contract for your group by assigning roles, developing a communication plan, and writing down key milestones to complete your assignment on time.</para>
       <para id="para-00013"><emphasis effect="bold">Roles: What roles will each of you play in the group? Consider the tasks that must be completed to determine what roles you need.</emphasis></para>
-      <table summary=" " class="unnumbered top-titled" id="table-00004">
+      <table summary=" " id="table-00004">
       <title/>
       <tgroup cols="3">
       <thead>
@@ -183,7 +183,7 @@
       </tgroup>
       </table>
       <para id="para-00014"><emphasis effect="bold">Communication Plan: How will the group communicate throughout the project? Consider creating a back-up plan.</emphasis></para>
-      <table summary=" " class="unnumbered top-titled" id="table-00005">
+      <table summary=" " id="table-00005">
       <tgroup cols="3">
       <thead>
       <row>
@@ -208,15 +208,16 @@
       </tgroup>
       </table>
       <para id="para-00015"><emphasis effect="bold">Key Milestones: How will you plan out the work and keep everyone on track? Be sure to include time to proofread, edit, and practice for the presentation.</emphasis></para>
-      <table summary=" " class="unnumbered top-titled" id="table-00006">
-      <title/>
+      <table summary=" " id="table-00006">
       <tgroup cols="3">
-      <tbody>
+      <thead>
       <row>
       <entry><emphasis effect="bold">Task</emphasis></entry>
       <entry><emphasis effect="bold">Person Responsible</emphasis></entry>
       <entry><emphasis effect="bold">Deadline</emphasis></entry>
       </row>
+      </thead>
+      <tbody>
       <row>
       <entry><emphasis effect="italics">Ex: Choose articles to use for the project</emphasis></entry>
       <entry><emphasis effect="italics">Researcher</emphasis></entry>
