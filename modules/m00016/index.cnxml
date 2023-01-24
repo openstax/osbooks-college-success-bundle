@@ -95,10 +95,50 @@
      </section>
      <section id="sect-00006"><title>Chart or table</title>
      <para id="para-00025">Similar to creating an outline, you can develop a chart to compare and contrast main ideas in a note-taking session. Divide your paper into four or five columns with headings that include either the main topics covered in the lecture or categories such as How?, What?, When used?, Advantages/Pros, Disadvantages/Cons, or other divisions of the information. You write your notes into the appropriate columns as that information comes to light in the presentation. The image below provides an example of a table that can help you organize topics in a science course.</para>
-     <figure id="fig-00005">
-     <media alt="Structure	Types; Functions in Body; Additional Notes; Carbohydrates; Lipids; Proteins; Nucleic Acid"><image mime-type="image/png" src="../../media/CS_Figure_03_04_011.png"/></media>
-     <caption>Example of a Chart to Organize Ideas and Categories</caption>
-     </figure>
+<table summary="" id="table-00003">
+  <tgroup cols="5">
+    <thead>
+      <row>
+      <entry> </entry>
+      <entry>Structure</entry>
+      <entry>Types</entry>
+      <entry>Functions in Body</entry>
+      <entry>Additional Notes</entry>
+      </row>
+    </thead>
+    <tbody>
+      <row>
+        <entry>Carbohydrates</entry>
+        <entry> </entry>
+        <entry> </entry>
+        <entry> </entry>
+        <entry> </entry>
+      </row>
+      <row>
+        <entry>Lipids</entry>
+        <entry> </entry>
+        <entry> </entry>
+        <entry> </entry>
+        <entry> </entry>
+      </row>
+      <row>
+        <entry>Proteins</entry>
+        <entry> </entry>
+        <entry> </entry>
+        <entry> </entry>
+        <entry> </entry>
+      </row>
+      <row>
+        <entry>Nucleic Acid</entry>
+        <entry> </entry>
+        <entry> </entry>
+        <entry> </entry>
+        <entry> </entry>
+      </row>
+    </tbody>
+</tgroup>
+<caption>Example of a Chart to Organize Ideas and Categories</caption>
+</table>
      <para id="para-00026">This format helps you pull out the salient ideas and establishes an organized set of notes to study later. (If you haven’t noticed that this <emphasis effect="italics">reviewing later</emphasis> idea is a constant across all note-taking systems, you should…take note of that.) Notes by themselves that you never reference again are little more than scribblings. That would be a bit like compiling an extensive grocery list so you stay on budget when you shop, work all week on it, and then just throw it away before you get to the store. You may be able to recall a few items, but likely won’t be as efficient as you could be if you had the notes to reference. Just as you cannot read all the many books, articles, and documents you need to peruse for your college classes, you cannot remember the most important ideas of all the notes you will take as part of your courses, so you must review.</para>
      </section>
      <section id="sect-00007"><title>Concept Mapping and Visual Note-taking</title>

@@ -143,7 +143,7 @@
       <note class="application" id="note-00001"><label/>
       <para id="para-00012">You have been assigned a group project in which you and three classmates must research the topic For-Profit Prisons over the next two weeks. For the assignment, your group must find 4 academic journals, two of which argue for and two which argue against for-profit prisons as necessary for managing the criminal population, and read them carefully. Using the 4 academic journals, your group will be writing a 3-page summary of the pro and con sides of the topic and creating a 6-slide presentation that shares the key highlights of each source. Create a contract for your group by assigning roles, developing a communication plan, and writing down key milestones to complete your assignment on time.</para>
       <para id="para-00013"><emphasis effect="bold">Roles: What roles will each of you play in the group? Consider the tasks that must be completed to determine what roles you need.</emphasis></para>
-      <table summary=" " id="table-00004">
+      <table summary=" " class="unnumbered" id="table-00004">
       <title/>
       <tgroup cols="3">
       <thead>
@@ -160,30 +160,30 @@
       <entry><emphasis effect="italics">Search the topic in the library database Find 4 articles (2 pro and 2 con) Assign each member an article to read</emphasis></entry>
       </row>
       <row>
-      <entry/>
-      <entry/>
-      <entry/>
+      <entry>&#160;</entry>
+      <entry>&#160;</entry>
+      <entry>&#160;</entry>
       </row>
       <row>
-      <entry/>
-      <entry/>
-      <entry/>
+      <entry>&#160;</entry>
+      <entry>&#160;</entry>
+      <entry>&#160;</entry>
       </row>
       <row>
-      <entry/>
-      <entry/>
-      <entry/>
+      <entry>&#160;</entry>
+      <entry>&#160;</entry>
+      <entry>&#160;</entry>
       </row>
       <row>
-      <entry/>
-      <entry/>
-      <entry/>
+      <entry>&#160;</entry>
+      <entry>&#160;</entry>
+      <entry>&#160;</entry>
       </row>
       </tbody>
       </tgroup>
       </table>
       <para id="para-00014"><emphasis effect="bold">Communication Plan: How will the group communicate throughout the project? Consider creating a back-up plan.</emphasis></para>
-      <table summary=" " id="table-00005">
+      <table summary=" " class="unnumbered" id="table-00005">
       <tgroup cols="3">
       <thead>
       <row>
@@ -197,18 +197,18 @@
       <entry>Each member will respond via Group Me when asked questions about meeting times or updates on their part of the project.</entry>
       </row>
       <row>
-      <entry/>
-      <entry/>
+      <entry>&#160;</entry>
+      <entry>&#160;</entry>
       </row>
       <row>
-      <entry/>
-      <entry/>
+      <entry>&#160;</entry>
+      <entry>&#160;</entry>
       </row>
       </tbody>
       </tgroup>
       </table>
       <para id="para-00015"><emphasis effect="bold">Key Milestones: How will you plan out the work and keep everyone on track? Be sure to include time to proofread, edit, and practice for the presentation.</emphasis></para>
-      <table summary=" " id="table-00006">
+      <table summary=" " class="unnumbered" id="table-00006">
       <tgroup cols="3">
       <thead>
       <row>
@@ -224,24 +224,24 @@
       <entry><emphasis effect="italics">No later than February 12</emphasis></entry>
       </row>
       <row>
-      <entry/>
-      <entry/>
-      <entry/>
+      <entry>&#160;</entry>
+      <entry>&#160;</entry>
+      <entry>&#160;</entry>
       </row>
       <row>
-      <entry/>
-      <entry/>
-      <entry/>
+      <entry>&#160;</entry>
+      <entry>&#160;</entry>
+      <entry>&#160;</entry>
       </row>
       <row>
-      <entry/>
-      <entry/>
-      <entry/>
+      <entry>&#160;</entry>
+      <entry>&#160;</entry>
+      <entry>&#160;</entry>
       </row>
       <row>
-      <entry/>
-      <entry/>
-      <entry/>
+      <entry>&#160;</entry>
+      <entry>&#160;</entry>
+      <entry>&#160;</entry>
       </row>
       </tbody>
       </tgroup>
@@ -274,12 +274,7 @@
         <para id="para-00018f">&#160;</para>
         <para id="para-00018g">&#160;</para>
         <para id="para-00018h">&#160;</para>
-        <para id="para-00018i">&#160;</para>
-        <para id="para-00018j">&#160;</para>
-        <para id="para-00018k">&#160;</para>
-        <para id="para-00018l">&#160;</para>
       </entry>
-
       </row>
       </tbody>
       </tgroup>

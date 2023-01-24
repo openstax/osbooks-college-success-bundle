@@ -85,14 +85,14 @@
     </list>
     <note class="application" id="note-00001"><label/>
     <para id="para-00026">Choose one health goal from each of the three areas described above and write down how you will ensure that you meet each goal by listing your tactics, or what you will do regularly to meet the goal.</para>
-    <table summary="" class="unnumbered top-titled" id="table-00003">
+    <table summary="" class="unnumbered" id="table-00003">
     <tgroup cols="3">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
     <colspec colnum="3" colname="c3"/>
     <thead>
     <row>
-    <entry/>
+    <entry>&#160;</entry>
     <entry>Goal</entry>
     <entry>Tactics</entry>
     </row>
@@ -110,18 +110,18 @@
     </row>
     <row>
     <entry>Eating healthfully</entry>
-    <entry/>
-    <entry/>
+    <entry>&#160;</entry>
+    <entry>&#160;</entry>
     </row>
     <row>
     <entry>Being active</entry>
-    <entry/>
-    <entry/>
+    <entry>&#160;</entry>
+    <entry>&#160;</entry>
     </row>
     <row>
     <entry>Sleeping fully</entry>
-    <entry/>
-    <entry/>
+    <entry>&#160;</entry>
+    <entry>&#160;</entry>
     </row>
     </tbody>
     </tgroup>
