@@ -17,7 +17,7 @@ collaborators:
 
 teams:
   - name: ce-admins
-    permission: push
+    permission: admin
   - name: ce-all
     permission: triage
   - name: content-managers
