@@ -171,16 +171,16 @@
     <para id="para-00025">This information sounds pretty straightforward. Your professor lectures on a topic and you will be there to hear it. However, there are some unwritten rules, or hidden curriculum, that are not likely to be communicated. Can you guess what they may be? Take a moment to write at least one potential unwritten rule.</para>
     <list list-type="enumerated" number-style="arabic" class="no-style" id="list-00003">
     <item>What is an unwritten rule about what you should be doing before attending class?
-    <newline/>
+    <para id="para-00025a">&#160;</para>
     <newline count="1" effect="underline" /></item>
     <item>What is an unwritten rule about what you should be doing in class?
-      <newline/>
+      <para id="para-00025b">&#160;</para>
       <newline count="1" effect="underline" /></item>
     <item>What is an unwritten rule about what you should be doing after class?
-      <newline/>
-    <newline count="1" effect="underline" /></item>
+      <para id="para-00025c">&#160;</para>
+      <newline count="1" effect="underline" /></item>
     <item>What is an unwritten rule if you are not able to attend that class?
-      <newline/>
+      <para id="para-00025d">&#160;</para>
       <newline count="1" effect="underline" /></item>
     </list>
     <para id="para-00030">Some of your answers could have included the following:</para>
