@@ -52,7 +52,6 @@
     <note id="fs-idm249305120" class="activity"><label/>
     <title/>
     <para id="fs-idm250591344">List the last ten purchases you made, and place each of them in the category you think is correct.</para>
-    </note>
     <table id="ch07tab04" summary="">
     <tgroup cols="3">
     <colspec colnum="1" colname="c1"/>
@@ -73,7 +72,8 @@
     </tbody>
     </tgroup>
     </table>
-    <para id="fs-idm253992064">How do your total “need” expenses compare to your total “want” expenses? Should either of them change?</para>
+  </note>
+  <para id="fs-idm253992064">How do your total “need” expenses compare to your total “want” expenses? Should either of them change?</para>
     <para id="fs-idm248500416">Budgets are done in a chart or spreadsheet format and often look like the ones below. Pay attention to how the first budget differs from the second.</para>
     <table id="ch07tab05" summary="">
     <tgroup cols="2">

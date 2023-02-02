@@ -57,7 +57,8 @@
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
     <thead>
-    <row>
+      <row><entry namest="c1" nameend="c2" align="center">Differences between High School and College Faculty</entry></row>
+      <row>
     <entry align="center">High School Faculty</entry>
     <entry align="center">College Faculty</entry>
     </row>
@@ -81,7 +82,6 @@
     </row>
     </tbody>
     </tgroup>
-    <caption><emphasis effect="bold">Differences between High School and College Faculty</emphasis></caption>
     </table>
     <para id="para-00008">The relationships you build with your professors will be some of the most important ones you create during your college career. You will rely on them to help you find internships, write letters of recommendation, nominate you for honors or awards, and serve as references for jobs. You can develop those relationships by participating in class, visiting during office hours, asking for assistance with coursework, requesting recommendations for courses and majors, and getting to know the professor’s own academic interests. One way to think about the change in how your professors will relate to you is to think about the nature of relationships you have had growing up. In <link target-id="ch01fig05" document="m00004"/> You and Your Relationships Before College you will see a representation of what your relationships probably looked like. Your family may have been the greatest influencer on you and your development.</para>
     <quote id="quote-00001">
