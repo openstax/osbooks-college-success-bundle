@@ -96,7 +96,7 @@
     <section id="sect-00009">
     <title>Using Mnemonics</title>
     <para id="para-00022"><term class="no-emphasis" id="term-00001">Mnemonics</term> (pronounced new-monics) are a way to remember things using reminders that are linked to the content you are trying to remember. Did you learn the points of the compass by remembering NEWS (north, east, west, and south)? Or the notes on the music staff as FACE or EGBDF (every good boy does fine)? These are mnemonics, specifically <emphasis effect="bold"><emphasis effect="italics">acronyms</emphasis></emphasis>, or words created out of the first letters of the terms you are trying to recall. When you’re first learning something and you aren’t familiar with the foundational concepts, these help you bring up the information quickly, especially for multistep processes or lists. After you’ve worked in that discipline for a while, you likely don’t need the mnemonics, but you probably won’t forget them either.</para>
-    <para id="para-00023">Here are some familiar mnemonics you may find useful:</para>
+    <para id="para-00023"><link target-id="ch04fig06" document="m00020"/> shows some familiar mnemonics you may find useful.</para>
     <figure id="ch04fig06" class="scaled-down">
     <media id="ch04media06" alt="An image shows a cork board with some common mnemonics." longdesc="C6-9-longdesc.txt"><image mime-type="image/png" src="../../media/CS_Figure_06_09_001.png"/></media>
     </figure>
