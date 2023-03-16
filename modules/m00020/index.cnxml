@@ -6,7 +6,7 @@
     <md:uuid>b8011ec7-79a2-459a-88da-d894a79a9a94</md:uuid>
   </metadata>
   <content>
-    <table id="ch04tab06" summary="" class="unstyled unnumbered">
+    <table id="ch04tab06" class="unstyled unnumbered">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -144,7 +144,7 @@
     <section id="sect-00013">
     <title>Spacing</title>
     <para id="para-00035">We all know that cramming is not an effective study strategy, but do we know why? Research on memory suggests that giving yourself time in between study sessions actually helps you forget the information. And forgetting, which sounds like it would be something you <emphasis effect="italics">don’t</emphasis> want to do, is actually good for your ability to remember information long-term. That’s because every time you forget something, you need to relearn it, leading to gains in your overall understanding and “storage” of the material. The table below demonstrates how <term class="no-emphasis" id="term-00002">spacing</term> works. Assume you are going to spend about four hours studying for a sociology exam. Cramming would have you spending most of those four hours the night before the exam. With spacing, on the other hand, you would study a little bit each day.</para>
-    <table id="ch04tab07" summary="" class="top-titled">
+    <table id="ch04tab07" class="top-titled">
     <tgroup cols="8">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -171,7 +171,7 @@
     <title>Interleaving</title>
     <para id="para-00036">One particular studying technique is called <term class="no-emphasis" id="term-00003">interleaving</term>, which calls for students to mix up the content that is being studied. This means not just spending the entire study session on one sort of problem and then moving on to a different sort of problem at a later time.</para>
     <para id="para-00037">If you take the schedule we used for the spacing example above, we can add the interleaving concepts to it. Notice that interleaving includes revisiting material from a previous chapter or unit or revisiting different types of problems or question sets. The benefit is that your brain is “mixing up” the information, which can sometimes lead to short-term forgetting but can lead to long-term memory and learning.</para>
-    <table id="ch04tab08" summary="" class="top-titled">
+    <table id="ch04tab08" class="top-titled">
     <tgroup cols="6">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>

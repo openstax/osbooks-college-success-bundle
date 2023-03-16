@@ -10,7 +10,7 @@
 
 <content>
 
-<table id="fs-idm248694176" summary="" class="unstyled unnumbered">
+<table id="fs-idm248694176" class="unstyled unnumbered">
  <tgroup cols="1">
  <tbody>
   <row>
@@ -68,7 +68,7 @@
 <section id="fs-idm222737680"><title>Investment Schemes</title>
 <para id="fs-idm255367568">Regulators identify specialized investments, such as promissory notes, real estate, oil and gas, and gold, as a major threat to investors. Investing systems, including stock picking and buying or selling strategies, are also a concern. Academic research has continually disproven these strategies.<footnote id="ch10rfin-26">Kadan, Maduriera, Wang and Zach. “Stock Picking, Industry Picking, and Market Timing in Sell-Side Research.” Singapore Management University.  2012.</footnote></para>
 <para id="fs-idm234634288">If someone is pitching you on their special system or secret strategy, be extremely skeptical. Legitimate investments are regulated by government agencies and are therefore never a secret.</para>
-<table id="ch10tab11" summary="">
+<table id="ch10tab11">
 <tgroup cols="3">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>

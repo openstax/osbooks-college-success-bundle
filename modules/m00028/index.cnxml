@@ -6,7 +6,7 @@
     <md:uuid>a96a9f25-7e34-4136-9889-e38ee9b3fdaf</md:uuid>
   </metadata>
   <content>
-    <table summary="" class="unstyled unnumbered" id="table-00001">
+    <table class="unstyled unnumbered" id="table-00001">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -24,7 +24,7 @@
     <para id="para-00003">Let’s get started. First, consider your strengths. In <link target-id="table-00002" document="m00028"/>, we have listed several examples of strengths. What are your strengths? What would your family say if we asked them about your strengths? What about your friends or community, would they have other examples of your strengths? Answer these questions to make a list of your own.</para>
     <para id="para-00004">Next, let’s consider your values. When finding your support network, friends, new clubs or organizations to join, one way to start is to understand your values and then look for others that have similar values. Your values have been shaped largely by your family, friends and the culture you grew up in.</para>
     <para id="para-00005">Many of these values may be challenged as you go through college and grow as an independent person. Understanding your current values and recognizing when they are being challenged may give you some insights into why you value what you do and what changes you may be open to. Consider the values in the table below and then list some of yours. Did you come to these through your family, your community?</para>
-    <table summary="" id="table-00002">
+    <table id="table-00002">
     <tgroup cols="4">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>

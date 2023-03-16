@@ -9,7 +9,7 @@
 </metadata>
 
 <content>
-<table id="fs-idm240901488" summary="" class="unstyled unnumbered">
+<table id="fs-idm240901488" class="unstyled unnumbered">
   <tgroup cols="1">
   <tbody>
     <row>
@@ -71,7 +71,7 @@
 <section id="fs-idm339089280"><title>Breaking Down the Steps and Spreading Them over Shorter Work Periods</title>
 <para id="fs-idm320470336">Above, you read about several different tried-and-tested strategies for effective time management—approaches that have become staples in the professional world. In this section you will read about two more creative techniques that combine elements from these other methods to handle tasks when time is scarce and long periods of time are a luxury you just do not have.</para>
 <para id="fs-idm361074656">The concept behind this strategy is to break tasks into smaller, more manageable units that do not require as much time to complete. As an illustration of how this might work, imagine that you are assigned a two-page paper that is to include references. You estimate that to complete the paper—start to finish—would take you between four and a half and five hours. You look at your calendar over the next week and see that there simply are no open five-hour blocks (unless you decided to only get three hours of sleep one night). Rightly so, you decide that going without sleep is not a good option. While looking at your calendar, you do see that you can squeeze in an hour or so every night. Instead of trying to write the entire paper in one sitting, you break it up into much smaller components as shown in the table below:</para>
-<table id="ch03tab08" summary="" class="top-titled">
+<table id="ch03tab08" class="top-titled">
 <tgroup cols="3">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
@@ -120,7 +120,7 @@
 </tbody>
 </tgroup>
 </table>
-<table id="ch03tab09" summary="">
+<table id="ch03tab09">
 <title/>
 <tgroup cols="8">
 <colspec colnum="1" colname="c1"/>

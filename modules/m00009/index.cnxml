@@ -6,7 +6,7 @@
     <md:uuid>da232d94-d30e-4f2e-aedc-b94e1fe7e1fc</md:uuid>
   </metadata>
   <content>
-    <table id="ch02tab05" summary="" class="unstyled unnumbered">
+    <table id="ch02tab05" class="unstyled unnumbered">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -26,7 +26,7 @@
     <caption>An online calendar is a very useful tool for keeping track of classes, meetings, and other events. Most learning management systems contain these features, or you can use a calendar application.</caption></figure>
     <note class="analysis-question" id="note-00001"><label/>
     <para id="para-00003">Read each statement in the brief self-evaluation tool below, and check the answer that best applies to you. There are no right or wrong answers.</para>
-    <table id="ch02tab06" summary="">
+    <table id="ch02tab06">
     <tgroup cols="6">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -117,7 +117,7 @@
     <para id="para-00009">Obviously, you will not want to get caught up in too much tedious detail, but you will want to cover the main activities of your day—for example, working, eating, driving, shopping, gaming, being engaged in entertainment, etc.</para>
     <para id="para-00010">After you have completed this activity for a single day, you may consider doing it for an entire week so that you are certain to include all of your activities.</para>
     <para id="para-00011">Many people that take this sort of personal assessment of their time are often surprised by the results. Some even make lifestyle changes based on it.</para>
-    <table id="ch02tab07" summary="">
+    <table id="ch02tab07">
     <tgroup cols="3">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -165,7 +165,7 @@
     <para id="para-00032">In essence, the only way you are going to be able to manage your time accurately is to know yourself and to know how long it takes you to do each task. But where to begin?</para>
     <para id="para-00033">Below, you will find a table of common college academic activities. This list has been compiled from a large number of different sources, including colleges, publishers, and professional educators, to help students estimate their own time on tasks. The purpose of this table is to both give you a place to begin in your estimates and to illustrate how different factors can impact the actual time spent.</para>
     <para id="para-00034">You will notice that beside each task there is a column for the <emphasis effect="italics">unit</emphasis>, followed by the average <emphasis effect="italics">time on task</emphasis>, and a column for notes. The <emphasis effect="italics">unit</emphasis> is whatever is being measured (e.g., pages read, pages written, etc.), and the <emphasis effect="italics">time on task</emphasis> is an average time it takes students to do these tasks. It is important to pay attention to the notes column, because there you will find factors that influence the time on task. These factors can dramatically change the amount of time the activity takes.</para>
-    <table id="ch02tab08" summary="">
+    <table id="ch02tab08">
     <tgroup cols="4">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>

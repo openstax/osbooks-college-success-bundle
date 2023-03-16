@@ -9,7 +9,7 @@
 </metadata>
 
 <content>
-<table id="fs-idm220874144" summary="" class="unstyled unnumbered">
+<table id="fs-idm220874144" class="unstyled unnumbered">
  <tgroup cols="1">
  <tbody>
   <row>
@@ -62,7 +62,7 @@
 <note id="fs-idm222830720" class="application"><label/>
 <para id="fs-idm221261840"><emphasis effect="bold">Applying What You Know about Learning to What You Are Doing: </emphasis>In this activity, you will work with an upcoming assignment from one of your courses—preferably something you might be dreading or are at least less than enthusiastic about working on. You will see if there is anything you can apply to the assignment from what you know about learning that might make it more interesting.</para>
 <para id="fs-idm201253408">In the table below are several attributes that college students generally prefer in their learning activities, listed in the far left column. As you think about your assignment, consider whether or not it already possesses the attribute. If it does, go on to the next row. If it does not, see if there is some way you can approach the assignment so that it does follow preferred learning attributes; write that down in the last column, to the far right.</para>
-<table id="ch02tab07" summary="">
+<table id="ch02tab07">
 <title/>
 <tgroup cols="4">
 <colspec colnum="1" colname="c1"/>

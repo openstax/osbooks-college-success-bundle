@@ -9,7 +9,7 @@
 </metadata>
 
 <content>
-<table id="fs-idm378634976" summary="" class="unstyled unnumbered">
+<table id="fs-idm378634976" class="unstyled unnumbered">
  <tgroup cols="1">
  <tbody>
   <row>
@@ -128,7 +128,7 @@
 </figure>
 </section>
 <section id="fs-idm326536672"><title>3. Write Down Your Financial Plan</title>
-<table id="ch10tab01" summary="">
+<table id="ch10tab01">
 <tgroup cols="5">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>

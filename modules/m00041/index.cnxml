@@ -6,7 +6,7 @@
     <md:uuid>ec663771-a3b1-410b-ab18-46c615df983f</md:uuid>
   </metadata>
   <content>
-    <table id="ch08tab04" summary="" class="unstyled unnumbered">
+    <table id="ch08tab04" class="unstyled unnumbered">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -32,7 +32,7 @@
     <caption>The number of American’s receiving Bachelor’s degrees has increased significantly. While not every job requires one, the level of overall education required for most careers continues to go up. (Credit: US Department of Commerce / Public Domain)</caption>
     </figure>
     <para id="para-00005">Not every job requires a bachelor’s degree, and some require even higher degrees or additional specialized certifications. As you develop your academic plan, it is important to research your field of interest to see what requirements might be necessary or most desirable.</para>
-    <table id="ch08tab05" summary="">
+    <table id="ch08tab05">
     <title>Example Jobs by Minimum Degree Qualification<footnote id="ch08rfin-1">Minimum degree qualifications may vary by state.</footnote></title>
     <tgroup cols="4">
     <colspec colnum="1" colname="c1"/>
@@ -125,7 +125,7 @@
     <section id="sect-00004">
     <title>General Education</title>
     <para id="para-00019"><term class="no-emphasis" id="term-00005">General education</term>, also called <emphasis effect="italics">core curriculum</emphasis>, is a group of courses that are often set as requirements by your state or by your individual college. These courses provide you with a foundation of knowledge across a breadth of fields and are also intended to help you further develop college-level critical-thinking and problem- solving abilities. You may be able to select courses from a general education menu of courses available at your institution. More than half of your bachelor’s degree program is likely made up of general education courses.</para>
-    <table id="ch08tab06" summary="">
+    <table id="ch08tab06">
     <title>General Education Categories.</title>
     <tgroup cols="1">
     <colspec colnum="1" colname="c1"/>

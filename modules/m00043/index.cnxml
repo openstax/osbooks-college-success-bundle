@@ -6,7 +6,7 @@
     <md:uuid>37931cd9-a6e9-406d-8d84-b0e43e3b45f8</md:uuid>
   </metadata>
   <content>
-    <table id="ch08tab08" summary="" class="unstyled unnumbered">
+    <table id="ch08tab08" class="unstyled unnumbered">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -77,7 +77,7 @@
     </list>
     <para id="para-00013">This “research” may sound a little dry and uninteresting at first, but consider it as a look into your future. If you are excited about what you are learning and what your career prospects are, learning about the places where you may put all of your hard work into practice should also be very exciting! Most professionals spend many hours not only performing their work but also physically being located at work. For something that is such a large part of your life, it will help you to know what you are getting into as you get closer to realizing your goals.</para>
     <para id="para-00014">There are many and varied types of experiential learning opportunities that can help you learn more about different career opportunities. The table below provides a brief overview.</para>
-    <table id="ch08tab09" summary="" class="top-titled">
+    <table id="ch08tab09" class="top-titled">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>

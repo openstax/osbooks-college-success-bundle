@@ -6,7 +6,7 @@
     <md:uuid>2f839849-945b-4c12-bb67-645b1dc7f0c0</md:uuid>
   </metadata>
   <content>
-    <table id="ch01tab06" summary="" class="unstyled unnumbered">
+    <table id="ch01tab06" class="unstyled unnumbered">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -28,7 +28,7 @@
     <para id="para-00002">Going to college—even if you are not far from home—is a cultural experience. It comes with its own language and customs, some of which can be confusing or confounding at first. Just like traveling to a foreign country, it is best if you prepare by learning what words mean and what you are expected to say and do in certain situations.</para>
     <para id="para-00003">Let’s first start with the language you may encounter. In most cases, there will be words that you have heard before, but they may have different meanings in a college setting. Take, for instance, “office hours.” If you are not in college, you would think that it means the hours of a day that an office is open. If it is your dentist’s office, it may mean Monday through Friday from 8 a.m. to 5 p.m. In college, “office hours” can refer to the specific hours a professor is in her office to meet with students, and those hours may be only a few each day: for example, Mondays and Wednesdays from 1 p.m. until 3 p.m.</para>
     <para id="para-00004">“Syllabus” is another word that you may not have encountered, but it is one you will soon know very well. A syllabus is often called the “contract of the course” because it contains information about what to expect—from the professor and the student. It is meant to be a roadmap for succeeding in the class. Understanding that office hours are for you to ask your professor questions and the syllabus is the guide for what you will be doing in the class can make a big difference in your transition to college. The table on Common <term class="no-emphasis" id="term-00001">College Terms</term>, below, has a brief list of other words that you will want to know when you hear them on campus (see <link target-id="ch01tab07" document="m00004"/>).</para>
-    <table id="ch01tab07" summary="" class="top-titled">
+    <table id="ch01tab07" class="top-titled">
     <tgroup cols="3">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -53,7 +53,7 @@
     <para id="para-00006">The language that colleges and universities use can feel familiar but mean something different, as you learned in the section above, and it can also seem alien, especially when institutions use acronyms or abbreviations for buildings, offices, and locations on campus. Terms such as “quad” or “union” can denote a location or space for students. Then there may be terms such as “TLC” (The Learning Center, in this example) that designate a specific building or office. Describe a few of the new terms you have encountered so far and what they mean. If you are not sure, ask your professor or a fellow student to define it for you.</para>
     </note>
     <para id="para-00007">In addition to its own language, higher education has its own way of doing things. For example, you may be familiar with what a high school teacher does, but do you know what a professor does? It certainly seems like they fulfill a very similar role as teachers in high school, but in college, professors’ roles are often much more diverse. In addition to teaching, they may also conduct research, mentor graduate students, write and review research articles, serve on and lead campus committees, serve in regional and national organizations in their disciplines, apply for and administer grants, advise students in their major, and serve as sponsors for student organizations. You can be assured that their days are far from routine. See the table below for just a few differences between high school teachers and college professors.</para>
-    <table id="ch01tab08" summary="">
+    <table id="ch01tab08">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -97,7 +97,7 @@
     <caption>You and Your Relationships During College</caption></figure>
     <para id="para-00011">Your relationships with authority figures, family, and friends may change while you are in college, and at the very least, your relationships will expand to peer networks—not friends, but near-age peers or situational peers (e.g., a first-year college student who is going back to school after being out for 20 years)—and to faculty and staff who may work alongside you, mentor you, or supervise your studies. These relationships are important because they will allow you to expand your network, especially as it relates to your career. As stated earlier, developing relationships with faculty can provide you with more than just the benefits of a mentor. Faculty often review applications for on-campus jobs or university scholarships and awards; they also have connections with graduate programs, companies, and organizations. They may recommend you to colleagues or former classmates for internships and even jobs.</para>
     <para id="para-00013">Other differences between high school and college are included in <link target-id="ch01tab09" document="m00004"/>, Differences between High School and College. Because it is not an exhaustive list of the differences, be mindful of other differences you may notice. Also, if your most recent experience has been the world of work or the military, you may find that there are more noticeable differences between those experiences and college.</para>
-    <table id="ch01tab09" summary="" class="top-titled">
+    <table id="ch01tab09" class="top-titled">
     <tgroup cols="4">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -131,7 +131,7 @@
     <item>What is an unwritten rule if you are not able to attend that class?</item>
     </list>
     <para id="para-00017">Some of your answers could have included the following:</para>
-    <table id="ch01tab10" summary="">
+    <table id="ch01tab10">
     <tgroup cols="4">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -170,7 +170,7 @@
     <note class="activity" id="note-00003"><label/>
     <title/>
     <para id="para-00036">For each statement, circle the number that best represents you, with 1 indicating that the statement is least like you, and 5 indicating that the statement is most like you.</para>
-    <table id="ch01tab11" summary=""><tgroup cols="5">
+    <table id="ch01tab11"><tgroup cols="5">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
     <colspec colnum="3" colname="c3"/>
@@ -203,7 +203,7 @@
     <section id="sect-00005">
     <title>What to Expect During the First Year</title>
     <para id="para-00040">While you may not experience every transition within your first year, there are rhythms to each semester of the first year and each year you are in college. Knowing what to expect each month or week can better prepare you to take advantage of the times that you have more confidence and weather through the times that seem challenging. Review the table on First-Year College Student Milestones. There will be milestones each semester you are in college, but these will serve as an introduction to what you should expect in terms of the rhythms of the semester.</para>
-    <table id="ch01tab12" summary="" class="top-titled">
+    <table id="ch01tab12" class="top-titled">
     <tgroup cols="5">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -230,7 +230,7 @@
     <section id="sect-00006">
     <title>Don’t Do It Alone</title>
     <para id="para-00045">Think about our earlier descriptions of two students, Reginald and Madison. What if they found that the first few weeks were a little harder than they had anticipated? Should they have given up and dropped out? Or should they have talked to someone about their struggles? Here is a secret about college success that not many people know: successful students seek help. They use resources. And they do that as often as necessary to get what they need. Your professors and advisors will expect the same from you, and your college will have all kinds of offices, staff, and programs that are designed to help. This bears calling out again: <emphasis effect="italics">you need to use those resources</emphasis>. These are called “help-seeking behaviors,” and along with self-advocacy, which is speaking up for your needs, they are essential to your success. As you get more comfortable adjusting to life in college, you will find that asking for help is easier. In fact, you may become really good at it by the time you graduate, just in time for you to ask for help finding a job! Review the table on Issues, Campus Resources, and Potential Outcomes for a few examples of times you may need to ask for help. See if you can identify where on campus you can find the same or a similar resource.</para>
-    <table id="ch01tab13" summary="" class="top-titled">
+    <table id="ch01tab13" class="top-titled">
     <tgroup cols="4">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>

@@ -9,7 +9,7 @@
 </metadata>
 
 <content>
-<table id="fs-idm226726592" summary="" class="unstyled unnumbered">
+<table id="fs-idm226726592" class="unstyled unnumbered">
  <tgroup cols="1">
  <tbody>
   <row>
@@ -51,7 +51,7 @@
 <note id="fs-idm243380208" class="activity"><label/>
 <title/>
 <para id="fs-idm219479760">Think about how you communicate to different types of people. For each person in the left-most column and each example of something you need to describe, write some notes on how you might communicate, the types of words you might use, or what you may consider when speaking to them.</para>
-<table id="ch08tab03" summary="" class="unnumbered">
+<table id="ch08tab03" class="unnumbered">
 <title/>
 <tgroup cols="4">
 <colspec colnum="1" colname="c1"/>
@@ -93,7 +93,7 @@
 <section id="fs-idm221438288" class="career-connection">
 <title/>
 <para id="fs-idm225746096">Check the methods of communication you would most likely use for each of the following. Then write an explanation for why you have chosen the various forms of communication and how your choice had a link to the purpose of communicating with these different people.</para>
-<table id="ch08tab04" summary="" class="unnumbered">
+<table id="ch08tab04" class="unnumbered">
 <title/>
 <tgroup cols="8">
 <colspec colnum="1" colname="c1"/>

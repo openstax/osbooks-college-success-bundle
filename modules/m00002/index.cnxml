@@ -6,7 +6,7 @@
     <md:uuid>97af6b57-0004-4218-99c1-f2cfedea8f30</md:uuid>
   </metadata>
   <content>
-    <table id="ch01tab02" summary="" class="unstyled unnumbered">
+    <table id="ch01tab02" class="unstyled unnumbered">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -30,7 +30,7 @@
     <para id="para-00004">To help answer this question, consider the following questioning technique called “The Five Whys” that was originally created by Sakichi Toyoda, a Japanese inventor, whose strategy was used by the Toyota Motor Company to find the underlying cause of a problem. While your decision to go to college is not a problem, the exercise is helpful to uncover your underlying purpose for enrolling in college.</para>
     <para id="para-00005">The process starts with a “Why” question that you want to know the answer to. Then, the next four “Why” questions use a portion of the previous answer to help you dig further into the answer to the original question. Here is an example of “The Five Whys,” with the first question as “Why are you in college?” The answers and their connection to the next “Why” questions have been underlined so you can see how the process works.</para>
     <para id="para-00006">While the example is one from a student who knows what she wants to major in, this process does not require that you have a specific degree or career in mind. In fact, if you are undecided, then you can explore the “why” of your indecision. For example, you may consider the following “Why” questions: Is it because you have lots of choices, or is it because you are not sure what you really want out of college?</para>
-    <table id="ch01tab03" summary="" class="unnumbered top-titled">
+    <table id="ch01tab03" class="unnumbered top-titled">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -68,7 +68,7 @@
     <note class="activity" id="note-00001"><label/>
     <title/>
     <para id="para-00009">Try “The Five Whys” yourself in the table below to help you get a better sense of your purpose and to give you a worthy answer for anyone who asks you “Why are you in college?”</para>
-    <table id="ch01tab04" summary="" class="unnumbered top-titled">
+    <table id="ch01tab04" class="unnumbered top-titled">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>

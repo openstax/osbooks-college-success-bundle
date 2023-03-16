@@ -9,7 +9,7 @@
 </metadata>
 
 <content>
-<table id="fs-idm378078112" summary="" class="unstyled unnumbered">
+<table id="fs-idm378078112" class="unstyled unnumbered">
  <tgroup cols="1">
  <tbody>
   <row>
@@ -132,7 +132,7 @@
 <para id="fs-idm376473008">Think of ways you may approach these situations.</para>
 </note>
 
-<table id="ch07tab01" summary="" class="top-titled">
+<table id="ch07tab01" class="top-titled">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>

@@ -6,7 +6,7 @@
     <md:uuid>95a2be89-1401-4c43-a7d2-fe1a7c70e966</md:uuid>
   </metadata>
   <content>
-    <table id="ch07tab08" summary="" class="unstyled unnumbered">
+    <table id="ch07tab08" class="unstyled unnumbered">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -61,7 +61,7 @@
     <section id="sect-00006">
     <title>What Is a Good Credit Score?</title>
     <para id="para-00019">Most credit scores have a 300–850 score range. The higher the score, the lower the risk to lenders. A “good” credit score is considered to be in the 670–739 score range.</para>
-    <table id="ch07tab09" summary="">
+    <table id="ch07tab09">
     <tgroup cols="3">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>

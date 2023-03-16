@@ -9,7 +9,7 @@
 </metadata>
 
 <content>
-<table id="fs-idm219236560" summary="" class="unstyled unnumbered">
+<table id="fs-idm219236560" class="unstyled unnumbered">
  <tgroup cols="1">
  <tbody>
   <row>
@@ -122,7 +122,7 @@
 <item>Practice testing—This has to do with <emphasis effect="italics">how</emphasis> you study. Hint: Don’t just reread content. You must quiz or test your ability to retrieve the information from your brain.</item></list>
 <section id="fs-idm229788128"><title>Spacing</title>
 <para id="fs-idm212135952">We all know that cramming is not an effective study strategy, but do we know why? Research on memory suggests that giving yourself time in between study sessions actually helps you forget the information. And forgetting, which sounds like it would be something you <emphasis effect="italics">don’t</emphasis> want to do, is actually good for your ability to remember information long-term. That’s because every time you forget something, you need to relearn it, leading to gains in your overall understanding and “storage” of the material. The table below demonstrates how <term class="no-emphasis" id="term-00002">spacing</term> works. Assume you are going to spend about four hours studying for a Sociology exam. Cramming would have you spending most of those four hours the night before the exam. With spacing, on the other hand, you would study a little bit each day.</para>
-<table id="ch06tab03" summary="" class="top-titled">
+<table id="ch06tab03" class="top-titled">
 <tgroup cols="8">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
@@ -148,7 +148,7 @@
 <section id="fs-idm231776400"><title>Interleaving</title>
 <para id="fs-idm231204288">One particular studying technique is called <term class="no-emphasis" id="term-00003">interleaving</term>, which calls for students to mix up the content that is being studied. This means not just spending the entire study session on one sort of problem and then moving on to a different sort of problem at a later time.</para>
 <para id="fs-idm229972128">If you take the schedule we used for the spacing example above, we can add the interleaving concepts to it. Notice that interleaving includes revisiting material from a previous chapter or unit or revisiting different types of problems or question sets. The benefit is that your brain is “mixing up” the information, which can sometimes lead to short-term forgetting but can lead to long-term memory and learning.</para>
-<table id="ch06tab04" summary="" class="top-titled">
+<table id="ch06tab04" class="top-titled">
 <tgroup cols="6">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>

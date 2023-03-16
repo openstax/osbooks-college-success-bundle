@@ -6,7 +6,7 @@
     <md:uuid>bbdcc570-4a36-4d33-8f70-64036f99beda</md:uuid>
   </metadata>
   <content>
-    <table id="fs-idm346033040" summary="" class="unstyled unnumbered">
+    <table id="fs-idm346033040" class="unstyled unnumbered">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -55,7 +55,7 @@
     <section id="sect-00004">
     <title>Eating Disorders</title>
     <para id="para-00011"><term class="no-emphasis" id="term-00004">Eating disorders</term> are not uncommon among students. Stress or anxiety may create a desire for some students to overeat, while others may develop a concern about body shape or weight and significantly reduce their food intake. The table below provides three common eating disorders.</para>
-    <table summary="" class="unnumbered" id="table-00001">
+    <table class="unnumbered" id="table-00001">
     <tgroup cols="4">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -92,7 +92,7 @@
     <section id="sect-00006">
     <title>Identifying Anxiety</title>
     <para id="para-00014">Experiencing stress is both normal and healthy to build both your self-efficacy and resilience. We typically experience different types of stressors throughout the day. Although stress doesn’t always feel good for us to experience and is often unpleasant when it is happening, it is typically for a short amount of time. Think about the last time you were stressed: taking an important final exam, having to present your work in front of classmates, introducing yourself to others at a new club you joined. These situations are typically very short and centered around a particular event. You may experience sweaty palms, a fast heartbeat, a headache or stomachache, but these feelings usually go away after the situation. To learn more about what stress does to your body, visit the <link url="https://openstax.org/l/apa-stress">American Psychological Association's page on stress</link>.</para>
-    <table summary="" class="unnumbered" id="table-00002">
+    <table class="unnumbered" id="table-00002">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -196,7 +196,7 @@
     <para id="para-00035">Before you began college you may have had a teacher, guidance counselor, a friend’s big brother/sister, or your own sibling, that helped you through difficult situations. Perhaps these individuals are still in your life but are harder to reach. This is your time to consider who you know now, and then start the process of building a bigger system.</para>
     <note class="activity" id="note-00002"><label/>
     <para id="para-00036">Take a moment now to list the names of a few people who are part of your support system. Do you have their phone number or email? Do you know where they live? Perhaps you have a new partner in one of your classes and you have a project you are working on together. This is a great start. Create a list of offices, locations, and contact information now so that when you need these resources you can quickly find the number to call. Learn about your campus mental health resources. You can even create a contact in your phone “student mental health services” so that it is ready when you need it.</para>
-    <table summary="" class="unnumbered" id="table-00003">
+    <table class="unnumbered" id="table-00003">
     <title>List of Resources</title>
     <tgroup cols="3">
     <colspec colnum="1" colname="c1"/>

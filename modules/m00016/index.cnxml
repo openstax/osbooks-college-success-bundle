@@ -6,7 +6,7 @@
     <md:uuid>d58cf531-dff1-4a41-a1cb-1a4d9088befc</md:uuid>
   </metadata>
   <content>
-    <table summary="" class="unstyled unnumbered" id="table-00001">
+    <table class="unstyled unnumbered" id="table-00001">
       <tgroup cols="1">
       <tbody>
        <row>
@@ -95,7 +95,7 @@
      </section>
      <section id="sect-00006"><title>Chart or Table</title>
      <para id="para-00025">Similar to creating an outline, you can develop a chart to compare and contrast main ideas in a note-taking session. Divide your paper into four or five columns with headings that include either the main topics covered in the lecture or categories such as How?, What?, When used?, Advantages/Pros, Disadvantages/Cons, or other divisions of the information. You write your notes into the appropriate columns as that information comes to light in the presentation. The table below provides an example of a table that can help you organize topics in a science course.</para>
-<table summary="" id="table-00003">
+<table id="table-00003">
   <tgroup cols="5">
     <thead>
       <row>
@@ -152,7 +152,7 @@
      </section>
      <section id="sect-00008"><title>Practicing Decipherable Shorthand</title>
      <para id="para-00030">Most college students don’t take a class in shorthand, once the domain of secretaries and executive assistants, but maybe they should. That almost-lost art in the age of computers could come in very handy during intense note-taking sessions. Elaborate shorthand systems do exist, but you would be better served in your college note-taking adventures to hone a more familiar, personalized form of shorthand to help you write more in a shorter amount of time. Seemingly insignificant shortcuts can add up to ease the stress note taking can induce—especially if you ever encounter an “I’m not going to repeat this” kind of presenter! Become familiar with these useful abbreviations:</para>
-     <table summary="" id="table-00002">
+     <table id="table-00002">
      <tgroup cols="2">
      <colspec colnum="1" colname="c1"/>
      <colspec colnum="2" colname="c2"/>

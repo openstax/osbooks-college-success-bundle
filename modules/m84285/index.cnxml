@@ -9,7 +9,7 @@
 </metadata>
 
 <content>
-<table id="fs-idm212565040" summary="" class="unstyled unnumbered">
+<table id="fs-idm212565040" class="unstyled unnumbered">
  <tgroup cols="1">
  <tbody>
   <row>
@@ -43,7 +43,7 @@
 </list>
 <para id="fs-idm253485168">Most importantly: Buy only the amount of education that returns more than you invest.</para>
 <para id="fs-idm261454400">According to <emphasis effect="italics">US News &amp; World Report</emphasis>, the average cost of college (including university) tuition and fees varies widely. In-state colleges average $9,716 while out-of-state students pay $21,629 for the same state college. Private colleges average $35,676. The local community college averages approximately $3,726. On-campus housing and meals, if available, can add approximately $10,000 per year.<footnote id="ch10rfin-16">https://www.usnews.com/education/best-colleges/paying-for-college/articles/what-you-need-to-know-about-college-tuition-costs</footnote> See the table below, and create your own chart after you research.</para>
-<table id="ch10tab09" summary="" class="top-titled">
+<table id="ch10tab09" class="top-titled">
 <tgroup cols="4">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
@@ -85,7 +85,7 @@
 <section id="fs-idm261964416"><title>Types of Financial Aid: How to Pay for College</title>
 <para id="fs-idm253492768">The true cost of college may be more than you expected, but you can make an effort to make the cost less than many might think. While the price tag for a school might say $40,000, the net cost of college may be significantly less. The net price for a college is the true cost a family will pay when grants, scholarships, and education tax benefits are factored in. The net cost for the average family at a public in-state school is only $3,980. And for a private school, free financial aid money reduces the cost to the average family from $32,410 per year to just $14,890.</para>
 <para id="fs-idm260308016">If you haven’t visited your college’s financial aid office recently, it’s probably worth it to talk with them. You must seek out opportunities, complete paperwork, and learn and meet criteria, but it can save you thousands of dollars.</para>
-<table id="ch10tab10" summary="">
+<table id="ch10tab10">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>

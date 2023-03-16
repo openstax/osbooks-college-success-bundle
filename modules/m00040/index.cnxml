@@ -6,7 +6,7 @@
     <md:uuid>f0f17780-dd47-4a61-9ef2-98c84806a79b</md:uuid>
   </metadata>
   <content>
-    <table id="ch08tab01" summary="" class="unstyled unnumbered">
+    <table id="ch08tab01" class="unstyled unnumbered">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -42,7 +42,7 @@
     <item>Time-bound—Time-bound means you set a specific time frame to achieve the goal. <emphasis effect="italics">I will get my paper written by Wednesday</emphasis> is time-bound. You know when you have to meet the goal. <emphasis effect="italics">I will get my paper written sometime soon</emphasis> does not help you plan how and when you will accomplish the goal.</item>
     </list>
     <para id="para-00009">In the following table you can see some examples of goals that do and do not follow the SMART system. As you read each one, think about what elements make them SMART or how you might change those that are not.</para>
-    <table id="ch08tab02" summary="">
+    <table id="ch08tab02">
     <title/>
     <tgroup cols="3">
     <colspec colnum="1" colname="c1"/>
@@ -136,7 +136,7 @@
     <para id="para-00018">While departing from your original goals may seem like a failure, taking the time to reflect on goals before you set them aside to develop new ones is a success. Pivoting from one goal to new, better-fitting goal involves increased self-awareness and increased knowledge about the processes surrounding your specific goal (such as the details of a college transfer, for example). With careful reflection and information seeking, your change in plans may even demonstrate learning and increased maturity!</para>
     <note class="application" id="note-00001"><label/>
     <para id="para-00019">Take a moment to practice setting long- and short-term goals. Your short-term goal should help you progress toward your long-term goal. Include a plan for when and how you will know if you’re on track or if you need to adjust your goals to match new priorities.</para>
-    <table id="ch08tab03" summary="" class="unnumbered">
+    <table id="ch08tab03" class="unnumbered">
     <title/>
     <tgroup cols="1">
     <colspec colnum="1" colname="c1"/>

@@ -12,7 +12,7 @@
 <para id="fs-idm214080864">This appendix provides reproductions of tables, forms, and related materials from throughout the book. You can print them or copy them for completion and inclusion in your records or to turn in and use in class.</para>
 <section id="fs-idm196096480">
 <title>Chapter 1: Exploring to College </title>
-<table id="ch01tab03" summary="" class="top-titled full-width">
+<table id="ch01tab03" class="top-titled full-width">
 <tgroup cols="2">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
@@ -31,7 +31,7 @@
 </section>
 <section id="fs-idm214088336">
 <title>Chapter 2: The Truth About Learning Styles</title>
-<table id="ch02tab04" summary="">
+<table id="ch02tab04">
 <title/>
 <tgroup cols="3">
 <colspec colnum="1" colname="c1"/>
@@ -50,7 +50,7 @@
 </tgroup>
 </table>
 
-<table id="ch02tab07" summary="">
+<table id="ch02tab07">
 <title/>
 <tgroup cols="4">
 <colspec colnum="1" colname="c1"/>
@@ -73,7 +73,7 @@
 </section>
 <section id="fs-idm232925056">
 <title>Chapter 3: Managing Your Time and Priorities</title>
-<table id="ch03tab04" summary="">
+<table id="ch03tab04">
 <tgroup cols="6">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
@@ -156,7 +156,7 @@
 <title>Chapter 4: Planning Your Academic Pathways</title>
 <note id="fs-idm222556912" class="application"><label/>
 <para id="fs-idm232382944">Take a moment to practice setting long- and short-term goals. Your short-term goal should help you progress toward your long-term goal. Include a plan for when and how you will know if you’re on track or if you need to adjust your goals to match new priorities.</para>
-<table id="ch04tab02" summary="" class="full-width">
+<table id="ch04tab02" class="full-width">
 <title/>
 <tgroup cols="1">
 <colspec colnum="1" colname="c1"/>
@@ -197,7 +197,7 @@
 </section>
 <section id="fs-idm234495952">
 <title>Chapter 8: Communicating</title>
-<table id="ch08tab01" summary="" class="full-width">
+<table id="ch08tab01" class="full-width">
 <title/>
 <tgroup cols="2">
 <colspec colnum="1" colname="c1"/>
@@ -217,7 +217,7 @@
 </tgroup>
 </table>
 
-<table id="ch08tab02" summary="">
+<table id="ch08tab02">
 <title/>
 <tgroup cols="4">
 <colspec colnum="1" colname="c1"/>
@@ -236,7 +236,7 @@
 </tgroup>
 </table>
 
-<table id="ch08tab03" summary="">
+<table id="ch08tab03">
 <title/>
 <tgroup cols="4">
 <colspec colnum="1" colname="c1"/>
@@ -255,7 +255,7 @@
 </tgroup>
 </table>
 
-<table id="ch08tab04" summary="">
+<table id="ch08tab04">
 <title/>
 <tgroup cols="8">
 <colspec colnum="1" colname="c1"/>

@@ -6,7 +6,7 @@
     <md:uuid>a98de810-7051-4819-bc34-ed1ac1dfff06</md:uuid>
   </metadata>
   <content>
-    <table summary="" class="unstyled unnumbered" id="table-00001">
+    <table class="unstyled unnumbered" id="table-00001">
       <tgroup cols="1">
       <tbody>
        <row>
@@ -33,7 +33,7 @@
      <section id="sect-00002">
      <title>Determining Reading Speed and Pacing</title>
      <para id="para-00006">To determine your reading speed, select a section of text—passages in a textbook or pages in a novel. Time yourself reading that material for exactly 5 minutes, and note how much reading you accomplished in those 5 minutes. Multiply the amount of reading you accomplished in 5 minutes by 12 to determine your average reading pace (5 times 12 equals the 60 minutes of an hour). Of course, your reading pace will be different and take longer if you are taking notes while you read, but this calculation of reading pace gives you a good way to estimate your reading speed that you can adapt to other forms of reading.</para>
-     <table summary="" class="top-titled" id="table-00002">
+     <table class="top-titled" id="table-00002">
      <tgroup cols="4">
      <colspec colnum="1" colname="c1"/>
      <colspec colnum="2" colname="c2"/>
@@ -59,7 +59,7 @@
      <section id="sect-00003"><title>Scheduling Set Times for Active Reading</title>
      <para id="para-00010">Active reading takes longer than reading through passages without stopping. You may not need to read your latest sci-fi series actively while you’re lounging on the beach, but many other reading situations demand more attention from you. Active reading is particularly important for college courses. You are a scholar actively engaging with the text by posing questions, seeking answers, and clarifying any confusing elements. Plan to spend at least twice as long to read actively than to read passages without taking notes or otherwise marking select elements of the text.</para>
      <para id="para-00011">To determine the time you need for active reading, use the same calculations you use to determine your traditional reading speed and double it. Remember that you need to determine your reading pace for all the classes you have in a particular semester and multiply your speed by the number of classes you have that require different types of reading. The table below shows the differences in time needed between reading quickly without taking notes and reading actively.</para>
-     <table summary="" class="top-titled" id="table-00003">
+     <table class="top-titled" id="table-00003">
      <tgroup cols="5">
      <colspec colnum="1" colname="c1"/>
      <colspec colnum="2" colname="c2"/>

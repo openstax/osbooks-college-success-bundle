@@ -9,7 +9,7 @@
 </metadata>
 
 <content>
-<table id="fs-idm366554080" summary="" class="unstyled unnumbered">
+<table id="fs-idm366554080" class="unstyled unnumbered">
  <tgroup cols="1">
  <tbody>
   <row>
@@ -32,7 +32,7 @@
 <title>Myers-Briggs: Identifying Personality Traits and Styles</title>
 <para id="fs-idm353298976">The Myers-Briggs system is one of the most popular personality tests, and it is relatively well known. It has seen a great deal of use in the business world with testing seminars and presentations on group dynamics. In fact, it is so popular that you may already be familiar with it and may have taken a test yourself to find out which of the 16 personality types you most favor.</para>
 <para id="fs-idm383260944">The basic concept of Myers-Briggs is that there are four main traits. These traits are represented by two opposites, seen in the table below.</para>
-<table id="ch02tab05" summary="">
+<table id="ch02tab05">
 <title/>
 <tgroup cols="3">
 <colspec colnum="1" colname="c1"/>
@@ -57,7 +57,7 @@
 <title>The Impact of Personality Styles on Learning</title>
 <para id="fs-idm376055696">To find out their own personality traits and learning styles, a person takes an approved Myers-Briggs test, which consists of a series of questions that help pinpoint their preferences. These preferences are then arranged in order to build a profile using each of the four categories.</para>
 <para id="fs-idm374597936">For example, a person that answered questions in a way that favored Extroverted tendencies along with a preference toward Sensing, Thinking, and Judging would be designated as ESTJ personality type. Another person that tended more toward answers that aligned with Intuitive traits than Sensing traits would fall into the ENTJ category.</para>
-<table id="ch02tab06" summary="">
+<table id="ch02tab06">
 <title>Personality Types</title>
 <tgroup cols="4">
 <colspec colnum="1" colname="c1"/>

@@ -9,7 +9,7 @@
 </metadata>
 
 <content>
-<table id="fs-idm397652336" summary="" class="unstyled unnumbered">
+<table id="fs-idm397652336" class="unstyled unnumbered">
  <tgroup cols="1">
  <tbody>
   <row>
@@ -52,7 +52,7 @@
 <para id="fs-idm374051648">Memorizing sounds is a very different type of learning than, say, acquiring a deep understanding of Einstein’s general theory of relativity.</para>
 <para id="fs-idm412318592">Notice in the comparative examples of music and physics that the different levels of learning are being defined by what they allow you to know or do. When classifying learning in this way, people usually agree on six different levels of learning. In this next section we will take a detailed look at each of these.</para>
 <para id="fs-idm402103040">In the table below, the cells in the left column each contain one of the main levels of learning, categorized by what the learning allows you to do. To the right of each category are the “skill acquired” and a set of real-world examples of what those skills might be as applied to a specific topic. This set of categories is called Bloom’s Taxonomy, and it is often used as a guide for educators when they are determining what students should learn within a course.</para>
-<table id="ch02tab01" summary="">
+<table id="ch02tab01">
 <title/>
 <tgroup cols="4">
 <colspec colnum="1" colname="c1"/>

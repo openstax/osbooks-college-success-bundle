@@ -9,7 +9,7 @@
 </metadata>
 
 <content>
-<table id="fs-idm385375712" summary="" class="unstyled unnumbered">
+<table id="fs-idm385375712" class="unstyled unnumbered">
  <tgroup cols="1">
  <tbody>
   <row>
@@ -34,7 +34,7 @@
 <note id="fs-idm370685504" class="activity"><label/>
 <title/>
 <para id="fs-idm382261264">In your opinion, what are the rules for different forms of communication? List the rules or guidelines related to each communication form listed in the table below. An example of a rule for the telephone might be identifying yourself when you call, in case the person didn’t recognize your number.</para>
-<table id="ch08tab01" summary="" class="unnumbered">
+<table id="ch08tab01" class="unnumbered">
 <title/>
 <tgroup cols="2">
 <colspec colnum="1" colname="c1"/>

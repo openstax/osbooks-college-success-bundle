@@ -6,7 +6,7 @@
     <md:uuid>d60ee033-9356-4a04-b863-bf64b37f3956</md:uuid>
   </metadata>
   <content>
-    <table summary="" class="unstyled unnumbered" id="table-00001">
+    <table class="unstyled unnumbered" id="table-00001">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -42,7 +42,7 @@
     <para id="para-00018">“I’m leaving. If you aren’t interested in talking about your work, I’m not interested in staying.” And so Professor Marsh leaves – concerned about Paige’s attitude, lack of boundaries, and well-being.</para>
     </quote>
     <para id="para-00019">Have you experienced a situation when you’ve been so frustrated you wanted to scream? Would you have responded differently? Do you feel Paige was in control of her emotions? In this example, Paige’s reaction was driven by her emotions. Physically she experienced sweaty palms, a flushed face, and a trembling lip. Psychologically she was angry and hostile. Behaviorally, she was waving her paper in the air and yelling at the professor.</para>
-    <table summary="" class="unnumbered top-titled" id="table-00002">
+    <table class="unnumbered top-titled" id="table-00002">
     <tgroup cols="4">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -85,7 +85,7 @@
     </list>
     <note class="application" id="note-00001"><label/>
     <para id="para-00026">Choose one health goal from each of the three areas described above and write down how you will ensure that you meet each goal by listing your tactics, or what you will do regularly to meet the goal.</para>
-    <table summary="" class="unnumbered" id="table-00003">
+    <table class="unnumbered" id="table-00003">
     <tgroup cols="3">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>

@@ -6,7 +6,7 @@
     <md:uuid>d58efb18-ec2f-4154-95ad-08d721516dcf</md:uuid>
   </metadata>
   <content>
-    <table id="ch07tab01" summary="" class="unstyled unnumbered">
+    <table id="ch07tab01" class="unstyled unnumbered">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -78,7 +78,7 @@
     </section>
     <section id="sect-00006">
     <title>3. Write Down Your Financial Plan</title>
-    <table id="ch07tab02" summary="">
+    <table id="ch07tab02">
     <tgroup cols="5">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>

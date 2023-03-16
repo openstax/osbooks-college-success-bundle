@@ -6,7 +6,7 @@
     <md:uuid>72a21a4e-db85-498c-bcc5-313547aaa09d</md:uuid>
   </metadata>
   <content>
-    <table summary="" class="unstyled unnumbered" id="table-00001">
+    <table class="unstyled unnumbered" id="table-00001">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -43,7 +43,7 @@
     </list>
     </note>
     <para id="para-00006">Upon reflection from the activity above, where is your relationship with social media? To consider the relationship another way, think about the questions in the table below? Which more accurately describes your most frequent feelings when using social media?</para>
-    <table summary="" class="unnumbered" id="table-00002">
+    <table class="unnumbered" id="table-00002">
     <tgroup cols="3">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -113,7 +113,7 @@
     <para id="para-00021">For individuals experiencing cyberbullying, it is much harder to avoid attacks and/or escape as the bullying can take place any time of the day. Cyberbullying has a larger audience due to how well connected social media is throughout the community, state, country, and world. Posts and conversations on social media have limitless reach which often puts the victim in a situation with very little control. Once information is in the virtual world, the text becomes very hard to remove and can “go viral” where it becomes so popular you can find it on any search platform.</para>
     <para id="para-00022">Cyberbullying via social media can affect people of all ages, and puts individuals in a difficult situation in which they cannot adequately defend themselves. The roles of each person involved in cyberbullying is consistently in a state of transition as people switch roles from being the victim, to the perpetrator, or the bystander as social media features (i.e., like, share) are utilized. In a recent study of US college students, 1 out of 2 students report being a victim of cyberbullying, while 1 out of 4 students report being a perpetrator at least one time per month.<footnote id="ch06rfin-21">Giumetti GW. Aggressive Behavior 2022;48:40. “Predictors and outcomes of cyberbullying among college students: A two-wave study.” https://onlinelibrary.wiley.com/doi/abs/10.1002/ab.21992</footnote></para>
     <para id="para-00023">Prevention strategies to decrease frequency of cyberbullying events are limited; however, research addressing victimization has noted the most effective strategy is to engage your social support network. Together you and a supportive person in your life can discuss the situation and make a plan to avoid further cyberbullying. Eliminating your social media platform where the attacks are occurring is not the only solution. As social media companies are aware of the realities that their users may experience such negative events, systems have been put in place to report users engaging in such attacks as well as enabling features to block or modify account privacy to prevent situations in the future. The table below provides common examples of cyberbullying and their explanations.</para>
-    <table summary="" class="unnumbered" id="table-00003">
+    <table class="unnumbered" id="table-00003">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -142,7 +142,7 @@
     <note class="get-connected" id="note-00002"><label/>
     <para id="para-00024">If you feel you or someone you know is a victim, a perpetrator, or that you are a witness to cyberbullying you can contact student services and they can help safely guide you to the correct resources on your campus. If you need immediate assistance, IT departments and campus security can help you as well as recommend local law enforcement if illegal activity is at play including but not limited to harassment and stalking. Keep a record of the details including dates and times and take pictures when possible.</para>
     <para id="para-00025">For more information on cyberbullying consult these resources.</para>
-    <table summary="" class="unnumbered top-titled" id="table-00004">
+    <table class="unnumbered top-titled" id="table-00004">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
