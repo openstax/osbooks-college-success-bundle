@@ -10,7 +10,7 @@
   </metadata>
   <col:content>
     <col:subcollection>
-      <md:title>Exploring College</md:title>
+      <md:title>Transitioning to College</md:title>
       <col:content>
         <col:module document="m00001"/>
         <col:module document="m00002"/>
@@ -31,7 +31,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Note Taking</md:title>
+      <md:title>Reading and Notetaking</md:title>
       <col:content>
         <col:module document="m00012"/>
         <col:module document="m00013"/>
@@ -41,7 +41,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Learning, Memory, Studying, and Test Taking</md:title>
+      <md:title>Studying, Memory, and Test Taking</md:title>
       <col:content>
         <col:module document="m00017"/>
         <col:module document="m00018"/>
@@ -52,7 +52,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Healthy Relationships</md:title>
+      <md:title>Building Relationships</md:title>
       <col:content>
         <col:module document="m00023"/>
         <col:module document="m00024"/>
@@ -61,7 +61,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Health and Well-Being</md:title>
+      <md:title>Maintaining Your Mental Health and Managing Stress</md:title>
       <col:content>
         <col:module document="m00027"/>
         <col:module document="m00028"/>
@@ -83,7 +83,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Planning Your Academic Pathways</md:title>
+      <md:title>Planning Your Future</md:title>
       <col:content>
         <col:module document="m00039"/>
         <col:module document="m00040"/>
