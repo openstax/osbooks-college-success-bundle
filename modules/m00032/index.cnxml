@@ -142,7 +142,7 @@
     <note class="get-connected" id="note-00002"><label/>
     <para id="para-00024">If you feel you or someone you know is a victim, a perpetrator, or that you are a witness to cyberbullying you can contact student services and they can help safely guide you to the correct resources on your campus. If you need immediate assistance, IT departments and campus security can help you as well as recommend local law enforcement if illegal activity is at play including but not limited to harassment and stalking. Keep a record of the details including dates and times and take pictures when possible.</para>
     <para id="para-00025">For more information on cyberbullying consult these resources.</para>
-    <table class="unnumbered top-titled" id="table-00004">
+    <table class="unnumbered" id="table-00004">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
