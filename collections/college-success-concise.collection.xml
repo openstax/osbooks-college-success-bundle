@@ -1,13 +1,13 @@
-<?xml version="1.0"?>
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Amy Baldwin">
-  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
+  <col:metadata>
     <md:title>College Success Concise</md:title>
-    <md:language>en</md:language>
-    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
-    <md:uuid>62a49025-8cd8-407c-9cfb-c7eba55cf1c6</md:uuid>
     <md:slug>college-success-concise</md:slug>
-  </metadata>
+    <md:language>en</md:language>
+    <md:uuid>62a49025-8cd8-407c-9cfb-c7eba55cf1c6</md:uuid>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
+  </col:metadata>
   <col:content>
+    <col:module document="m00044"/>
     <col:subcollection>
       <md:title>Transitioning to College</md:title>
       <col:content>
