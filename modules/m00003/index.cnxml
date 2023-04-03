@@ -33,37 +33,18 @@
     </list>
     <para id="para-00004"><link target-id="table-ch01tab01a" document="m00003"/> provides a succinct definition for each of the areas as well as examples of how you can demonstrate that you have adjusted. Think about what you have done so far to navigate these transitions in addition to other things you can do to make your college experience a successful one.</para>
     <table summary="A table lists the six areas of adjustment for first-year college students as academic, cultural, emotional, financial, intellectual, and social." id="table-ch01tab01a">
-      <tgroup cols="7">
-      <colspec colnum="1" colname="c1" colwidth="1*"/>
-      <colspec colnum="2" colname="c2" colwidth="1*"/>
-      <colspec colnum="3" colname="c3" colwidth="1*"/>
-      <colspec colnum="4" colname="c4" colwidth="1*"/>
-      <colspec colnum="5" colname="c5" colwidth="1*"/>
-      <colspec colnum="6" colname="c6" colwidth="1*"/>
-      <colspec colnum="7" colname="c7" colwidth="1*"/>
+      <tgroup cols="2">
+      <colspec colnum="1" colname="c1"/>
+      <colspec colnum="2" colname="c2"/>
       <thead>
       <row>
-        <entry>&#160;</entry>
-      <entry>Academic</entry>
-      <entry>Cultural</entry>
-      <entry>Emotional</entry>
-      <entry>Financial</entry>
-      <entry>Intellectual</entry>
-      <entry>Social</entry>
+        <entry>What Is It?</entry>
+        <entry>Students exhibit it when they:</entry>
       </row>
       </thead>
       <tbody>
       <row>
-      <entry>What Is It?</entry>
-      <entry>Students will take a more active role in their learning than they had to in high and have the ability to meet the increasing demands of change.</entry>
-      <entry>Students will interact with others of various cultures, religious beliefs, sexual identities and orientations, ages and abilities.</entry>
-      <entry>Students will need to be prepared for the stressors of college and develop habits and behaviours to cope with these changes.</entry>
-      <entry>Students will need to demonstrate basic financial literacy, an understanding of the cost of college, and methods of paying for those costs.</entry>
-      <entry>Students will have the opportunity to join an academic community that includes classmates, faculty, support personnel, and administrators.</entry>
-      <entry>Students will be faced with shifts in their relationships, finding a new peer group and handling the pressure on of fitting in.</entry>
-      </row>
-      <row>
-      <entry>Students exhibit it when they:</entry>
+      <entry>Academic</entry>
       <entry>
       <list list-type="bulleted" id="list-00003">
       <item>Take an active role in learning.</item>
@@ -72,6 +53,9 @@
       <item>Make adjustments to learning strategies as needed.</item>
       </list>
       </entry>
+      </row>
+      <row>
+      <entry>Cultural</entry>
       <entry>
       <list list-type="bulleted" id="list-00004">
       <item>Accepts and welcome differences in others.</item>
@@ -79,6 +63,9 @@
       <item>Seek opportunities to explore other cultures.</item>
       </list>
       </entry>
+      </row>
+      <row>
+      <entry>Emotional</entry>
       <entry>
       <list list-type="bulleted" id="list-00005">
       <item>Readily handle the stressors of college life.</item>
@@ -86,6 +73,9 @@
       <item>Seek support from campus resources.</item>
       </list>
       </entry>
+      </row>
+      <row>
+      <entry>Financial</entry>
       <entry>
       <list list-type="bulleted" id="list-00006">
       <item>Manage money independently.</item>
@@ -93,6 +83,9 @@
       <item>Explore job and aid opportunities.</item>
       </list>
       </entry>
+      </row>
+      <row>
+      <entry>Intellectual</entry>
       <entry>
       <list list-type="bulleted" id="list-00007">
       <item>Engage in intellectual discussions.</item>
@@ -100,6 +93,9 @@
       <item>Integrate new ideas into belief systems.</item>
       </list>
       </entry>
+      </row>
+      <row>
+      <entry>Social</entry>
       <entry>
       <list list-type="bulleted" id="list-00008">
       <item>Join a club or organization.</item>
@@ -112,14 +108,14 @@
       </tbody>
       </tgroup>
       <caption>Six Areas of Adjustment for First-Year College Students. (Credit: Based on work by Laurie Hazard, Ed.D., and Stephanie Carter, M.A.)</caption>
-      </table>
+</table>
     <quote id="quote-00001">
     <para id="para-00005"><emphasis effect="bold">“Experiencing an intellectual ‘a-ha!’ moment is one of the most rewarding parts of college, right up there with moving across the graduation stage with a degree in hand.”</emphasis></para>
     </quote>
     <note class="analysis-question" id="note-00001"><label/>
     <para id="para-00006">Which of the six areas of adjustment do you think will be the least challenging for you, and which do you think will be most challenging? What can you do now to prepare for the more challenging transitions?</para>
     </note>
-    <para id="para-00007">Your academic confidence and ability to persist through common college challenges and stressful situations will help you develop long-term success strategies. Take this online survey (<link url="https://openstax.org/l/collegesurvey1-5">What Students Say</link>. The link also provides current data on what other students think about these questions.</para>
+
     </section>
     </content>
 </document>
