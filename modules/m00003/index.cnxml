@@ -32,18 +32,87 @@
     <item><emphasis>Social adjustment</emphasis>. A new place often equals new people. But in college, those new relationships can have even more meaning. Getting to know professors not only can help you learn more in your classes, but it can also help you figure out what career pathway you want to take and how to get desired internships and jobs. Learning to reduce conflicts during group work or when living with others helps build essential workplace and life skills.</item>
     </list>
     <para id="para-00004"><link target-id="table-ch01tab01a" document="m00003"/> provides a succinct definition for each of the areas as well as examples of how you can demonstrate that you have adjusted. Think about what you have done so far to navigate these transitions in addition to other things you can do to make your college experience a successful one.</para>
-    <table id="table-ch01tab01a" class="unstyled" summary="A table lists the six areas of adjustment for first-year college students as academic, cultural, emotional, financial, intellectual, and social.">
-      <title></title>
-      <tgroup cols="1">
+    <table summary="A table lists the six areas of adjustment for first-year college students as academic, cultural, emotional, financial, intellectual, and social." id="table-ch01tab01a">
+      <tgroup cols="7">
       <colspec colnum="1" colname="c1"/>
+      <colspec colnum="2" colname="c2"/>
+      <colspec colnum="3" colname="c3"/>
+      <colspec colnum="4" colname="c4"/>
+      <colspec colnum="5" colname="c5"/>
+      <colspec colnum="6" colname="c6"/>
+      <colspec colnum="7" colname="c7"/>
+      <thead>
+      <row>
+      <entry>Academic</entry>
+      <entry>Cultural</entry>
+      <entry>Emotional</entry>
+      <entry>Financial</entry>
+      <entry>Intellectual</entry>
+      <entry>Social</entry>
+      </row>
+      </thead>
       <tbody>
       <row>
-        <entry align="center"><media id="ch01media04a" alt="A table lists the six areas of adjustment for first-year college students as academic, cultural, emotional, financial, intellectual, and social." longdesc="Table_01_001-longdec.txt"><image mime-type="image/png" src="../../media/CS_Table_01_01_001.png"/></media></entry>
-        </row>
+      <entry>What Is It?</entry>
+      <entry>Students will take a more active role in their learning than they had to in high and have the ability to meet the increasing demands of change.</entry>
+      <entry>Students will interact with others of various cultures, religious beliefs, sexual identities and orientations, ages and abilities.</entry>
+      <entry>Students will need to be prepared for the stressors of college and develop habits and behaviours to cope with these changes.</entry>
+      <entry>Students will need to demonstrate basic financial literacy, an understanding of the cost of college, and methods of paying for those costs.</entry>
+      <entry>Students will have the opportunity to join an academic community that includes classmates, faculty, support personnel, and administrators.</entry>
+      <entry>Students will be faced with shifts in their relationships, finding a new peer group and handling the pressure on of fitting in.</entry>
+      </row>
+      <row>
+      <entry>Students exhibit it when they:</entry>
+      <entry>Take an active role in learning.</entry>
+      <entry>
+      <list list-type="bulleted" id="list-00003">
+      <item>Attain college-level learning strategies.</item>
+      <item>Are open to feedback and change.</item>
+      <item>Make adjustments to learning strategies as needed.</item>
+      </list>
+      </entry>
+      <entry>
+      <list list-type="bulleted" id="list-00004">
+      <item>Accepts and welcome differences in others.</item>
+      <item>Recognize their own cultural identity.</item>
+      <item>Seek opportunities to explore other cultures.</item>
+      </list>
+      </entry>
+      <entry>
+      <list list-type="bulleted" id="list-00005">
+      <item>Readily handle the stressors of college life.</item>
+      <item>Develop emotional coping strategies.</item>
+      <item>Seek support from campus resources.</item>
+      </list>
+      </entry>
+      <entry>
+      <list list-type="bulleted" id="list-00006">
+      <item>Manage money independently.</item>
+      <item>Recognize the costs of college.</item>
+      <item>Explore job and aid opportunities.</item>
+      </list>
+      </entry>
+      <entry>
+      <list list-type="bulleted" id="list-00007">
+      <item>Engage in intellectual discussions.</item>
+      <item>Are open to new ideas, subject areas, and career choices.</item>
+      <item>Integrate new ideas into belief systems.</item>
+      </list>
+      </entry>
+      <entry>
+      <list list-type="bulleted" id="list-00008">
+      <item>Join a club or organization.</item>
+      <item>From supportive, healthy relationships.</item>
+      <item>Understand the impact of peer pressure.</item>
+      <item>Manage conflict in relationships.</item>
+      </list>
+      </entry>
+      </row>
       </tbody>
       </tgroup>
       <caption>Six Areas of Adjustment for First-Year College Students. (Credit: Based on work by Laurie Hazard, Ed.D., and Stephanie Carter, M.A.)</caption>
       </table>
+      
     <quote id="quote-00001">
     <para id="para-00005"><emphasis effect="bold">“Experiencing an intellectual ‘a-ha!’ moment is one of the most rewarding parts of college, right up there with moving across the graduation stage with a degree in hand.”</emphasis></para>
     </quote>
