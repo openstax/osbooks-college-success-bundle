@@ -6,10 +6,9 @@
     <md:uuid>85c4a738-cab4-4e8e-9eb7-560c428cd13c</md:uuid>
   </metadata>
   <content class="preface">
-    <para id="fs-idm373534496"> Welcome to <emphasis effect="italics">College Success 
-      Concise</emphasis>, an OpenStax resource. This textbook was written to increase student access
-      to high-quality learning materials, maintaining highest standards of academic rigor at little
-      to no cost. </para>
+    <para id="fs-idm373534496"> Welcome to <emphasis effect="italics">College Success Concise</emphasis>,
+      an OpenStax resource. This textbook was written to increase student access to high-quality
+      learning materials, maintaining highest standards of academic rigor at little to no cost. </para>
     <section id="fs-idm1391835536">
       <title>About OpenStax</title>
       <para id="fs-idm1308855168"> OpenStax is part of Rice University, which is a 501(c)(3)
@@ -24,8 +23,8 @@
       <section id="fs-idm1379263872">
         <title>Customization</title>
         <para id="fs-idm384526512">
-          <emphasis effect="italics">College Success Concise</emphasis> is licensed under a
-          Creative Commons Attribution 4.0 International (CC BY) license, which means that you can
+          <emphasis effect="italics">College Success Concise</emphasis> is licensed under a Creative
+          Commons Attribution 4.0 International (CC BY) license, which means that you can
           distribute, remix, and build upon the content, as long as you provide attribution to
           OpenStax and its content contributors. </para>
         <para id="fs-idm1628513248"> Because our books are openly licensed, you are free to use the
@@ -36,7 +35,7 @@
         <para id="fs-idm377486512"> Instructors also have the option of creating a customized
           version of their OpenStax book. The custom version can be made available to students in
           low-cost print or digital form through their campus bookstore. Visit the Instructor
-          Resources section of your book page onOpenStax.org for more information. </para>
+          Resources section of your book page on OpenStax.org for more information. </para>
       </section>
       <section id="fs-idm358003840">
         <title>Art Attribution in <emphasis effect="italics">College Success Concise</emphasis></title>
@@ -53,10 +52,10 @@
         <para id="fs-idm1767937312"> All OpenStax textbooks undergo a rigorous review process.
           However, like any professional-grade textbook, errors sometimes occur. Since our books are
           web based, we can make updates periodically when deemed pedagogically necessary. If you
-          have a correction to suggest, submit it through the link on your book page onOpenStax.org.
-          Subject matter experts review all errata suggestions. OpenStax is committed to remaining
-          transparent about all updates, so you will also find a list of past errata changes on your
-          book page onOpenStax.org. </para>
+          have a correction to suggest, submit it through the link on your book page on
+          OpenStax.org. Subject matter experts review all errata suggestions. OpenStax is committed
+          to remaining transparent about all updates, so you will also find a list of past errata
+          changes on your book page on OpenStax.org. </para>
       </section>
       <section id="fs-idm1356396768">
         <title>Format</title>
@@ -76,7 +75,7 @@
         program-specific needs. </para>
       <para id="fs-idm1287299840">
         <emphasis effect="italics">College Success</emphasis> and <emphasis effect="italics">College
-        Success Concise</emphasis> address the evolving challenges and opportunities of today’s
+        Success Concise</emphasis> address the evolving challenges and opportunities of today's
         diverse students. The intensive development work leveraged expertise from hundreds of FYE
         coordinators and faculty across the country. In particular, this Concise version was crafted
         with the input of dozens of course coordinators and faculty who used the original text in a
@@ -87,10 +86,10 @@
         version was holistically edited and updated where needed. Users will see distinctive
         improvements and additions in certain areas, such as a new section on group work and greatly
         expanded coverage of stress, social media, and wellbeing. </para>
-      <para id="para-00002"> While some content was removed in creating this derivative, our open license and
-        platform allow instructors and students to reliably utilize content from the original
-        College Success text. As with all of our books, instructors can link to individual textbook
-        sections or utilize the various means of customization. </para>
+      <para id="para-00002"> While some content was removed in creating this derivative, our open
+        license and platform allow instructors and students to reliably utilize content from the
+        original College Success text. As with all of our books, instructors can link to individual
+        textbook sections or utilize the various means of customization. </para>
       <para id="para-00003">
         <emphasis effect="italics">College Success Concise</emphasis> shares the vision and approach
         of the original textbook, and is rooted in core values of motivation, growth mindset,
@@ -104,7 +103,7 @@
         each section through applications and activities. </para>
       <para id="fs-idm1315315328">
         <emphasis effect="bold">The diversity and intersectionality of students</emphasis> were
-        considered in every example, context, and application, and the text’s active surveys and
+        considered in every example, context, and application, and the text's active surveys and
         detailed profiles make student voices a key element of the reading. </para>
       <para id="fs-idm339542304">
         <emphasis effect="bold">Interconnected topics</emphasis> are acknowledged and built upon,
@@ -114,8 +113,8 @@
       <para id="fs-idm1258580064">
         <emphasis effect="bold">Openly licensed and free in all digital formats</emphasis>, the text
         provides unparalleled flexibility in its use, customization, and accessibility for faculty
-        and students. The book is provided at no cost in online, pdf, epub, Kindle, and other
-        formats. It is also available in print for a very low price. </para>
+        and students. The book is provided at no cost in online, PDF, and other formats. It is also
+        available in print for a very low price. </para>
       <para id="fs-idm369704480">
         <emphasis effect="bold">Robust instructor ancillaries</emphasis> will support faculty and
         course designers with teaching notes, additional exercises, worksheet versions of the
@@ -133,21 +132,21 @@
             college and life beyond the classroom.</item>
           <item><emphasis effect="bold">Analysis and Applications:</emphasis> Peppered through every
             chapter are opportunities for students to reflect on concepts, try out processes, and
-            apply what they’re learning.</item>
+            apply what they're learning.</item>
           <item><emphasis effect="bold">Student Surveys:</emphasis> Chapters begin with a survey,
             posing questions that will get readers engaged in considering their own level of
-            connection and understanding of the chapter’s concept, from time management to personal
+            connection and understanding of the chapter's concept, from time management to personal
             finance to career planning.</item>
         </list>
       </section>
       <section id="eip-106">
         <title>Estimated Module Completion Time </title>
-        <para id="eip-162"> Each section of College Success Concise includes an estimate of the
-          average time needed to read through the material and work on the activities and
-          applications. Each student will engage the material differently, and faculty will likely
-          prioritize or assign certain components over others. As a result, the actual time students
-          spend will vary greatly. OpenStax will periodically update these estimates based on user
-          feedback. </para>
+        <para id="eip-162"> Each section of <emphasis effect="italics">College Success Concise</emphasis>
+          includes an estimate of the average time needed to read through the material and work on
+          the activities and applications. Each student will engage the material differently, and
+          faculty will likely prioritize or assign certain components over others. As a result, the
+          actual time students spend will vary greatly. OpenStax will periodically update these
+          estimates based on user feedback. </para>
       </section>
       <section id="sect-00001">
         <title>Answers to Questions in the Book</title>
@@ -162,23 +161,23 @@
       <title>Additional Resources</title>
       <section id="eip-858">
         <title>Student and Instructor Resources</title>
-        <para id="eip-460"> We’ve compiled additional resources for both students and instructors,
+        <para id="eip-460"> We've compiled additional resources for both students and instructors,
           including Getting Started Guides, lecture slides, and a Test Bank. </para>
         <para id="eip-959">The most robust of these is the Instructor Resource Manual, developed by
           author Amy Baldwin based on extensive experience and requests from faculty reviewers and
           survey respondents. For each chapter, the IRM will contain:</para>
         <list id="eip-911">
           <item>Detailed teaching suggestions</item>
-          <item>Bloom’s Taxonomy matrix, indicating the alignment of each chapter activity and
-            application to the level of Bloom’s it fulfills.</item>
+          <item>Bloom's Taxonomy matrix, indicating the alignment of each chapter activity and
+            application to the level of Bloom's it fulfills.</item>
           <item>Overarching “big picture” questions from the chapter</item>
           <item>Topical and cumulative case scenario activities, which present a realistic situation
             based on the concepts, and ask students to respond via writing or another method. These
             may be adapted and assigned by instructors. </item>
         </list>
         <para id="eip-206">Instructor resources require a verified instructor account, which you can
-          apply for when you log in or create your account onOpenStax.org. Instructor and student
-          resources are typically available within a few months after the book’s initial
+          apply for when you log in or create your account on OpenStax.org. Instructor and student
+          resources are typically available within a few months after the book's initial
           publication. Take advantage of these resources to supplement your OpenStax book.</para>
       </section>
       <section id="eip-600">
@@ -197,7 +196,7 @@
         <title>Technology Partners</title>
         <para id="eip-205"> As allies in making high-quality learning materials accessible, our
           technology partners offer optional low-cost tools that are integrated with OpenStax books.
-          To access the technology options for your text, visit your book page onOpenStax.org. </para>
+          To access the technology options for your text, visit your book page on OpenStax.org. </para>
       </section>
       <section id="eip-481">
         <title>About the Authors</title>
@@ -217,33 +216,33 @@
         </section>
         <section id="eip-316">
           <title>Contributing Authors</title>
-          <para id="eip-467">Lisa August, Canisius College<newline/> James Bennett, Herzing
-            University<newline/> Larry Buland, Metropolitan Community College<newline/> Sabrina
-            Mathues, Brookdale Community College<newline/> Susan Monroe, Northern Virginia
-            Community College<newline/> MJ O’Leary, Wellness Multiplied <newline/> Ann Pearson,
-            San Jacinto College<newline/> Joshua Troesh, El Camino College<newline/> Margit
-            Misangyi Watts, University of Hawai’i at Manoa<newline/>
+          <para id="eip-467">Lisa August, Canisius College<newline /> James Bennett, Herzing
+            University<newline /> Larry Buland, Metropolitan Community College<newline /> Sabrina
+            Mathues, Brookdale Community College<newline /> Susan Monroe, Northern Virginia
+            Community College<newline /> MJ O'Leary, Wellness Multiplied <newline /> Ann Pearson,
+            San Jacinto College<newline /> Joshua Troesh, El Camino College<newline /> Margit
+            Misangyi Watts, University of Hawai'i at Manoa<newline />
 
           </para>
         </section>
         <section id="eip-146">
           <title>Reviewers</title>
-          <para id="eip-909">Nagash Clarke, Washtenaw Community College<newline/> Laura Crisp,
-            Pellissippi State Community College<newline/> Abbie Finnegan, Des Moines Area Community
-            College<newline/> Kim Fragopoulos, University of Massachusetts-Boston<newline/> Maria
-            Galyon, Jefferson Community &amp; Technical College<newline/> Kimberly A. Griffith,
-            Bristol Community College<newline/> Anna Howell, Portland Community College<newline/>
-            Sarah Howard, The Ohio State University<newline/> Stacy L. Hurley, Baltimore County
-            Community College<newline/> Dawn Lee, Charleston Southern University<newline/> Gail
-            Malone, South Plains College<newline/> Kim Martin, Chemeketa Community College<newline/>
-            Sherri Powell, Shawnee State University <newline/> Bobby E. Roberts, Jr., Savannah
-            State University<newline/> Laila M. Shishineh, University of Maryland, Baltimore County <newline/>
-            Shavecca M. Snead, Albany State University<newline/> Jason Smethers, University of
-            Tennessee, Knoxville<newline/> Angela C. Thering, SUNY Buffalo State <newline/>
-            Antione D. Tomlin, Anne Arundel Community College<newline/> Jessica Traylor, Gordon
-            State College<newline/> Makeda K. Turner, University of Michigan<newline/> Dave Urso,
-            Blue Ridge Community College<newline/> Margit Misangyi Watts, University of Hawaii at
-            Manoa<newline/> Ann Wolf, New Mexico Highlands University<newline/>
+          <para id="eip-909">Nagash Clarke, Washtenaw Community College<newline /> Laura Crisp,
+            Pellissippi State Community College<newline /> Abbie Finnegan, Des Moines Area Community
+            College<newline /> Kim Fragopoulos, University of Massachusetts-Boston<newline /> Maria
+            Galyon, Jefferson Community &amp; Technical College<newline /> Kimberly A. Griffith,
+            Bristol Community College<newline /> Anna Howell, Portland Community College<newline />
+            Sarah Howard, The Ohio State University<newline /> Stacy L. Hurley, Baltimore County
+            Community College<newline /> Dawn Lee, Charleston Southern University<newline /> Gail
+            Malone, South Plains College<newline /> Kim Martin, Chemeketa Community College<newline />
+            Sherri Powell, Shawnee State University <newline /> Bobby E. Roberts, Jr., Savannah
+            State University<newline /> Laila M. Shishineh, University of Maryland, Baltimore County <newline />
+            Shavecca M. Snead, Albany State University<newline /> Jason Smethers, University of
+            Tennessee, Knoxville<newline /> Angela C. Thering, SUNY Buffalo State <newline />
+            Antione D. Tomlin, Anne Arundel Community College<newline /> Jessica Traylor, Gordon
+            State College<newline /> Makeda K. Turner, University of Michigan<newline /> Dave Urso,
+            Blue Ridge Community College<newline /> Margit Misangyi Watts, University of Hawaii at
+            Manoa<newline /> Ann Wolf, New Mexico Highlands University<newline />
           </para>
         </section>
       </section>
