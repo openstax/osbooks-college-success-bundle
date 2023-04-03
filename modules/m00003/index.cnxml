@@ -34,15 +34,16 @@
     <para id="para-00004"><link target-id="table-ch01tab01a" document="m00003"/> provides a succinct definition for each of the areas as well as examples of how you can demonstrate that you have adjusted. Think about what you have done so far to navigate these transitions in addition to other things you can do to make your college experience a successful one.</para>
     <table summary="A table lists the six areas of adjustment for first-year college students as academic, cultural, emotional, financial, intellectual, and social." id="table-ch01tab01a">
       <tgroup cols="7">
-      <colspec colnum="1" colname="c1"/>
-      <colspec colnum="2" colname="c2"/>
-      <colspec colnum="3" colname="c3"/>
-      <colspec colnum="4" colname="c4"/>
-      <colspec colnum="5" colname="c5"/>
-      <colspec colnum="6" colname="c6"/>
-      <colspec colnum="7" colname="c7"/>
+      <colspec colnum="1" colname="c1" colwidth="1*"/>
+      <colspec colnum="2" colname="c2" colwidth="1*"/>
+      <colspec colnum="3" colname="c3" colwidth="1*"/>
+      <colspec colnum="4" colname="c4" colwidth="1*"/>
+      <colspec colnum="5" colname="c5" colwidth="1*"/>
+      <colspec colnum="6" colname="c6" colwidth="1*"/>
+      <colspec colnum="7" colname="c7" colwidth="1*"/>
       <thead>
       <row>
+        <entry>&#160;</entry>
       <entry>Academic</entry>
       <entry>Cultural</entry>
       <entry>Emotional</entry>
