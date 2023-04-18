@@ -9,6 +9,16 @@
   <col:content>
     <col:module document="m00045"/>
     <col:subcollection>
+      <md:title>Getting into College</md:title>
+      <col:content>
+        <col:module document="m00050"/>
+        <col:module document="m00046"/>
+        <col:module document="m00047"/>
+        <col:module document="m00048"/>
+        <col:module document="m00049"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>Transitioning to College</md:title>
       <col:content>
         <col:module document="m00001"/>
