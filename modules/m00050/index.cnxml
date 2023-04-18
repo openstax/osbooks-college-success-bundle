@@ -6,6 +6,9 @@
     <md:uuid>54a92c80-6fdc-4126-88dc-2aa7f4d9716a</md:uuid>
   </metadata>
   <content class="introduction">
+    <figure id="ch01fig01" class="splash">
+      <media id="ch01media01" alt="Two college graduates in caps and gowns smile with satisfaction as each holds a single white rose."><image mime-type="image/jpg" src="../../media/CS_Figure_01_00_001_Splash.jpg"/></media>
+      <caption>TEMP SPLASH REPLACE ME!!!</caption></figure>
     <para id="para-00001">Placeholder</para>
   </content>
 </document>
