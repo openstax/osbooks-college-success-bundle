@@ -123,13 +123,13 @@
           <row>
             <entry namest="c1" nameend="c2" align="left">9<sup>th</sup> Grade</entry>
           </row>
+        </thead>
+        <tbody>
           <row>
             <entry>Calendar</entry>
             <entry><emphasis>Consider signing up for the <link url="https://satsuite.collegeboard.org/psat-8-9">PSAT 8/9</link> in the fall.</emphasis> While taking the PSAT 8/9 isn’t necessary, it gives you experience with standardized testing and an official score report that can guide your future studying.
             </entry>
           </row>
-        </thead>
-        <tbody>
           <row>
             <entry>Pencil</entry>
             <entry><emphasis>Create a college-friendly email address.</emphasis> Create a new email account using your first and last name and graduation date (e.g., JaneSmith2024@email.com). Then use it exclusively for college-related communications, like test scores, scholarships, and marketing materials from colleges.
@@ -148,6 +148,105 @@
         </tbody>
         </tgroup>
         </table>
+        <table class="top-titled" id="table-00002">
+          <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <thead>
+            <row>
+              <entry namest="c1" nameend="c2" align="left">10<sup>th</sup> Grade</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry>Calendar</entry>
+              <entry><emphasis>Consider signing up for the <link url="https://satsuite.collegeboard.org/psat-8-9">PSAT 8/9</link> in the fall.</emphasis> While taking the PSAT 8/9 isn’t necessary, it gives you experience with standardized testing and an official score report that can guide your future studying.
+              </entry>
+            </row>
+            <row>
+              <entry>Pencil</entry>
+              <entry><emphasis>Create a college-friendly email address.</emphasis> Create a new email account using your first and last name and graduation date (e.g., JaneSmith2024@email.com). Then use it exclusively for college-related communications, like test scores, scholarships, and marketing materials from colleges.
+              </entry>
+            </row>  
+            <row>
+              <entry>Book</entry>
+              <entry><emphasis>Create a college binder.</emphasis> Start saving and documenting things that will be useful for college and scholarship applications, like transcripts, community service hours (including dates and contact information), letters of recommendation, and usernames and passwords.
+              </entry>
+            </row>
+            <row>
+              <entry>GradHat</entry>
+              <entry><emphasis>Introduce yourself to your school counselor and your college and career center counselor.</emphasis> You’ll need their help often over the next few years. Check in with them regularly to ensure you’re making college-ready decisions.
+              </entry>
+            </row>
+          </tbody>
+          </tgroup>
+          </table>
+          <table class="top-titled" id="table-00003">
+            <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <thead>
+              <row>
+                <entry namest="c1" nameend="c2" align="left">11<sup>th</sup> Grade</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>Calendar</entry>
+                <entry><emphasis>Consider signing up for the <link url="https://satsuite.collegeboard.org/psat-8-9">PSAT 8/9</link> in the fall.</emphasis> While taking the PSAT 8/9 isn’t necessary, it gives you experience with standardized testing and an official score report that can guide your future studying.
+                </entry>
+              </row>
+              <row>
+                <entry>Pencil</entry>
+                <entry><emphasis>Create a college-friendly email address.</emphasis> Create a new email account using your first and last name and graduation date (e.g., JaneSmith2024@email.com). Then use it exclusively for college-related communications, like test scores, scholarships, and marketing materials from colleges.
+                </entry>
+              </row>  
+              <row>
+                <entry>Book</entry>
+                <entry><emphasis>Create a college binder.</emphasis> Start saving and documenting things that will be useful for college and scholarship applications, like transcripts, community service hours (including dates and contact information), letters of recommendation, and usernames and passwords.
+                </entry>
+              </row>
+              <row>
+                <entry>GradHat</entry>
+                <entry><emphasis>Introduce yourself to your school counselor and your college and career center counselor.</emphasis> You’ll need their help often over the next few years. Check in with them regularly to ensure you’re making college-ready decisions.
+                </entry>
+              </row>
+            </tbody>
+            </tgroup>
+            </table>
+            <table class="top-titled" id="table-00004">
+              <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <thead>
+                <row>
+                  <entry namest="c1" nameend="c2" align="left">12<sup>th</sup> Grade</entry>
+                </row>
+              </thead>
+              <tbody>
+                <row>
+                  <entry>Calendar</entry>
+                  <entry><emphasis>Consider signing up for the <link url="https://satsuite.collegeboard.org/psat-8-9">PSAT 8/9</link> in the fall.</emphasis> While taking the PSAT 8/9 isn’t necessary, it gives you experience with standardized testing and an official score report that can guide your future studying.
+                  </entry>
+                </row>
+                <row>
+                  <entry>Pencil</entry>
+                  <entry><emphasis>Create a college-friendly email address.</emphasis> Create a new email account using your first and last name and graduation date (e.g., JaneSmith2024@email.com). Then use it exclusively for college-related communications, like test scores, scholarships, and marketing materials from colleges.
+                  </entry>
+                </row>  
+                <row>
+                  <entry>Book</entry>
+                  <entry><emphasis>Create a college binder.</emphasis> Start saving and documenting things that will be useful for college and scholarship applications, like transcripts, community service hours (including dates and contact information), letters of recommendation, and usernames and passwords.
+                  </entry>
+                </row>
+                <row>
+                  <entry>GradHat</entry>
+                  <entry><emphasis>Introduce yourself to your school counselor and your college and career center counselor.</emphasis> You’ll need their help often over the next few years. Check in with them regularly to ensure you’re making college-ready decisions.
+                  </entry>
+                </row>
+              </tbody>
+              </tgroup>
+              </table>
     </section>
   </content>
 </document>
