@@ -28,7 +28,7 @@
     <section id="sect-00001">
     <title>Daily Top Three</title>
     <para id="para-00004">The idea behind the <emphasis effect="italics">daily top three</emphasis> approach is that you determine which three things are the most important to finish that day, and these become the tasks that you complete. It is a very simple technique that is effective because each day you are finishing tasks and removing them from your list. Even if you took one day off a week and completed no tasks on that particular day, a <emphasis effect="italics">daily top three</emphasis> strategy would have you finishing 18 tasks in the course of a single week. That is a good amount of things crossed off your list.</para>
-    <note class="analysis-question" id="note-00001"><label/>
+    <note class="analysis-question" id="note-00001">
     <para id="para-00005">Analysis: Think about what would be your top three tasks for today? What would you have on the list tomorrow?</para>
     </note>
     </section>
@@ -57,7 +57,7 @@
     <para id="para-00009">Of our three quick strategies, <emphasis effect="italics">eat the frog</emphasis> probably has the strangest name and may not sound the most inviting. The name comes from a famous quote, attributed to Mark Twain: “Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day.” <emphasis effect="italics">Eat the Frog</emphasis> is also the title of a best- selling book by Brian Tracy that deals with time management and avoiding procrastination.</para>
     <para id="para-00010">How this applies to time and task management is based on the concept that if a person takes care of the biggest or most unpleasant task first, everything else will be easier after that.</para>
     <para id="para-00011">Although stated in a humorous way, there is a good deal of truth in this. First, we greatly underestimate how much worry can impact our performance. If you are continually distracted by anxiety over a task you are dreading, it can affect the task you are working on at the time. Second, not only will you have a sense of accomplishment and relief when the task you are concerned with is finished and out of the way, but other tasks will seem lighter and not as difficult.</para>
-    <note class="application" id="note-00002"><label/>
+    <note class="application" id="note-00002">
     <title>Try Three Time Management Strategies</title>
     <para id="para-00012">Over the next two weeks, try each of these three methods to see which ones might work for you. Is there one you favor over the others? Might each of these three approaches serve you better in different situations or with different tasks? Do you have a creative alternative or possibly a way to use some combination of these techniques?</para>
     <para id="para-00013">In addition to these three strategies, you could also develop whole new approaches from suggestions found earlier in this chapter. For example, you could apply some of the strategies for avoiding procrastination or for setting appropriate priorities and see how they work in combination with these techniques or on their own.</para>
@@ -118,7 +118,7 @@
     </tgroup>
     </table>
     <table id="ch02tab12">
-    <title/>
+    
     <tgroup cols="8">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -215,38 +215,37 @@
     </tgroup>
     </table>
     <para id="para-00017">While this is a simple example, you can see how it would redistribute tasks to fit your available time in a way that would make completing the paper possible. In fact, if your time constraints were even more rigid, it would be possible to break these divided tasks down even further. You could use a variation of the Pomodoro Technique and write for three 25-minute segments each day at different times. The key is to look for ways to break down the entire task into smaller steps and spread them out to fit your schedule.</para>
-    <para id="para-00017a"> </para>
-    <para id="para-00017b"> </para>
-    <para id="para-00017c"> </para>
-    <para id="para-00017d"> </para>
-    <note class="analysis-question" id="note-00003"><label/>
+    <note class="analysis-question" id="note-00003">
     <title>Reflection</title>
     <para id="para-00018">Analysis: Identify areas in the way you spend your day where you may be able to recapture and repurpose time. Are there things you can move around to gain more time? Are there ways you can combine tasks or reduce travel time?</para>
     </note>
     </section>
-    <note class="family-friends" id="note-00004">
+    <section class="family-friends" id="sect-00006">
+    <title>Family &amp; Friends Matter</title>
       <para id="para-00021">JT has worked many different jobs over the past few years to cover his living expenses and save up for college. Because he didn’t earn a scholarship and doesn’t want to take out loans, he knows he needs to continue to work to pay for school. In fact, JT has calculated how much he needs to earn each month to graduate on time. He doesn’t have much wiggle room–a few missed hours a week, and he will struggle to pay all his bills.</para>
       <para id="para-00022">At the beginning of the semester, JT has picked up extra shifts. In addition to wanting to earn extra money,  he also has a hard time saying no even when he could use that time to study. His boss really values JT’s work ethic and has started expecting that JT will fill in whenever his co-workers ask for time off or, in some cases, just don’t show up. And JT feels that going the extra mile will help him get a promotion and raise, which would allow him to earn more without working more.</para>
       <para id="para-00023">In a few weeks, JT has several group projects and comprehensive exams coming up. This is also the busiest season at work and their boss sent a message to all the staff that they cannot ask for time off. JT is already concerned that he will be scheduled to work overtime, and won’t have much flexibility. JT is already stressed about getting all his work done and meeting his boss’ needs for covering shifts.</para>
-
-      <para id="para-00024"><emphasis>Let’s Think About It</emphasis></para>
-      <para id="para-00025">JT has several options. Think through the consequences of each one, and choose the best option or create your own option.</para>
-      <list id="list-00004">
-        <item>JT quits the current job and finds something that offers more flexibility even if it takes a few weeks to find it.</item>
-        <item>JT explains to his boss what he needs to earn enough hours to pay their expenses but not be overworked; in other words, JT asks for better control over his schedule even if this means the boss will struggle to find others to cover the shifts.</item>
-        <item>JT works the schedule he is given and spends what little time and energy he has to complete his course work.</item>
-      </list>
-
-      <para id="para-00026"><emphasis>Let’s Talk About It</emphasis></para>
-      <para id="para-00027">JT’s dilemma is common for students who must work while in college. You may also experience a situation when you have two very important responsibilities that conflict with one another. Here are some strategies for communicating what you need to make the best choice.</para>
-      <para id="para-00028">JT could have shared the following with their boss:</para>
-      <list id="list-00005">
-        <item>“I appreciate your giving me the opportunity to earn extra money by picking up additional shifts, but I need to reduce my hours in a few weeks because I need to spend time completing class projects and studying for my finals. Can we find a solution that works for both of us?”</item>
-        <item>“While I need to work enough each week to pay my bills, I also need time in the next few weeks to focus on my course work. I am not sure how to balance my commitment to the job with my commitment to college. Can we talk about it?”</item>
-        <item>“I want to be a valuable worker, and I am appreciative of the opportunities I have had to take on extra shifts and help the company meet its goals. The next few weeks will be challenging for me as I need to both work and spend more time on my course work. Would it be possible to reduce my hours during that time?”</item>
-      </list>
+      <section id="sect-00007">
+        <title>Let’s Think About It</title>
+        <para id="para-00025">JT has several options. Think through the consequences of each one, and choose the best option or create your own option.</para>
+        <list id="list-00004">
+          <item>JT quits the current job and finds something that offers more flexibility even if it takes a few weeks to find it.</item>
+          <item>JT explains to his boss what he needs to earn enough hours to pay their expenses but not be overworked; in other words, JT asks for better control over his schedule even if this means the boss will struggle to find others to cover the shifts.</item>
+          <item>JT works the schedule he is given and spends what little time and energy he has to complete his course work.</item>
+        </list>
+      </section>
+      <section id="sect-00008">
+        <title>Let’s Talk About It</title>
+        <para id="para-00027">JT’s dilemma is common for students who must work while in college. You may also experience a situation when you have two very important responsibilities that conflict with one another. Here are some strategies for communicating what you need to make the best choice.</para>
+        <para id="para-00028">JT could have shared the following with their boss:</para>
+        <list id="list-00005">
+          <item>“I appreciate your giving me the opportunity to earn extra money by picking up additional shifts, but I need to reduce my hours in a few weeks because I need to spend time completing class projects and studying for my finals. Can we find a solution that works for both of us?”</item>
+          <item>“While I need to work enough each week to pay my bills, I also need time in the next few weeks to focus on my course work. I am not sure how to balance my commitment to the job with my commitment to college. Can we talk about it?”</item>
+          <item>“I want to be a valuable worker, and I am appreciative of the opportunities I have had to take on extra shifts and help the company meet its goals. The next few weeks will be challenging for me as I need to both work and spend more time on my course work. Would it be possible to reduce my hours during that time?”</item>
+        </list>
+      </section>
       <para id="para-00029">Whatever choice you would make in this situation, it is always best to communicate clearly your needs, your concerns, and even your uncertainties.</para>
-    </note>
+    </section>
     <section class="summary" id="sect-00005">
     <title>Summary and Next Steps for College Success</title>
     <para id="para-00019">This chapter began by presenting why time management is important. Then, sections of the text covered how time management for college can be different from what students may have experienced before. Following this, the chapter contained several sections on how to effectively manage time (including predicting time on task), how to use technology to your advantage, and how to prioritize tasks. Other topics included specific strategies for time and task management and avoiding procrastination.</para>

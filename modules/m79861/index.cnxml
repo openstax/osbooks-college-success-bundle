@@ -30,13 +30,13 @@
 <para id="fs-idm337711984">The good news is that the approaches that do not work very well or do not really help in managing time do not get passed along very often. But others, those which people find of value, do. What follows here are three unique strategies that have become staples of time management. While not everyone will find that all three work for them in every situation, enough people have found them beneficial to pass them along with high recommendations.</para>
 <section id="fs-idm346565648"><title>Daily Top Three</title>
 <para id="fs-idm355854912">The idea behind the <emphasis effect="italics">daily top three</emphasis> approach is that you determine which three things are the most important to finish that day, and these become the tasks that you complete. It is a very simple technique that is effective because each day you are finishing tasks and removing them from your list. Even if you took one day off a week and completed no tasks on that particular day, a <emphasis effect="italics">daily top three</emphasis> strategy would have you finishing 18 tasks in the course of a single week. That is a good amount of things crossed off your list.</para>
-<note id="fs-idm343861488" class="analysis-question"><label/>
+<note id="fs-idm343861488" class="analysis-question">
 <para id="fs-idm341900032">Analysis: Think about what would be your top three tasks for today? What would you have on the list tomorrow?</para>
 </note>
 </section>
 <section id="fs-idm320054912"><title>Pomodoro Technique</title>
 <figure id="ch03fig12">
-<title/>
+
 <media id="ch03media12" alt="A Pomodoro kitchen timer, resembling a tomato with a scale marked on its body."><image mime-type="image/jpg" src="../../media/CS_Figure_03_15_001.jpg"/></media>
 <caption>The Pomodoro Technique is named after a type of kitchen timer, but you can use any clock or countdown timer. (Marco Verch /Flickr / Attribution 2.0 Generic (CC BY 2.0))</caption>
 </figure>
@@ -51,7 +51,7 @@
 <item>After four pomodoros, take a longer break (15–30 minutes), reset your check mark count to zero, and then go to Step 1 or 2.</item>
 </list>
 <figure id="ch03fig13">
-<title/>
+
 <media id="ch03media13" alt="The Pomodoro technique is illustrated." longdesc="C3-13-longdesc.txt"><image mime-type="image/png" src="../../media/CS_Figure_03_16_001.png"/></media>
 <caption>The Pomodoro Technique contains five defined steps.</caption>
 </figure>
@@ -61,7 +61,7 @@
 <para id="fs-idm358908368">Of our three quick strategies, <emphasis effect="italics">eat the frog</emphasis> probably has the strangest name and may not sound the most inviting. The name comes from a famous quote, attributed to Mark Twain: “Eat a live frog first thing in the morning and nothing worse will happen to you the rest of the day.” <emphasis effect="italics">Eat the Frog</emphasis> is also the title of a best-selling book by Brian Tracy that deals with time management and avoiding procrastination.</para>
 <para id="fs-idm355371488">How this applies to time and task management is based on the concept that if a person takes care of the biggest or most unpleasant task first, everything else will be easier after that.</para>
 <para id="fs-idm337667312">Although stated in a humorous way, there is a good deal of truth in this. First, we greatly underestimate how much worry can impact our performance. If you are continually distracted by anxiety over a task you are dreading, it can affect the task you are working on at the time. Second, not only will you have a sense of accomplishment and relief when the task you are concerned with is finished and out of the way, but other tasks will seem lighter and not as difficult.</para>
-<note id="fs-idm354860416" class="application"><label/>
+<note id="fs-idm354860416" class="application">
 <title>Try Three Time Management Strategies</title>
 <para id="fs-idm356016880">Over the next two weeks, try each of these three methods to see which ones might work for you. Is there one you favor over the others? Might each of these three approaches serve you better in different situations or with different tasks? Do you have a creative alternative or possibly a way to use some combination of these techniques?</para>
 <para id="fs-idm345002192">In addition to these three strategies, you could also develop whole new approaches from suggestions found earlier in this chapter. For example, you could apply some of the strategies for avoiding procrastination or for setting appropriate priorities and see how they work in combination with these techniques or on their own.</para>
@@ -121,7 +121,7 @@
 </tgroup>
 </table>
 <table id="ch03tab09">
-<title/>
+
 <tgroup cols="8">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
@@ -219,7 +219,7 @@
 </table>
 <para id="fs-idm341127296">While this is a simple example, you can see how it would redistribute tasks to fit your available time in a way that would make completing the paper possible. In fact, if your time constraints were even more rigid, it would be possible to break these divided tasks down even further. You could use a variation of the Pomodoro Technique and write for three 20-minute segments each day at different times. The key is to look for ways to break down the entire task into smaller steps and spread them out to fit your schedule.</para>
 <note id="fs-idm185278144" class="student-profile">
-<label/><title/>
+
 <para id="fs-idm213611200">“Time management is probably one of the hardest things I had to pick up when I got to college. For starters, I didn’t have anyone to come wake me up if I forgot to set an alarm or to tell me to get out of bed so that I wouldn’t be late. I had to start placing my phone far away from my bed; so that way, I would have to get out of bed in order to turn the alarm off. Accomplishing work on time can also be difficult. It’s tough to find the fine balance between when you have to stay in and work on assignments and when is acceptable to go out and do leisure activities. </para>
 <para id="fs-idm206695040">I learned the 8-8-8 rule.  Every day you spend eight hours working on school work or going to class, eight hours of free time to do what you want, and then eight hours to sleep at night so that you will get enough rest.  Sleep is crucial for time management. I learned very quickly that you cannot focus or be productive if you are struggling to keep your head from falling over because you are so tired. Basically, I’ve learned that if you want to be successful in college, then you have to be on top of your game when it comes to time. It’s something thing you cannot make up once it’s gone.”</para>
 <para id="fs-idm223285776"><emphasis effect="bold">—Preston Allen</emphasis>, University of Central Arkansas</para>
@@ -232,13 +232,13 @@
 <para id="fs-idm352481120">If you set a limit on how much time you spend on each activity, you might find that you can recapture time to do other things. An example of this would be limiting yourself to reading news for 30 minutes. Instead of reading the main things that interest you and then spending an additional amount of time just looking at things that you are only casually interested in because that is what you are doing at the moment, you could stop after a certain allotted period and use the extra time you have gained on something else.</para>
 <para id="fs-idm339453008">After you identify periods of lost time, the next step will be to envision how you might restructure your activities to bring those extra minutes together into useful blocks of time. Using the following scenario as an illustration, we will see how this could be accomplished.</para>
 <figure id="ch03fig14">
-<title/>
+
 <media id="ch03media14" alt="A young person smiling at the camera while shopping in the supermarket."><image mime-type="image/jpg" src="../../media/CS_Figure_03_17_001.jpg"/></media>
 <caption>Sarah has to balance a lot of obligations.</caption>
 </figure>
 <para id="fs-idm344900608">On Tuesday nights, Sarah has a routine: After work, she does her shopping for the week (2 hours driving and shopping) and then prepares and eats dinner (1 hour). After dinner, she spends time on homework (1 hour) and catching up with friends, reading the news, and other Internet activities (1 hour), and then she watches television or reads before going to bed (1 hour). While it may seem that there is very little room for improvement in her schedule without cutting out something she enjoys, limiting the amount of time she spends on each activity and rethinking how she goes about each task can make a significant difference.</para>
 <para id="fs-idm328037584">In this story, Sarah’s Tuesday-night routine includes coming home from work, taking stock of which items in her home she might need to purchase, and then driving to the store. While at the store, she spends time picking out and selecting groceries as she plans for meals she will eat during the rest of the week. Then, after making her purchases, she drives home. Instead, if she took the time to make a list and plan for what she needed at the store before she arrived, she would not spend as much time looking for inspiration in each aisle. Also, if she had a prepared list, not only could she quickly pick up each item, but she could stop at the store on the way home from work, thus cutting out the extra travel time. If purchasing what she needed took 30 minutes less because she was more organized and she cut out an additional 20 minutes of travel time by saving the extra trip to the store from her house, she could recapture a significant amount of her Tuesday evening. If she then limited the time she spent catching up with friends and such to 30 minutes or maybe did some of that while she prepared dinner, she would find that she had added almost an extra hour and a half to the time available to her on that evening, without cutting out anything she needed to do or enjoys. If she decided to spend her time on study or homework, this would more than double the time she previously had available in her schedule for homework.</para>
-<note id="fs-idm319486512" class="analysis-question"><label/>
+<note id="fs-idm319486512" class="analysis-question">
 <title>Reflection</title>
 <para id="fs-idm328679808">Analysis: Identify areas in the way you spend your day where you may be able to recapture and repurpose time. Are there things you can move around to gain more time? Are there ways you can combine tasks or reduce travel time?</para>
 </note>

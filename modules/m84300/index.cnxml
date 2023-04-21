@@ -32,7 +32,7 @@
 <section id="fs-idm214088336">
 <title>Chapter 2: The Truth About Learning Styles</title>
 <table id="ch02tab04">
-<title/>
+
 <tgroup cols="3">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
@@ -51,7 +51,7 @@
 </table>
 
 <table id="ch02tab07">
-<title/>
+
 <tgroup cols="4">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
@@ -154,29 +154,29 @@
 </section>
 <section id="fs-idm465764032">
 <title>Chapter 4: Planning Your Academic Pathways</title>
-<note id="fs-idm222556912" class="application"><label/>
+<note id="fs-idm222556912" class="application">
 <para id="fs-idm232382944">Take a moment to practice setting long- and short-term goals. Your short-term goal should help you progress toward your long-term goal. Include a plan for when and how you will know if you’re on track or if you need to adjust your goals to match new priorities.</para>
 <table id="ch04tab02" class="full-width">
-<title/>
+
 <tgroup cols="1">
 <colspec colnum="1" colname="c1"/>
 <tbody>
 <row>
 <entry><para id="fs-idm510265760"><emphasis effect="bold">My Long-Term Goal:</emphasis></para>
-<para id="fs-idm242915056"> </para>
-<para id="fs-idm220532320"> </para>
+
+
 </entry>
 </row>
 <row>
 <entry><para id="fs-idm236114144"><emphasis effect="bold">My Short-Term Goal:</emphasis></para>
-<para id="fs-idm218442992"> </para>
-<para id="fs-idm221652864"> </para>
+
+
 </entry>
 </row>
 <row>
 <entry><para id="fs-idm218974416"><emphasis effect="bold">My Plan for Checking My Progress:</emphasis></para>
-<para id="fs-idm204762832"> </para>
-<para id="fs-idm212970192"> </para>
+
+
 </entry>
 </row>
 </tbody>
@@ -198,7 +198,7 @@
 <section id="fs-idm234495952">
 <title>Chapter 8: Communicating</title>
 <table id="ch08tab01" class="full-width">
-<title/>
+
 <tgroup cols="2">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
@@ -218,7 +218,7 @@
 </table>
 
 <table id="ch08tab02">
-<title/>
+
 <tgroup cols="4">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
@@ -237,7 +237,7 @@
 </table>
 
 <table id="ch08tab03">
-<title/>
+
 <tgroup cols="4">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
@@ -256,7 +256,7 @@
 </table>
 
 <table id="ch08tab04">
-<title/>
+
 <tgroup cols="8">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>

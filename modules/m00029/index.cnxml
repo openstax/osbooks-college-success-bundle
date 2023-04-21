@@ -41,7 +41,7 @@
     <media id="ch06media02" alt="A large circle with a smaller interior circle represents the emotion wheel. The inner circle is divided into the 5 basic colors to represent the emotions of fear, anger, surprise, happy, disgust, and sad. The outer circle is divided into 20 smaller sections that are color-aligned with the inner circle to show how emotions are related. Fear is related to scared, anxious, rejected, unsure. Anger is related to mad, hurt, threatened, and distant. Happy is related to joyful, proud, optimistic, and peaceful. Disgust is related to disappointed, awful, disapproval, avoidance. Sad is related to guilty, despair, lonely and bored."><image mime-type="image/png" src="../../media/CS_Figure_06_02_002.png"/></media>
     <caption>Tools like emotion wheels, based on Robert Plutchik’s original, more complex work, can help us understand our feelings.</caption>
     </figure>
-    <note class="activity" id="note-00001"><label/>
+    <note class="activity" id="note-00001">
     <para id="para-00011">Take a moment to consider how your feelings change your mood by completing the sentences below with the first thing that comes to your mind.</para>
     <para id="para-00012">I feel happy when…</para>
     <para id="para-00013">I feel angry when…</para>

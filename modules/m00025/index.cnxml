@@ -23,7 +23,7 @@
      <para id="para-00002"><link target-id="fig-00001"/> provides an overview of the types of relationships you will develop in college. If you are aged 18- or 19-years old (often referred to as traditional college student age), you may look forward to expanding your relationship types beyond family and friends and authority figures to classmates (those who are in your classes), peers (those who are in college or near your age and have similar goals and activities), mentors (those who can help you develop skills or goals), and authority figures (those who direct and evaluate your work). If you are older than the traditional college student, you may also find that your circle of friends and colleagues will expand in some areas–and may even contract in others, at least while you are earning a degree.</para>
      <para id="para-00003">Some people, such as professors, may fill multiple roles at different times in your college career. For example, a professor of your first-year seminar may be seen as an authority figure who dictates the learning objectives, creates assignments, and evaluates you. That same professor may become a mentor when you take them again your junior year as you are working on your major or participating in undergraduate research with them. Finally, your professor can become a friend after you graduate, especially if you have developed a bond with them that transcends the work you did together.</para>
      <figure id="fig-00001">
-     <title/>
+     
      <media alt="A diagram illustrates the relationships of “You” during college with “Authority Figures,” “Family,” “Friends,” “Peer Networks,” and “Adult Mentors and Colleagues.”"><image mime-type="image/png" src="../../media/CS_Figure_05_02_004.png"/></media>
      <caption>You and Your Relationships During College</caption>
      </figure>
@@ -31,7 +31,7 @@
      <section id="sect-00001"><title>What Professors Do</title>
      <para id="para-00005">Professors are more than just teachers. This may be a surprise if you think about your experiences with high school teachers where they have their own classroom and a set of responsibilities including leading their classes that they must do between set hours each day of the week. College professors, by contrast, have much more flexibility and autonomy in their schedules, their workload, and their responsibilities outside of class. Because of these differences, you will want to view them in light of their additional roles and activities. See the table for a breakdown of common responsibilities professors have.</para>
      <table class="unnumbered" id="table-00002">
-     <title/>
+     
      <tgroup cols="2">
      <thead>
      <row>
@@ -108,7 +108,7 @@
      </list></item>
      </list>
      <para id="para-00015">As with all your relationships in college, think about them in terms of building your network that will help you throughout college and after graduation. While you cannot avoid conflict–or bad experiences–you can manage how you respond to them and how you work with others, especially professors, to resolve issues.</para>
-     <note class="activity" id="note-00001"><label/>
+     <note class="activity" id="note-00001">
      <para id="para-00016">Directions: Emailing a professor about a failing or low grade can be difficult. Consider the two emails below and determine their strengths and weaknesses. Then, write your own email that includes the best strategies that are discussed in the section titled Managing Conflict with a Professor.</para>
      <para id="para-00017"><emphasis effect="italics">Email 1</emphasis></para>
      <para id="para-00018">TO: ajames@college.edu</para>
@@ -116,7 +116,7 @@
      <para id="para-00020">SUBJ: (no subject)</para>
      <para id="para-00021">Hey! Why did you give me an F in your course? I thought I would get a C because I turned everything in. Can you email me back and explain?</para>
      <para id="para-00022">Rob</para>
-     <para id="para-00022a"> </para>
+     
      <para id="para-00023"><emphasis effect="italics">Email 2</emphasis></para>
      <para id="para-00024">TO: ajames@college.edu</para>
      <para id="para-00025">FROM: rjenkins@college.edu</para>
@@ -124,7 +124,7 @@
      <para id="para-00027">Prof. James,</para>
      <para id="para-00028">I am in your CSCI 1401 Computer Science course on MWF at 9:00 and noticed that my final grade was a 79, but I had it calculated as an 82 after you graded the last project. Can you let me know if this is an error or if I calculated incorrectly? If it is easier to talk by phone or in person, let me know and I will provide some times and my phone number.</para>
      <para id="para-00029">Rob Jenkins</para>
-     <para id="para-00022b"> </para>
+     
      <para id="para-00030"><emphasis effect="italics">Your Email</emphasis></para>
      <para id="para-00031">Write an email to a professor in which you ask about a grade that is lower than you expected.</para>
      </note>
@@ -139,12 +139,12 @@
      <item><emphasis effect="bold">Advisors.</emphasis> While there are many different roles on a college campus that could be included in this list, advisors deserve a special place because they are crucial to your success; they are also the first place to go when a student has an issue. Some advisors spend considerable time with students to help them choose a major and create a schedule each semester that will enable them to graduate. Others serve as a sounding board for students who are struggling in a class and deciding whether or not to drop. Developing a relationship with your advisor has obvious benefits: They get to know what your goals are and can help you refine them. They also are very knowledgeable about how to navigate the processes of completing a degree.</item>
      </list>
      <figure id="fig-00002">
-     <title/>
+     
      <media alt="Two people sit at desks beneath bunk beds."><image mime-type="image/jpg" src="../../media/CS_Figure_05_02_005.jpg"/></media>
      <caption>Even if you choose your own roommate, managing the relationship can be challenging and involve compromise. You’ll need to figure out when you study, which items you share, and how close a friendship you’ll have. (Credit: Residorm Mugla Attribution 2.0 Generic (CC-BY 2.0))</caption>
      </figure>
      <para id="para-00033">Developing quality relationships takes time, effort, and intentionality, but the rewards are many. Consider expanding your network each semester you are in college so that you have a rich, diverse group of people whom you know and can count on to help you reach your goals.</para>
-     <note class="analysis-question" id="note-00002"><label/>
+     <note class="analysis-question" id="note-00002">
       <para id="para-00036">Are there any relationships from the list above that will be easier for you to develop? Are there any that will be harder to develop? What do you think will be your biggest challenge in creating a network while you are in college? What can you do to create a network that includes a variety of different people in it?</para>
       </note>
      </section>

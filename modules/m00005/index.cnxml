@@ -50,13 +50,13 @@
     <section id="sect-00004">
     <title>Improving Your Ability to Learn</title>
     <para id="para-00014">As strange as it may seem, research into fixed vs. growth mindset has shown that if you believe you can learn something new, you greatly improve your ability to learn. At first, this may seem like the sort of feel-good advice we often encounter in social media posts or quotes that are intended to inspire or motivate us (e.g., <emphasis effect="italics">believe in yourself!</emphasis>), but in looking at the differences outlined between a fixed and a growth mindset, you can see how each part of the growth mindset path can increase your probability of success when it comes to learning.</para>
-    <note class="activity" id="note-00001"><label/>
-    <title/>
+    <note class="activity" id="note-00001">
+    
     <para id="para-00015">Very few people have a strict fixed or growth mindset all of the time. Often we tend to lean one way or another in certain situations. For example, a person trying to improve their ability in a sport they enjoy may exhibit all of the growth mindset traits and characteristics, but they find themselves blocked in a fixed mindset when they try to learn something in another area like computer programming or arithmetic.</para>
     <para id="para-00016">In this exercise, do a little self-analysis and think of some areas where you may find yourself hindered by a fixed mindset. Using the outline presented below, in the far right column, write down how you can change your own behavior for each of the parts of the learning process. What will you do to move from a fixed to a growth mindset? For example, say you were trying to learn to play a musical instrument. In the <emphasis effect="italics">Challenges</emphasis> row, you might pursue a growth path by trying to play increasingly more difficult songs rather than sticking to the easy ones you have already mastered. In the <emphasis effect="italics">Criticism</emphasis> row, you might take someone’s comment about a weakness in timing as a motivation for you to practice with a metronome. For <emphasis effect="italics">Success of Others</emphasis> you could take inspiration from a famous musician that is considered a master and study their techniques.</para>
     <para id="para-00017">Whatever it is that you decide you want to use for your analysis, apply each of the Growth characteristics to determine a course of action to improve.</para>
     <table id="ch01tab15">
-    <title/>
+    
     <tgroup cols="3">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -75,30 +75,32 @@
     </table>
     </note>
     </section>
-    <note class="family-friends" id="note-00002">
+    <section class="family-friends" id="sect-00006">
       <title>Family &amp; Friends Matter</title>
       <para id="para-00020">Ana is the first in her family to go to college and they have been mostly supportive of her decision to go to college. She enjoys texting and calling them almost every day, and they like hearing what she is doing. She especially likes video-chatting with her younger brother. He had a hard time when she left, because he relied on her to help him with his homework.</para>
       <para id="para-00021">Because she is having a hard time during the first few weeks of class, she has shared with her parents that she doesn’t feel like she fits in and feels like she has made a bad decision. At first her parents encouraged her to stay and join an organization to meet other people. “It will take some time to get used to being away, but it will get better,” they assured her. After some time, Ana began to feel better about being away and started making friends in her classes.</para>
       <para id="para-00022">When Ana calls to check on her brother at mid-term, her parents tell her that her father has been very sick, and has had to take time off work. Her mother has not been able to care for him and her little brother at the same time as her father needs daily treatments and weekly doctor’s appointments. Between his being off work and the mounting costs of his treatment, the family is concerned about being able to pay for Ana’s college expenses. They ask Ana if she can come home for a few weeks to take her brother to school and help around the house, and want to talk to her about what to do next semester.</para>
-     
-      <para id="para-00028"><emphasis>Let’s Think About It</emphasis></para>
-      <para id="para-00023">Ana has several options. Think through the consequences of each one, and choose the best option or create your own option.</para> 
-      <list id="list-00004">
-        <item>Ana goes home immediately and stays with her family until they no longer need her, even if that means she misses her classes and does not complete any work.</item>
-        <item id="para-00024">Ana meets with her professors and asks if she can stay on top of her work until she gets back, and then she heads home with her books and laptop.</item>
-        <item>Ana explains to her parents that if she leaves during the middle of the semester, she may jeopardize her progress so far, earn bad grades, and lose her scholarship, so she tells them she cannot do that.</item>
-      </list>
-    
-      <para id="para-00029"><emphasis>Let’s Talk About It</emphasis></para>
-      <para id="para-00025">Ana’s situation–having to make a choice about whether to continue her studies or focus on a personal matter–is not unusual. You may also experience tension pulling you in different directions. Here are some strategies for communicating what you need to make the best choice.</para>
-      <para id="para-00026">Ana could have shared the following with her family:</para>
-      <list id="list-00003">
-        <item>“I know that this is important to our family, and I want to be there to help, but I need to check with my professors about what they will allow me to do. The work I have done so far may be wasted if I just leave without sharing my plans and figuring out a way to stay on top of my work.”</item>
-        <item>“I am worried about dad’s health, and I would like to come home over the weekend to check in with everyone and see what I can do to help find additional support when I have to go back to school.”</item>
-        <item>“What kind of compromise can we make so that you get the support you need and I can stay focused on the work I have to do before the end of the semester?”</item>
-      </list>
+      <section id="sect-00007">
+        <title>Let’s Think About It</title>
+        <para id="para-00023">Ana has several options. Think through the consequences of each one, and choose the best option or create your own option.</para> 
+        <list id="list-00004">
+          <item>Ana goes home immediately and stays with her family until they no longer need her, even if that means she misses her classes and does not complete any work.</item>
+          <item id="para-00024">Ana meets with her professors and asks if she can stay on top of her work until she gets back, and then she heads home with her books and laptop.</item>
+          <item>Ana explains to her parents that if she leaves during the middle of the semester, she may jeopardize her progress so far, earn bad grades, and lose her scholarship, so she tells them she cannot do that.</item>
+        </list>
+      </section>
+      <section id="sect-00008">
+        <title>Let’s Talk About It</title>
+        <para id="para-00025">Ana’s situation–having to make a choice about whether to continue her studies or focus on a personal matter–is not unusual. You may also experience tension pulling you in different directions. Here are some strategies for communicating what you need to make the best choice.</para>
+        <para id="para-00026">Ana could have shared the following with her family:</para>
+        <list id="list-00003">
+          <item>“I know that this is important to our family, and I want to be there to help, but I need to check with my professors about what they will allow me to do. The work I have done so far may be wasted if I just leave without sharing my plans and figuring out a way to stay on top of my work.”</item>
+          <item>“I am worried about dad’s health, and I would like to come home over the weekend to check in with everyone and see what I can do to help find additional support when I have to go back to school.”</item>
+          <item>“What kind of compromise can we make so that you get the support you need and I can stay focused on the work I have to do before the end of the semester?”</item>
+        </list>
+      </section>
       <para id="para-00027">Whatever choice you would make in this situation, it is always best to communicate clearly your needs, your concerns, and even your uncertainties.</para>
-    </note>
+    </section>
     <section class="summary" id="sect-00005">
     <title>Summary and Next Steps to College Success</title>
     <para id="para-00018">This chapter provides an introduction to the transition to college by first asking “Why are you in college?” Understanding your “why” and what a college degree can do for you is the foundation of making a smooth transition. These experiences are part of being in college, and this chapter provides you with information about what to expect and how to handle the changes you will go through.</para>
@@ -111,7 +113,9 @@
     </list>
     </section>
     <section class="checking-in" id="sect-00009">
-      <title>Checking In: Your College Readiness Checklist<newline/><newline/>Fall</title>
+      <title>Checking In: Your College Readiness Checklist</title>
+      <section id="sect-00010">
+      <title>Fall</title>
       <table class="top-titled" id="table-00001">
         <tgroup cols="2">
         <colspec colnum="1" colname="c1"/>
@@ -244,6 +248,7 @@
             </tbody>
             </tgroup>
             </table>
+      </section>
     </section>
   </content>
 </document>

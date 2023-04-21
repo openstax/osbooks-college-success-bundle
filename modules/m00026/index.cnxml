@@ -73,7 +73,7 @@
       <section id="sect-00005"><title>Choose Roles</title>
       <para id="para-00008">Next, your group should determine roles. You may want to first determine the leader, or you may decide to share leadership between two members or choose a “second in command” should the leader not be able to fulfill the duties. Then, you will need to set roles and responsibilities for everyone else in the group. Be sure to discuss each other’s strengths, weaknesses, and interests. Different types of group projects call for different roles, so you may need to pick and choose what is appropriate for your project. <link target-id="table-00003"/> provides examples of roles and responsibilities that you may consider when assigning roles.</para>
       <table id="table-00003">
-      <title/>
+      
       <tgroup cols="2">
       <thead>
       <row>
@@ -136,11 +136,11 @@
       <media alt="Group Work Contract; Assignment: Information literacy source evaluations and slide presentation on the following topic: For-Profit Prisons; Due date: Friday, April 12; Guiding Principles: The group members commit to the following principles:; Each member will participate fully in each meeting; Each member will do their best work; Each member will ask for help if they are unable to complete their task on time; Each member will seek to resolve conflicts as soon as they arise; Each member will communicate promptly and honestly and professionally; Each member will adhere to academic integrity principles; Each member will initial each statement below as an indication that they understand and will abide by these commitments.; 1. Each member agrees to attend all meetings in person or online on time and for the duration of the meeting.; 2. If a member is late or misses part of the meeting, they will [insert consequence].; 3. If a member cheats or plagiarizes, they will be reported to the professor.; 4. Each member agrees to complete all work on time and to the best of their ability.; 5. If a member does not complete work or submits work late, they will [insert consequence].; 6. Each member agrees to listen actively and communicate clearly and professionally.; 7. If a member acts unprofessionally or contributes to a conflict, they will [insert consequence]."><image mime-type="image/png" src="../../media/CS_Figure_05_03_008.png"/></media>
       <caption>Sample Group Work Contract</caption>
       </figure>
-      <note class="application" id="note-00001"><label/>
+      <note class="application" id="note-00001">
       <para id="para-00012">You have been assigned a group project in which you and three classmates must research the topic For-Profit Prisons over the next two weeks. For the assignment, your group must find 4 academic journals, two of which argue for and two which argue against for-profit prisons as necessary for managing the criminal population, and read them carefully. Using the 4 academic journals, your group will be writing a 3-page summary of the pro and con sides of the topic and creating a 6-slide presentation that shares the key highlights of each source. Create a contract for your group by assigning roles, developing a communication plan, and writing down key milestones to complete your assignment on time.</para>
       <para id="para-00013"><emphasis effect="bold">Roles: What roles will each of you play in the group? Consider the tasks that must be completed to determine what roles you need.</emphasis></para>
       <table class="unnumbered" id="table-00004">
-      <title/>
+      
       <tgroup cols="3">
       <thead>
       <row>
@@ -256,7 +256,7 @@
       <item><emphasis effect="bold">Low work quality.</emphasis> If a member is not completing quality work, the group leader should step in to work with the other members to revise or edit the work, but the group should communicate with the member as to what has changed and why.</item>
       </list>
       <para id="para-00017">Most conflict occurs when there is a lack of communication about what is expected. Providing your group members with examples of how to deliver bad or difficult news (e.g., “I am not able to meet my deadline” or “I think I need help with my tasks”) can help your members feel more comfortable when it does occur. Be sure to treat others respectfully and with kindness even if you are justifiably frustrated by your group members’ actions or inactions.</para>
-      <note class="application" id="note-00002"><label/>
+      <note class="application" id="note-00002">
       <para id="para-00018">Your classmate Garth shows up for the in-person meetings, but has yet to complete any of his parts for the project. The rest of your group cannot move forward without his finished work, and you are getting nervous that your classmate’s unfinished work will keep you from successfully completing the project on time. Write Garth a clear and kind message in which you explain what has happened from your observation, what you need from your classmate, when you need their work, and the consequence of their not completing their work by the deadline.</para>
       <table class="unstyled unnumbered" id="table-00007">
       <tgroup cols="1">
@@ -264,12 +264,6 @@
       <tbody>
       <row>
       <entry><para id="para-00018a">Dear Garth,</para>
-        <para id="para-00018b"> </para>
-        <para id="para-00018d"> </para>
-        <para id="para-00018e"> </para>
-        <para id="para-00018f"> </para>
-        <para id="para-00018g"> </para>
-        <para id="para-00018h"> </para>
       </entry>
       </row>
       </tbody>
@@ -280,28 +274,31 @@
       <section id="sect-00009"><title>Completing the Project</title>
       <para id="para-00019">The project is complete when all the steps have been taken to submit or present it successfully, but that is not the end of the group work. You will want to also debrief on what worked and what could have been improved. Consider calling a brief meeting to review the process of completing the project or to review your graded work. Ask your group members what they felt were the group’s strengths and weaknesses. Use the debriefing to think about how to make changes to the process the next time you work in a group. Spend some time reflecting on what skills you still need to improve and how you can make the most of future group work.</para>
       </section>
-      <note class="family-friends" id="note-00003">
+      <section class="family-friends" id="sect-00012">
+      <title>Family &amp; Friends Matter</title>
         <para id="para-00022">Michael’s group project seems to be destined to fail. The group members have been sporadic in attending meetings, communicating in the group text, and completing their work. If the project was not worth a third of their overall grade, Michael would have given up weeks ago. However, he really wants to do a good job, because he knows he needs to develop better communication skills and because his professor is part of the graduate admissions committee for physical therapy and her recommendation would be important.</para>
         <para id="para-00023">The professor has communicated how she expects the groups to handle the workload and conflict. She wants them to resolve any issues that arise, and she does not want to be consulted on disputes that can be easily remedied by the group. She believes that these real-world experiences of working with others will help them develop project-planning and communication skills that are far more valuable than the grade they may earn.</para>
         <para id="para-00024">The presentation and final paper are due in a week, and Michael is the only one who has kept to the agreed-upon schedule. He has heard nothing from his classmates about where they are in the process and when they will be able to hand over their parts. Unfortunately, Michael cannot finish his parts–writing the conclusion and finalizing the slides–without knowing what they found in their research. He is not sure what to do.</para>
-
-        <para id="para-00025"><emphasis>Let’s Think About It</emphasis></para>
-        <para id="para-00026">Michael has several options. Think through the consequences of each one, and choose the best option or create your own option.</para>
-        <list id="list-00006">
-          <item>Michael does all the work himself and tells his professor in a private message that none of his group members contributed and do not deserve a grade for the project.</item>
-          <item>Michael sends a message to all his group members telling them that he will be doing all the work himself as an individual project and if they want to continue as a group, they can fill in his part themselves.</item>
-          <item>Michael offers to help fill in parts that need to be completed, waits patiently until a few days before the assignment is due, and completes as much as he can–his parts and others’ parts–without sharing with his professor the reality of the situation.</item>
-        </list>
-
-        <para id="para-00027"><emphasis>Let’s Talk About It</emphasis></para>
-        <para id="para-00028">Michael has a few communication challenges: his professor wants the groups to work out conflict and his group is not communicating with him. While Michael may be limited in his ability to affect the outcome of the group presentation, he can communicate clearly with his group members.</para>
-        <list id="list-00007">
-          <item>“I realize that we are all really busy, but I want to reiterate what we agreed to do. At the very least, please communicate what you have done and what you need help with, so that we all can do our parts to complete this project.”</item>
-          <item>“I am feeling stressed about the lack of communication, and am concerned it will keep us from working effectively. Because I am leading our group work, I am proposing that those who do not meet the deadlines for having their part completed will be replaced by someone who can get the part done.”</item>
-          <item>“By next Thursday, if the group members who have not completed their parts do not update or share their work, I will be filling in those parts myself so that we can submit this work on time.”</item>
-        </list>
+        <section id="sect-00013">
+          <title>Let’s Think About It</title>
+          <para id="para-00026">Michael has several options. Think through the consequences of each one, and choose the best option or create your own option.</para>
+          <list id="list-00006">
+            <item>Michael does all the work himself and tells his professor in a private message that none of his group members contributed and do not deserve a grade for the project.</item>
+            <item>Michael sends a message to all his group members telling them that he will be doing all the work himself as an individual project and if they want to continue as a group, they can fill in his part themselves.</item>
+            <item>Michael offers to help fill in parts that need to be completed, waits patiently until a few days before the assignment is due, and completes as much as he can–his parts and others’ parts–without sharing with his professor the reality of the situation.</item>
+          </list>
+        </section>
+        <section id="sect-00014">
+          <title>Let’s Talk About It</title>
+          <para id="para-00028">Michael has a few communication challenges: his professor wants the groups to work out conflict and his group is not communicating with him. While Michael may be limited in his ability to affect the outcome of the group presentation, he can communicate clearly with his group members.</para>
+          <list id="list-00007">
+            <item>“I realize that we are all really busy, but I want to reiterate what we agreed to do. At the very least, please communicate what you have done and what you need help with, so that we all can do our parts to complete this project.”</item>
+            <item>“I am feeling stressed about the lack of communication, and am concerned it will keep us from working effectively. Because I am leading our group work, I am proposing that those who do not meet the deadlines for having their part completed will be replaced by someone who can get the part done.”</item>
+            <item>“By next Thursday, if the group members who have not completed their parts do not update or share their work, I will be filling in those parts myself so that we can submit this work on time.”</item>
+          </list>
+        </section>
         <para id="para-00029">Whatever choice you would make in this situation, it is always best to communicate clearly your needs, your concerns, and even your uncertainties.</para>
-      </note>
+      </section>
       <section class="summary" id="sect-00010">
       <title>Summary and Next Steps for College Success</title>
       <para id="para-00020">Developing healthy relationships and expanding your network of support are both important tasks for you to do in college. Without these relationships, your experience may be lackluster at best and lonely and difficult at worst. The first step to creating meaningful connections is to be healthy yourself and acknowledging the importance of community. There are also some ways you can jumpstart a relationship by improving your “small talk” skills. You will develop many relationships with different people while you are in college, but one of the most important is with your professors. Be sure to find ways to connect with them in and out of class. You will also want to be mindful of connecting with classmates, peers, mentors, and advisors as they will all be important to your network for success and support. Finally, there is no better way to really get to know others than when you work with them to complete a goal or a project. While group work strikes fear in some students, it doesn’t have to be a conflict-ridden endeavor. Consider what you can do to anticipate challenges and make the process as smooth as possible.</para>
@@ -315,7 +312,9 @@
       </list>
       </section>
       <section class="checking-in" id="sect-00011">
-      <title>Checking In: Your College Readiness Checklist<newline/><newline/>Spring</title>
+      <title>Checking In: Your College Readiness Checklist</title>
+      <section id="sect-00015">
+      <title>Spring</title>
       <table class="top-titled" id="table-00008">
         <tgroup cols="2">
         <colspec colnum="1" colname="c1"/>
@@ -448,6 +447,7 @@
             </tbody>
             </tgroup>
             </table>
+    </section>
     </section>
 </content>
 </document>

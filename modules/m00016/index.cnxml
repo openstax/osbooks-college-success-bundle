@@ -30,7 +30,7 @@
      <para id="para-00004">Think of all notes as potential study guides. In fact, if you only take notes without actively working on them after the initial note-taking session, the likelihood of the notes helping you is slim. Research on this topic concludes that without active engagement after taking notes, most students forget 60–75 percent of material over which they took the notes—within two days! That sort of defeats the purpose, don’t you think? This information about memory loss was first brought to light by 19th-century German psychologist Hermann Ebbinghaus. Fortunately, you do have the power to thwart what is sometimes called the Ebbinghaus Forgetting Curve by reinforcing what you learned through review at intervals shortly after you take in the material and frequently thereafter.</para>
      <para id="para-00005">If you are a musician, you’ll understand this phenomenon well. When you first attempt a difficult piece of music, you may not remember the chords and notes well at all, but after frequent practice and review, you generate a certain muscle memory and cognitive recall that allows you to play the music more easily.</para>
      <para id="para-00006">Note-taking may not be the most glamorous aspect of your higher-education journey, but it is a study practice you will carry throughout college and into your professional life. Setting yourself up for successful note-taking is almost as important as the actual taking of notes, and what you do after your note-taking session is equally significant. Well-written notes help you organize your thoughts, enhance your memory, and participate in class discussion, and they prepare you to respond successfully on exams. With all that riding on your notes, it would behoove you to learn how to take notes properly and continue to improve your note-taking skills.</para>
-     <note class="analysis-question" id="note-00001"><label/>
+     <note class="analysis-question" id="note-00001">
      <para id="para-00007">Do you currently have a preferred way to take notes? When did you start using it? Has it been effective? What other strategy might work for you?</para>
      </note>
      <section id="sect-00001"><title>Preparing to Take Notes</title>
@@ -45,7 +45,7 @@
      <section id="sect-00002"><title>Managing Note-Taking Systems</title>
      <para id="para-00012">Whichever of the many note-taking systems you choose (and new ones seem to come out almost daily), the very best one is the one that you will use consistently. The skill and art of note-taking is not automatic for anyone; it takes a great deal of practice, patience, and continuous attention to detail. Add to that the fact that you may need to master multiple note-taking techniques for different classes, and you have some work to do. Unless you are specifically directed by your instructor, you are free to combine the best parts of different systems if you are most comfortable with that hybrid system.</para>
      <para id="para-00013">Just to keep yourself organized, all your notes should start off with an identifier, including at the very least the date, the course name, the topic of the lecture/presentation, and any other information you think will help you when you return to use the notes for further study, test preparation, or assignment completion. Additional, optional information may be the number of note-taking sessions about this topic or reminders to cross-reference class handouts, textbook pages, or other course materials. It’s also always a good idea to leave some blank space in your notes so you can insert additions and questions you may have as you review the material later.</para>
-     <note class="get-connected" id="note-00003"><label/>
+     <note class="get-connected" id="note-00003">
       <para id="para-00025a">Staying organized is a challenge when you are juggling multiple assigned readings and lecture notes, but keeping track of what you have read and heard in lecture improves your ability to study the material and retain it. These resources can provide you with opportunities to sharpen your reading and note-taking game.</para>
       <para id="para-00026a"><link url="https://openstax.org/l/evernote">Evernote</link> provides students with the opportunity to keep track of tasks and assignment due dates. Users can also connect to Google Calendar, share notes with others, and annotate documents. The app allows for you to access your notes on multiple devices.</para>
       <para id="para-00027a"><link url="https://openstax.org/l/enhancingyourmemory">The Learning Center</link>, University of North Carolina at Chapel Hill provides background information on an array of studying and learning techniques, beyond those listed above. For any that appeal to you or seem to apply to your fields of study, consult other material specifically focused on them.</para>
@@ -235,27 +235,27 @@
      <para id="para-00051">Use your phone or computer to set reminders for all your note review sessions so that it becomes a habit and you keep on top of the schedule.</para>
      <para id="para-00052">Your personal notes play a significant role in your test preparation. They should enhance how you understand the lessons, textbooks, lab sessions, and assignments. All the time and effort you put into first taking the notes and then annotating and organizing the notes will be for naught if you do not formulate an effective and efficient way to use them before sectional exams or comprehensive tests.</para>
      <para id="para-00053">The whole cycle of reading, note-taking in class, reviewing and enhancing your notes, and preparing for exams is part of a continuum you ideally will carry into your professional life. Don’t try to take short cuts; recognize each step in the cycle as a building block. Learning doesn’t end, which shouldn’t fill you with dread; it should help you recognize that all this work you’re doing in the classroom and during your own study and review sessions is ongoing and cumulative. Practicing effective strategies now will help you be a stronger professional.</para>
-     <para id="para-00058"> </para>
-     <para id="para-00059"> </para>
-     <para id="para-00060"> </para>
-     <para id="para-00061"> </para>
-     <para id="para-00062"> </para>
-     <para id="para-00063"> </para>
-     <para id="para-00064"> </para>
-     <para id="para-00065"> </para>
-     <para id="para-00066"> </para>
-     <para id="para-00067"> </para>
-     <para id="para-00058a"> </para>
-     <para id="para-00059a"> </para>
-     <para id="para-00060a"> </para>
-     <para id="para-00061a"> </para>
-     <para id="para-00062a"> </para>
-     <para id="para-00063a"> </para>
-     <para id="para-00064a"> </para>
-     <para id="para-00065a"> </para>
-     <para id="para-00066a"> </para>
-     <para id="para-00067a"> </para>
-     <note class="activity" id="note-00002"><label/>
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     
+     <note class="activity" id="note-00002">
      <para id="para-00054">What resources can you find about reading and note-taking that will actually help you with these crucial skills? How do you go about deciding what resources are valuable for improving your reading and note-taking skills?</para>
      <para id="para-00055">The selection and relative value of study guides and books about note-taking vary dramatically. Ask your instructors for recommendations and see what the library has available on this topic. The following list is not comprehensive, but will give you a starting point for books and articles on note-taking in college.</para>
      <list list-type="bulleted" id="list-00007">
@@ -271,28 +271,31 @@
      </note>
      </section>
      </section>
-     <note class="family-friends" id="note-00004">
+     <section class="family-friends" id="sect-00015">
+     <title>Family &amp; Friends Matter</title>
       <para id="para-00068">After a challenging start to her first semester, Ana has made a few good friends and is feeling more like she belongs in college. She has been hanging out with people who are committed to their education and study all the time. Ana has benefited from the regular sessions and her grades have reflected the work that she has done. Her study group creates handwritten notes, flashcards, and elaborate mind maps that they use each time he meet.</para>
       <para id="para-00069">Ana’s roommate Jasmine, a member of the rugby team, has not been as focused on her studies and is in risk of failing a few classes, especially the one that both of them have–General Psychology. She has shared with Ana that she is afraid she will fail, which will jeopardize her athletic scholarship. In an effort to help her, Ana has invited Jasmine to meet with her study group, but because Jasmine is a student athlete, she has little time to do more than go to practice, attend classes, and travel for games. Jasmine has not attended any of the sessions.</para>
       <para id="para-00070">While Ana is eating lunch with Jasmine one day, she asks Ana if she could have her notes and all the study materials Ana created with her study group, including the notes cards and elaborate mind maps that the group drew out. Jasmine has a big game over the weekend and wants to take the materials with her as she doesn’t have time to copy all of them. Jasmine is feeling desperate as she needs to make a high grade on the next test, or she will definitely fail the course. Ana is torn–she wants to help her roommate, but she also needs the materials to study herself, and she feels as if telling her “No” would not be good for their long-term relationship.</para>
-
-      <para id="para-00071"><emphasis>Let’s Think About It</emphasis></para>
-      <para id="para-00072">Ana has several options. Think through the consequences of each one, and choose the best option or create your own option.</para>
-      <list id="list-00009">
-        <item>Ana gives her roommate the notes and materials for the weekend, and hopes that she has studied enough to do well herself.</item>
-        <item>Ana gives some of the materials that she knows the best (and doesn’t need to study) for the weekend, and keeps the rest for herself to study more.</item>
-        <item>Ana keeps the materials for herself, but offers to teach the material to her in person before she leaves and over a video conferencing service the evenings she is on the road.</item>
-      </list>
-
-      <para id="para-00073"><emphasis>Let’s Talk About It</emphasis></para>
-      <para id="para-00074">Ana could have told Jasmine “No” and dealt with the consequences of the decision for the rest of the semester. However, as you read above, Ana did want to find a way to help her roommate. Ana could have said any of the following to Jasmine to make it clear what she was willing to do:</para>
-      <list id="list-00010">
-        <item>“I would like to help you as I know you have struggled in this course, but because these study materials are part of my study group’s sessions and we are not finished studying, I don’t feel right giving them all to you. Is there another option that we can both feel good about?”</item>
-        <item>“I have invited you to study sessions before, but you have not had time because of your schedule. I have time to get you up to speed on some of the material before you leave, but if you can start to join us after you get back, you may find that it is much more effective than trying to learn the content in a short period of time.”</item>
-        <item>“Teaching you what I have learned so far will benefit us both–and I have time to do some of that over the next few days. Would that help you feel more comfortable when you study over the weekend?”</item>
-      </list>
+      <section id="sect-00016">
+        <title>Let’s Think About It</title>
+        <para id="para-00072">Ana has several options. Think through the consequences of each one, and choose the best option or create your own option.</para>
+        <list id="list-00009">
+          <item>Ana gives her roommate the notes and materials for the weekend, and hopes that she has studied enough to do well herself.</item>
+          <item>Ana gives some of the materials that she knows the best (and doesn’t need to study) for the weekend, and keeps the rest for herself to study more.</item>
+          <item>Ana keeps the materials for herself, but offers to teach the material to her in person before she leaves and over a video conferencing service the evenings she is on the road.</item>
+        </list>
+      </section>
+      <section id="sect-00017">
+        <title>Let’s Talk About It</title>
+        <para id="para-00074">Ana could have told Jasmine “No” and dealt with the consequences of the decision for the rest of the semester. However, as you read above, Ana did want to find a way to help her roommate. Ana could have said any of the following to Jasmine to make it clear what she was willing to do:</para>
+        <list id="list-00010">
+          <item>“I would like to help you as I know you have struggled in this course, but because these study materials are part of my study group’s sessions and we are not finished studying, I don’t feel right giving them all to you. Is there another option that we can both feel good about?”</item>
+          <item>“I have invited you to study sessions before, but you have not had time because of your schedule. I have time to get you up to speed on some of the material before you leave, but if you can start to join us after you get back, you may find that it is much more effective than trying to learn the content in a short period of time.”</item>
+          <item>“Teaching you what I have learned so far will benefit us both–and I have time to do some of that over the next few days. Would that help you feel more comfortable when you study over the weekend?”</item>
+        </list>
+      </section>
       <para id="para-00075">Whatever choice you would make in this situation, it is always best to communicate clearly your needs, your concerns, and even your uncertainties.</para>
-     </note>
+     </section>
      <section class="summary" id="sect-00014">
      <title>Summary and Next Steps for College Success</title>
      <para id="para-00056">Reading and note-taking are part of the foundation of college studying and learning. The expectation in college is that you read considerable amounts of text for each subject with the goal of learning more about the subjects. You may encounter reading situations, such as professional journal articles and long textbook chapters, that are more difficult to understand than texts you have read previously. As you progress through your college courses, you can employ reading strategies to help you complete your college reading assignments. Likewise, you will take notes in college that need to be complete so you can study and recall the information you learn in lectures and lab sessions. With so much significant information that you need to collect, study, and recall for your college courses, you need to be deliberate in your reading and note-taking.</para>
@@ -304,7 +307,9 @@
      </list>
      </section>
      <section class="checking-in" id="sect-00012">
-      <title>Checking In: Your College Readiness Checklist<newline/><newline/>Winter</title>
+      <title>Checking In: Your College Readiness Checklist</title>
+      <section id="sect-00018">
+      <title>Winter</title>
       <table class="top-titled" id="table-00004">
         <tgroup cols="2">
         <colspec colnum="1" colname="c1"/>
@@ -437,6 +442,7 @@
             </tbody>
             </tgroup>
             </table>
+    </section>
     </section>
 </content>
 </document>

@@ -24,7 +24,7 @@
     <figure id="ch02fig04">
     <media id="ch02media04" alt="A student's work calendar shows to-dos on a particular week from 7 A M to 8 P M, at standard time G M T 0 4." longdesc="C3-2-longdesc.txt"><image mime-type="image/jpg" src="../../media/CS_Figure_03_02_001.jpg"/></media>
     <caption>An online calendar is a very useful tool for keeping track of classes, meetings, and other events. Most learning management systems contain these features, or you can use a calendar application.</caption></figure>
-    <note class="analysis-question" id="note-00001"><label/>
+    <note class="analysis-question" id="note-00001">
     <para id="para-00003">Read each statement in the brief self-evaluation tool below, and check the answer that best applies to you. There are no right or wrong answers.</para>
     <table id="ch02tab06">
     <tgroup cols="6">
@@ -110,8 +110,8 @@
     <section id="sect-00001">
     <title>How to Manage Time</title>
     <para id="para-00006">The simplest way to manage your time is to accurately plan for how much time it will take to do each task, and then set aside that amount of time. How you divide the time is up to you. If it is going to take you five hours to study for a final exam, you can plan to spread it over five days, with an hour each night, or you can plan on two hours one night and three hours the next. What you would not want to do is plan on studying only a few hours the night before the exam and find that you fell very short on the time you estimated you would need. If that were to happen, you would have run out of time before finishing, with no way to go back and change your decision. In this kind of situation, you might even be tempted to “pull an all-nighter,” which is a phrase that has been used among college students for decades. In essence it means going without sleep for the entire night and using that time to finish an assignment. While this method of trying to make up for poor planning is common enough to have a name, rarely does it produce the best work.</para>
-    <note class="activity" id="note-00002"><label/>
-    <title/>
+    <note class="activity" id="note-00002">
+    
     <para id="para-00007">Many people are not truly aware of how they actually spend their time. They make assumptions about how much time it takes to do certain things, but they never really take an accurate account.</para>
     <para id="para-00008">In this activity, write down all the things you think you will do tomorrow, and estimate the time you will spend doing each. Then track each thing you have written down to see how accurate your estimates were.</para>
     <para id="para-00009">Obviously, you will not want to get caught up in too much tedious detail, but you will want to cover the main activities of your day—for example, working, eating, driving, shopping, gaming, being engaged in entertainment, etc.</para>
@@ -140,8 +140,8 @@
     <para id="para-00013">When it comes to academic activities, many tasks can be dependent upon the completion of other things first, or the time a task takes can vary from one instance to another, both of which add to the complexity and difficulty of estimating how much time and effort are required.</para>
     <para id="para-00014">For example, if an instructor assigned three chapters of reading, you would not really have any idea how long each chapter might take to read until you looked at them. The first chapter might be 30 pages long while the second is 45. The third chapter could be only 20 pages but made up mostly of charts and graphs for you to compare. By page count, it might seem that the third chapter would take the least amount of time, but actually studying charts and graphs to gather information can take longer than regular reading.</para>
     <para id="para-00015">To make matters even more difficult, when it comes to estimating time on task for something as common as reading, not all reading takes the same amount of time. Fiction, for example, is usually a faster read than a technical manual. But something like the novel <emphasis effect="italics">Finnegan’s Wake</emphasis> by James Joyce is considered so difficult that most readers never finish it.</para>
-    <note class="activity" id="note-00003"><label/>
-     <title/>
+    <note class="activity" id="note-00003">
+     
     <para id="para-00016">To better understand how much time different kinds of material can take to read, try this experiment. You will use two examples of famous texts that are very close to being the same number of words: <emphasis effect="italics">The Gettysburg Address</emphasis> and the opening paragraphs from <emphasis effect="italics">A Christmas Carol</emphasis>. Before you begin, estimate how long it will take you to read each, and predict which you think will take longer. When you do the reading, use a stopwatch function on a device such as a phone or some other timer to see how long it actually takes.</para>
     <para id="para-00017">Make certain that you are reading for understanding, not just skimming over words. If you must reread a section to better comprehend what is being said, that is appropriate. The goal here is to compare reading of different texts, not to see how fast you can sight-read the words on a page.</para>
     <para id="para-00018">After you have finished <emphasis effect="italics">The Gettysburg Address</emphasis>, read and time <emphasis effect="italics">A Christmas Carol</emphasis> and compare both of your times.</para>
@@ -243,7 +243,7 @@
     </table>
     <para id="para-00035">Again, these are averages, and it does not mean anything if your times are a little slower or a little faster. There is no “right amount of time,” only the time that it takes you to do something so you can accurately plan and manage your time.</para>
     <para id="para-00036">There is also another element to look for in the table. These are differentiations in the similar activities that will also affect the time you spend. A good example of this can be found in the first four rows. Each of these activities involves reading, but you can see that depending on the material being read and its complexity, the time spent can vary greatly. Not only do these differences in time account for the different types of materials you might read (as you found in the comparative reading exercise earlier in this chapter), but also they also take into consideration the time needed to think about what you are reading to truly understand and comprehend what it is saying.</para>
-    <note class="get-connected" id="note-00004"><label/>
+    <note class="get-connected" id="note-00004">
     <para id="para-00037">Which apps help you best prepare for success when managing your time?</para>
     <para id="para-00038">Do you have trouble keeping track of multiple tasks over the course of a term?</para>
     <para id="para-00039"><link url="https://openstax.org/l/trello">Trello</link> lets you organize all your obligations in helpful boards. You can share them with others (project collaborators), set alerts as reminders, and mark tasks off as you complete them.</para>

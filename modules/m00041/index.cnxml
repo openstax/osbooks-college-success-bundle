@@ -84,7 +84,7 @@
     <para id="para-00006">To distinguish between the types of <term class="no-emphasis" id="term-00001">degrees</term>, it is useful to understand that courses are often assigned a number of credits, sometimes called <emphasis effect="italics">semester hours</emphasis> as well. Credits relate to the calculated hours during a course that a student spends interacting with the instructor and/or the course material through class time, laboratory time, online discussions, homework, etc. Courses at all degree levels are typically assigned a value of one to six credits, although students often need to complete a developmental education course or two, often in English or math. These requirements, which cost as much as typical college courses but do not grant college credit, are meant to provide some basic information students may have missed in high school but that will be necessary to keep up in college-level coursework.</para>
     <para id="para-00007">The minimum or maximum number of credits required to graduate with different degrees varies by state or institution, but approximate minimum numbers of credits are explained below. Keep in mind that although a minimum number of credits must be completed to get a certain degree, total credits completed is not the only consideration for graduation—you must take your credits or courses in particular subjects indicated by your college.</para>
     <para id="para-00008">To determine your best degree option, it might make sense to do some research to determine what kind of career you’re most interested in pursuing. Visit your campus career center or guidance office to meet with a counselor to guide you through this process. These services are free to students while they are enrolled in school, but can be pricey if used outside a school setting, so take advantage. There are other tools online you can investigate.</para>
-    <note class="get-connected" id="note-00001"><label/>
+    <note class="get-connected" id="note-00001">
     <para id="para-00009">These free, online self-assessments help you narrow down your choices.</para>
     <list list-type="bulleted" id="list-00002">
     <item><link url="https://openstax.org/l/valuesassessment">MyPlan</link> identifies your motivations by having you rank different aspects of work, then creating a ranked list of different possible jobs.</item>
@@ -101,7 +101,7 @@
     <caption>Air traffic controllers are extremely important and well-paid jobs that typically require an associate degree. (Credit: Expert Infantry / Flickr / Attribution 2.0 Generic (CC-BY 2.0))</caption>
     </figure>
     <para id="para-00012">An associate degree is typically awarded when a student has completed a minimum of 60 credits, approximately 20 courses, meeting the requirements of a specific degree. Some technical associate degrees, such as nursing, may require additional credits in order to meet requirements for special certifications. You may find that your college or university does not offer associate degrees. Most associate degrees are offered by community or junior colleges, or by career and technical colleges.</para>
-    <note class="activity" id="note-00002"><label/>
+    <note class="activity" id="note-00002">
     <title>What to Ask</title>
     <para id="para-00013">If you’re planning your associate degree, here are some specific questions you may want to research.</para>
     <para id="para-00014"><emphasis effect="bold">If you intend to enter a technical career that requires special certification:</emphasis></para>
@@ -126,7 +126,7 @@
     <title>General Education</title>
     <para id="para-00019"><term class="no-emphasis" id="term-00005">General education</term>, also called <emphasis effect="italics">core curriculum</emphasis>, is a group of courses that are often set as requirements by your state or by your individual college. These courses provide you with a foundation of knowledge across a breadth of fields and are also intended to help you further develop college-level critical-thinking and problem- solving abilities. You may be able to select courses from a general education menu of courses available at your institution. More than half of your bachelor’s degree program is likely made up of general education courses.</para>
     <table id="ch08tab06">
-    <title/>
+    
     <tgroup cols="1">
     <colspec colnum="1" colname="c1"/>
     <tbody>

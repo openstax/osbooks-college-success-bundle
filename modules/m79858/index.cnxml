@@ -19,7 +19,7 @@
   </tgroup>
 </table>
 <figure id="ch03fig06">
-<title/>
+
 <media id="ch03media06" alt="A sticky note shows a student's checklist and to-dos." longdesc="C3-6-longdesc.txt"><image mime-type="image/png" src="../../media/CS_Figure_03_07_001.png"/></media>
 <caption>Numbered lists are useful and easy tools to create.</caption>
 </figure>
@@ -43,11 +43,11 @@
 <section id="fs-idm321519120"><title>Make Decisions on Importance, Impact on Other Priorities, and Urgency</title>
 <para id="fs-idm341512480">After you are aware of the requirements for each task, you can then decide your priorities based on the importance of the task and what things need to be finished in which order.</para>
 <para id="fs-idm361686592">To summarize: <emphasis effect="italics">the key components to prioritization are making certain you understand each task and making decisions based on importance, impact, and urgency.</emphasis></para>
-<note id="fs-idm320773744" class="activity"><label/>
+<note id="fs-idm320773744" class="activity">
 <para id="fs-idm327500368">To better see how things may need to be prioritized, some people make a list of the tasks they need to complete and then arrange them in a quadrant map based on importance and urgency. Traditionally this is called the Eisenhower Decision Matrix. Before becoming the 34th president of the United States, Dwight Eisenhower served as the Allied forces supreme commander during World War II and said he used this technique to better prioritize the things he needed to get done.</para>
 <para id="fs-idm338129808">In this activity you will begin by making a list of things you need or want to do today and then draw your own version of the grid below. Write each item in one of the four squares; choose the square that best describes it based on its urgency and its importance. When you have completed writing each the tasks in its appropriate square, you will see a prioritization order of your tasks. Obviously, those listed in the Important and Urgent square will be the things you need to finish first. After that will come things that are “important but not urgent,” followed by “not important, but urgent,” and finally “not urgent and not important.”</para>
 <figure id="ch03fig07">
-<title/>
+
 <media id="ch03media07" alt="A two-way table shows the Eisenhower Matrix with tasks categorized on the basis of their urgency and importance." longdesc="C3-7-longdesc.txt"><image mime-type="image/png" src="../../media/CS_Figure_03_08_001.png"/></media>
 <caption>The Eisenhower Matrix can help organize priorities and ensure that you focus on the correct tasks.</caption>
 </figure>
@@ -73,7 +73,7 @@
 <section id="fs-idm330449536"><title>Knowing What You Need to Do</title>
 <para id="fs-idm320297472">As discussed in previous parts of this chapter, many learning activities have multiple components, and sometimes they must occur in a specific order. Additionally, some elements may not only be dependent on the order they are completed, but can also be dependent on how they are completed. To illustrate this we will analyze a task that is usually considered to be a simple one: <emphasis effect="italics">attending a class session.</emphasis> In this analysis we will look at not only what must be accomplished to get the most out of the experience, but also at how each element is dependent upon others and must be done in a specific order. The graphic below shows the interrelationship between the different activities, many of which might not initially seem significant enough to warrant mention, but it becomes obvious that other elements depend upon them when they are listed out this way.</para>
 <figure id="ch03fig08">
-<title/>
+
 <media id="ch03media08" alt="The elements or task needed for success and the tasks it depends on are grouped under &quot;Pre-class prep,&quot; &quot;During class,&quot; and &quot;Post-class.&quot;" longdesc="C3-8-longdesc.txt"><image mime-type="image/png" src="../../media/CS_Figure_03_10_001.png"/></media>
 <caption>Many of your learning activities are dependent on others, and some are the gateways to other steps.</caption>
 </figure>
@@ -89,7 +89,7 @@
 <para id="fs-idm326807904">The first part of this list may appear to be so obvious that it should go without mention, but it is by far one of the most critical and one of the most overlooked. Have you ever planned a trip but forgotten your most comfortable pair of shoes or neglected to book a hotel room? If a missing resource is important, the entire project can come to a complete halt. Even if the missing resource is a minor component, it may still dramatically alter the end result.</para>
 <para id="fs-idm330065808">Learning activities are much the same in this way, and it is also important to keep in mind that resources may not be limited to physical objects such as paper or ink. Information can be a critical resource as well. In fact, one of the most often overlooked aspects in planning by new college students is just how much research, reading, and information they will need to complete assignments.</para>
 <figure id="ch03fig09">
-<title/>
+
 <media id="ch03media09" alt="A close-up view of a person thinking, while holding a marker pen in her hand."><image mime-type="image/jpg" src="../../media/CS_Figure_03_11_001.jpg"/></media>
 <caption>Allowing time to think is an important part of learning. Credit: Juhan Sonin / Flickr / Attribution 2.0 Generic (CC BY 2.0))</caption>
 </figure>
@@ -110,7 +110,7 @@
 <quote id="fs-idm346339648">
 <para id="fs-idm348356320"><emphasis effect="bold">“As you work through tasks, make certain you are always monitoring and adapting to ensure you complete them.”</emphasis></para></quote>
 <note id="fs-idm223296912" class="student-profile">
-<label/><title/>
+
 <para id="fs-idm215795280">“While in college, I recall an instance where I was awake for two nights in a row trying to cram for upcoming midterms. I quickly learned that trying to navigate through college while working full time posed a significant challenge. Because of inability to manage my responsibilities, my first year of college was quite miserable. I went through a lot of trial and error to find out that <emphasis effect="italics">time management</emphasis> was the key. From my experiences, I have extrapolated three important components to this skill. First, knowing your <emphasis effect="italics">values</emphasis> is imperative. Values will serve as a guide, which will help you to determine which actions bring you closer to your goals and those that don't. Second, know your <emphasis effect="italics">constraints</emphasis>. Constraints (in form of time or other responsibilities) can help you set the parameter within which you can function efficiently. The last component is <emphasis effect="italics">action</emphasis>. This component was the hardest for me to master, but it was the most fruitful. Because knowing values and limitations without engaging in appropriate actions does not serve any meaningful purpose. I strongly believe that learning time management can contribute greatly towards positive university experience.”</para>
 <para id="fs-idm218001472"><emphasis effect="bold">—Firdavs Khaydarov</emphasis>, Psychology Major, Minnesota State University, Mankato</para>
 </note>
@@ -118,7 +118,7 @@
 </section>
 <section id="fs-idm334183328"><title>The Importance of Where You Do Your Work</title>
 <figure id="ch03fig10">
-<title/>
+
 <media id="ch03media10" alt="A laptop sits on a work table displaying a word document."><image mime-type="image/jpg" src="../../media/CS_Figure_03_12_001.jpg"/></media>
 <caption>Where you do work can be as important as when. (Credit: Mads Bodker / Flickr / Attribution 2.0 Generic (CC BY 2.0))</caption>
 </figure>
@@ -136,7 +136,7 @@
 <section id="fs-idm343771280"><title>Working at the Right Time</title>
 <para id="fs-idm317524000">Most people are subject to their own rhythms, cycles, and preferences throughout their day. Some are alert and energetic in the mornings, while others are considered “night owls” and prefer to work after everyone else has gone to sleep. It can be important to be aware of your own cycles and to use them to your advantage. Rarely does anyone do their best work when they are exhausted, either physically or mentally. Just as it can be difficult to work when you are physically ill, it can also be a hindrance to try to learn or do mental work when you are tired or emotionally upset.</para>
 <para id="fs-idm354150016">Your working environment definitely includes your own state of mind and physical well-being. Both have a significant influence on your learning and production ability. Because of this, it is not only important to be aware of your own condition and work preferences, but to actually try to create conditions that help you in these areas. One approach is to set aside a specific time to do certain kinds of work. You might find that you concentrate better after you have eaten a meal. If that is the case, make it a habit of doing homework every night after dinner. Or you might enjoy reading more after you are ready for bed, so you do your reading assignments just before you go to sleep at night. Some people find that they are more creative during a certain time of the day or that they are more comfortable writing with subtle lighting. It is worth taking the time to find the conditions that work best for you so that you can take advantage of them.</para>
-<note id="fs-idm359659840" class="analysis-question"><label/>
+<note id="fs-idm359659840" class="analysis-question">
 <title>Student Survey on Work Environment</title>
 <para id="fs-idm349915600">Analysis: Take the time to think about where you will do your work and when. What can you do to help ensure your working environment will be helpful rather than harmful? What do you know doesn’t work for you? What will you do to prevent those adverse conditions from creeping into your work environment?</para>
 <para id="fs-idm334238432">Below is a quick survey to help you determine your own preferences in regard to your work space, the time you work, and distractions. Rank each option: 1–4, 1 meaning “least like me” and 4 meaning “most like me.”</para>

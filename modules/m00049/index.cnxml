@@ -6,28 +6,31 @@
     <md:uuid>41f39aed-2ea4-457c-8269-a273518ed7cd</md:uuid>
   </metadata>
   <content>
-  <note class="family-friends" id="note-00001">
+  <section class="family-friends" id="sect-00002">
+  <title>Family &amp; Friends Matter</title>
     <para id="para-00001">JT is reapplying to college after taking a break to work and earn enough money to pay his expenses. The work that he does now is not challenging and certainly not what he wants to do the rest of his life. He is not sure what he wants to do–maybe something in health care or in finance. Either way, he wants to make more money so he can afford the things he wants most: a house, a new car, and the ability not to worry about how to afford all of life’s surprises.</para>
     <para id="para-00002">His family and friends, however, are having a hard time understanding why he wants to go to college. They all live in a small community and help each other out when needed. They don’t see why JT wants to go to college even if it means he could get a job that he really enjoys and makes him money. They are afraid he will change, maybe even not want to maintain a relationship with them, and they have been very vocal about their lack of support.</para>
     <para id="para-00003">When JT makes the decision to apply and asks a close friend for help with the application, his friend tells him that he is not going to help him because he doesn’t support his decision; his friend is concerned they won’t have time to hang out like they do now. He then asks his family if he could move in with them while he goes to college so he can save some of the money he earns to pay for his expenses. They, too, refuse to help him because they think he would be burdening them.</para>
-
-    <para id="para-00004"><emphasis>Let’s Think About It</emphasis></para>
-    <para id="para-00005">JT has several options. Think through the consequences of each one, and choose the best option or create your own option.</para>
-    <list id="list-00001">
-      <item>JT tells his family and family that he needs to make this decision for himself and doesn’t appreciate their negative feedback.</item>
-      <item>JT explains why he wants to go to college and what he thinks it would do for him in terms of a career and life that he wants and acknowledges that they may not be supportive, but he hopes they will some day.</item>
-      <item>JT promises his family that he will keep them up to date on what he is doing and why, and he will also make his best effort to stay connected to them and help them when needed.</item>
-    </list>
-
-    <para id="para-00006"><emphasis>Let’s Talk About It</emphasis></para>
-    <para id="para-00007">JT’s dilemma regarding whether or not to apply to college may be something you are considering as well. You may be thinking, ”Is it better to work now and attend later or not attend at all?”  Here are some strategies for communicating what you need to make the best choice.</para>
-    <para id="para-00008">JT could have shared the following with his family and friends:</para>
-    <list id="list-00002">
-      <item>“I have been working for a few years now, and I have a better idea of what I want to do for a career; a degree will help me achieve a long-term goal.”</item>
-      <item>“I know you may be disappointed that you won’t be able to see me as often as usual, but the degree will take only a few years and then I can participate more in family events.”</item>
-      <item>“While earning a degree may change me in certain ways, I am committed to maintaining our relationships and hope that you will grow and change with me.”</item>
-    </list>
-  </note>
+    <section id="sect-00003">
+      <title>Let’s Think About It</title>
+      <para id="para-00005">JT has several options. Think through the consequences of each one, and choose the best option or create your own option.</para>
+      <list id="list-00001">
+        <item>JT tells his family and family that he needs to make this decision for himself and doesn’t appreciate their negative feedback.</item>
+        <item>JT explains why he wants to go to college and what he thinks it would do for him in terms of a career and life that he wants and acknowledges that they may not be supportive, but he hopes they will some day.</item>
+        <item>JT promises his family that he will keep them up to date on what he is doing and why, and he will also make his best effort to stay connected to them and help them when needed.</item>
+      </list>
+    </section>
+    <section id="sect-00004">
+      <title>Let’s Talk About It</title>
+      <para id="para-00007">JT’s dilemma regarding whether or not to apply to college may be something you are considering as well. You may be thinking, ”Is it better to work now and attend later or not attend at all?”  Here are some strategies for communicating what you need to make the best choice.</para>
+      <para id="para-00008">JT could have shared the following with his family and friends:</para>
+      <list id="list-00002">
+        <item>“I have been working for a few years now, and I have a better idea of what I want to do for a career; a degree will help me achieve a long-term goal.”</item>
+        <item>“I know you may be disappointed that you won’t be able to see me as often as usual, but the degree will take only a few years and then I can participate more in family events.”</item>
+        <item>“While earning a degree may change me in certain ways, I am committed to maintaining our relationships and hope that you will grow and change with me.”</item>
+      </list>
+    </section>
+  </section>
   <section class="summary" id="sect-00001">
   <para id="para-00009">Placeholder Summary</para>
   </section>

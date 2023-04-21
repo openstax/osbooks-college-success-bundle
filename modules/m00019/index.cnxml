@@ -31,7 +31,7 @@
     <figure id="ch04fig02" class="scaled-down">
     <media id="ch04media02" alt="A flowchart shows the three stages of memory as “Encoding,” “Storage,” and “Retrieval.”"><image mime-type="image/png" src="../../media/CS_Figure_06_02_001.png"/></media>
     </figure>
-    <note class="analysis-question" id="note-00001"><label/>
+    <note class="analysis-question" id="note-00001">
     <para id="para-00006">Take a few minutes to list ways you create memories on a daily basis. Do you think about how you make memories? Do you do anything that helps you keep track of your memories?</para>
     </note>
     <section id="sect-00001">
@@ -46,11 +46,11 @@
     <section id="sect-00003">
     <title>Short-Term Memory</title>
     <para id="para-00010"><term class="no-emphasis" id="term-00003">Short-term memory</term> is a very handy thing. It helps us remember where we set our keys or where we left off on a project the day before. Think about all the aids we employ to help us with short-term memory: you may hang your keys in a particular place each evening so you know exactly where they are supposed to be. When you go grocery shopping, do you ever choose a product because you recall an advertising jingle? You see the box of cereal and you remember the song on the TV commercial. If that memory causes you to buy that product, the advertising worked. We help our memory along all the time, which is perfectly fine. In fact, we can modify these everyday examples of memory assistance for purposes of studying and test taking. The key is a deliberate use of strategies that are not so elaborate that they are too difficult to remember in our short-term memory.</para>
-    <note class="activity" id="note-00002"><label/>
-    <title/>
+    <note class="activity" id="note-00002">
+    
     <para id="para-00011">Consider this list of items. Look at the list for no more than 30 seconds. Then, cover up the list and use the spaces below to complete an activity.</para>
     <table id="ch04tab04" class="unnumbered">
-    <title/>
+    
     <tgroup cols="4">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -71,12 +71,12 @@
     </note>
     <para id="para-00015">Harvard psychology professor George A. Miller in 1956 claimed humans can recall about five to nine bits of information in our short-term memory at any given time. Other research has come after this claim, but this concept is a popular one. Miller’s article is entitled “The Magical Number Seven, Plus or Minus Two” and is easily accessible online if you’re interested in learning more about this seminar report.<footnote id="ch04rfin-3">Miller, George A. “The Magical Number Seven, Plus or Minus Two: Some Limits on Our capacity for Processing Information.” Psychological Review, 1956.</footnote></para>
     <para id="para-00016">Considering the vast amount of knowledge available to us, five to nine bits isn’t very much to work with. To combat this limitation, we clump information together, making connections to help us stretch our capacity to remember. Many factors play into how much we can remember and how we do it, including the subject matter, how familiar we are with the ideas, and how interested we are in the topic, but we certainly cannot remember absolutely everything, for a test or any other task we face. As such, we have to use effective strategies, like those we cover later in this chapter, to get the most out of our memories.</para>
-    <note class="activity" id="note-00003"><label/>
-    <title/>
+    <note class="activity" id="note-00003">
+    
     <para id="para-00017">Now, let’s revisit the items above. Go back to them and see if you can organize them in a way that you would have about five groups of items. See below for an example of how to group them.</para>
     <para id="para-00018">Row 1: Items found in a kitchen<newline/>Row 2: Items that a child would play with<newline/>Row 3: Items of nature<newline/>Row 4: Items in a desk drawer/school supplies<newline/>Row 5: Items found in a bedroom</para>
     <table id="ch04tab05" class="unnumbered">
-    <title/>
+    
     <tgroup cols="5">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -102,7 +102,7 @@
     <para id="para-00026">According to Alison Preston of the University of Texas at Austin’s Center for Learning and Memory, “A short- term memory’s conversion to a long-term memory requires changes within the brain . . . and result[s] in changes to neurons (nerve cells) or sets of neurons. . . . For example, new synapses—the connections between neurons through which they exchange information—can form to allow for communication between new networks of neurons. Alternatively, existing synapses can be strengthened to allow for increased sensitivity in the communication between two neurons.”<footnote id="ch04rfin-4">Preston, Alison. “Ask the Experts: How do short-term memories become long-term memories?” Scientific American, Dec. 2017. https://www.scientificamerican.com/article/how-do-short-term-memories-become-l/</footnote></para>
     <para id="para-00027">When you work to convert your thoughts into memories, you are literally <emphasis effect="italics">changing your mind.</emphasis> Much of this brain work begins in the part of the brain called the <emphasis effect="italics">hippocampus</emphasis>. Preston continues, “Initially, the hippocampus works in concert with sensory-processing regions distributed in the neocortex (the outermost layer of the brain) to form the new memories. Within the neocortex, representations of the elements that constitute an event in our life are distributed across multiple brain regions according to their content. . . .When a memory is first formed, the hippocampus rapidly combines this distributed information into a single memory, thus acting as an index of representations in the sensory-processing regions. As time passes, cellular and molecular changes allow for the strengthening of direct connections among the neocortical regions, enabling access to the memory independent of the hippocampus.”</para>
     <para id="para-00028">We learn the lyrics of a favorite song by singing and/or playing the song over and over. That alone may not be enough to get that song into the coveted long-term memory area of our brain, but if we have an emotional connection to the song, such as a painful breakup or a life-changing event that occurred while we were listening to the song, this may help. Think of ways to make your study session memorable and create connections with the information you need to study. That way, you have a better chance of keeping your study material in your memory so you can access it whenever you need it.</para>
-    <note class="analysis-question" id="note-00004"><label/>
+    <note class="analysis-question" id="note-00004">
     <para id="para-00029">What are some ways you convert short-term memories into long-term memories?</para>
     <para id="para-00030">Do your memorization strategies differ for specific courses (e.g., how you remember for math or history)?</para>
     </note>
@@ -119,7 +119,7 @@
     <para id="para-00036">Trying to make these mental connections on too little sleep will take a large mental toll because Saanvi has to concentrate even harder than she would with adequate sleep. She isn’t merely tired; her brain is not refreshed and primed to conduct difficult tasks. Although not an exact comparison, think about when you overtax a computer by opening too many programs simultaneously. Sometimes the programs are sluggish or slow to respond, making it difficult to work efficiently; sometimes the computer shuts down completely and you have to reboot the entire system. Your body is a bit like that on too little sleep.</para>
     <para id="para-00037">On the flip side, though, your brain on adequate sleep is amazing, and sleep can actually assist you in making connections, remembering difficult concepts, and studying for exams. The exact reasons for this is still a serious research project for scientists, but the results all point to a solid connection between sleep and cognitive performance.</para>
     <para id="para-00038">If you’re interested in learning more about this research, the American Academy of Sleep Medicine (AASM) is a good place to start. One article is entitled “College Students: Getting Enough Sleep Is Vital to Academic Success.”</para>
-    <note class="analysis-question" id="note-00005"><label/>
+    <note class="analysis-question" id="note-00005">
     <para id="para-00039">How long do you sleep every night on average? Do you see a change in your ability to function when you haven’t had enough sleep? What could you do to limit the number of nights with too little sleep?</para>
     </note>
   </section>    
