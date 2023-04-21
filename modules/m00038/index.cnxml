@@ -236,5 +236,140 @@
     <item>Research the best credit card options for you at this time.</item>
     </list>
     </section>
+    <section class="checking-in" id="sect-00030">
+      <title>Checking In: Your College Readiness Checklist<newline/><newline/>Summer</title>
+      <table class="top-titled" id="table-00001">
+        <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <thead>
+          <row>
+            <entry namest="c1" nameend="c2" align="left">9<sup>th</sup> Grade</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry><media alt="An icon depicting a minimalistic shape of a calendar."><image mime-type="image/png" src="../../media/noun-calendar-5667273.png"/></media></entry>
+            <entry><emphasis>Consider if you’ll need help with your college search.</emphasis> If you think you might need some outside support, start your research on college counselors now. Ask for recommendations from friends or look for consultants who belong to a professional organization, like the Independent Educational Consultants Association.
+            </entry>
+          </row>
+          <row>
+            <entry><media alt="An icon depicting a minimalistic shape of a pencil."><image mime-type="image/png" src="../../media/noun-pencil-5673251.png"/></media></entry>
+            <entry><emphasis>Take some free classes.</emphasis> Online, you can find thousands of free classes that let you explore your interest in everything from the financial markets to content marketing to international women’s health and human rights. Many are taught by professors from colleges like Duke, Stanford, and Harvard.
+            </entry>
+          </row>  
+          <row>
+            <entry><media alt="An icon depicting a minimalistic shape of an open book."><image mime-type="image/png" src="../../media/noun-book-5673244.png"/></media></entry>
+            <entry><emphasis>Do some summer reading.</emphasis> You might have required summer reading, but don’t forget to read for fun, too! For each book, write in your college binder the title, the author, and a few sentences about what you liked about the book — you might need this for college applications!
+            </entry>
+          </row>
+          <row>
+            <entry><media alt="An icon depicting a minimalistic shape of a graduation cap."><image mime-type="image/png" src="../../media/noun-graduation-1645699.png"/></media></entry>
+            <entry><emphasis>Keep busy. Get a job. Start a business.</emphasis> Volunteer in your community. Try a new hobby. Don’t let the summer pass without doing something to help others or explore your interests.
+            </entry>
+          </row>
+        </tbody>
+        </tgroup>
+        </table>
+        <table class="top-titled" id="table-00002">
+          <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <thead>
+            <row>
+              <entry namest="c1" nameend="c2" align="left">10<sup>th</sup> Grade</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry><media alt="An icon depicting a minimalistic shape of a calendar."><image mime-type="image/png" src="../../media/noun-calendar-5667273.png"/></media></entry>
+              <entry><emphasis>Put upcoming college fairs on your calendar.</emphasis> Now is the time to start creating and refining your college list. Attend in-person college fairs that are offered locally. Can’t find any? You’ll find plenty of virtual opportunities.
+              </entry>
+            </row>
+            <row>
+              <entry><media alt="An icon depicting a minimalistic shape of a pencil."><image mime-type="image/png" src="../../media/noun-pencil-5673251.png"/></media></entry>
+              <entry><emphasis>Do a social media audit.</emphasis> Go through your Facebook, Instagram, TikTok, and other social media accounts and ensure there’s nothing posted you wouldn’t want colleges or coaches to see.
+              </entry>
+            </row>  
+            <row>
+              <entry><media alt="An icon depicting a minimalistic shape of an open book."><image mime-type="image/png" src="../../media/noun-book-5673244.png"/></media></entry>
+              <entry><emphasis>Identify what you want from your college experience.</emphasis> As you’re narrowing your college list, it helps to know what you’re looking for. <link url="https://corsava.com/for-students">This quick survey from Corsava</link> helps you identify your preferences and find college fits.
+              </entry>
+            </row>
+            <row>
+              <entry><media alt="An icon depicting a minimalistic shape of a graduation cap."><image mime-type="image/png" src="../../media/noun-graduation-1645699.png"/></media></entry>
+              <entry><emphasis>Talk with college students who are home for the summer or recent college graduates.</emphasis> Find out what they like about the school they chose — and what they don’t. What would they have done differently?
+              </entry>
+            </row>
+          </tbody>
+          </tgroup>
+          </table>
+          <table class="top-titled" id="table-00003">
+            <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <thead>
+              <row>
+                <entry namest="c1" nameend="c2" align="left">11<sup>th</sup> Grade</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry><media alt="An icon depicting a minimalistic shape of a calendar."><image mime-type="image/png" src="../../media/noun-calendar-5667273.png"/></media></entry>
+                <entry><emphasis>Add application and school-specific deadlines to your calendar.</emphasis> Then take time to periodically review them. Application, scholarship, and honors college deadlines will vary from school to school, and you don’t want to miss even one!
+                </entry>
+              </row>
+              <row>
+                <entry><media alt="An icon depicting a minimalistic shape of a pencil."><image mime-type="image/png" src="../../media/noun-pencil-5673251.png"/></media></entry>
+                <entry><emphasis>Start brainstorming, outlining, and writing your personal statement.</emphasis> Google examples of personal statements, read about what colleges expect from the essay, then start writing. Supplemental essay prompts will be released later in the summer, so you can wait to write those. Don’t forget to proofread your essays before you submit them.
+                </entry>
+              </row>  
+              <row>
+                <entry><media alt="An icon depicting a minimalistic shape of an open book."><image mime-type="image/png" src="../../media/noun-book-5673244.png"/></media></entry>
+                <entry><emphasis>Explore college alternatives.</emphasis> Not every student is ready, willing, and able to attend college upon graduation. If this describes you, consider some of the great alternatives to a traditional four-year college, like community college, trade schools, or other specialized programs.
+                </entry>
+              </row>
+              <row>
+                <entry><media alt="An icon depicting a minimalistic shape of a graduation cap."><image mime-type="image/png" src="../../media/noun-graduation-1645699.png"/></media></entry>
+                <entry><emphasis>Finalize your college list with your parents.</emphasis> Make sure your list meets your and your family’s criteria in terms of size, location, offerings, cost, and more. Don’t forget to consider how potential scholarships, financial aid, merit, travel costs, and other factors will affect your total cost.
+                </entry>
+              </row>
+            </tbody>
+            </tgroup>
+            </table>
+          <table class="top-titled" id="table-00004">
+            <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <thead>
+              <row>
+                <entry namest="c1" nameend="c2" align="left">12<sup>th</sup> Grade</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry><media alt="An icon depicting a minimalistic shape of a calendar."><image mime-type="image/png" src="../../media/noun-calendar-5667273.png"/></media></entry>
+                <entry><emphasis>Complete to-do items for your freshman year.</emphasis> This includes signing up for (and attending) orientation sessions, signing up for meal plans, meeting with your advisor to register for classes, finding a roommate, and making travel arrangements.
+                </entry>
+              </row>
+              <row>
+                <entry><media alt="An icon depicting a minimalistic shape of a pencil."><image mime-type="image/png" src="../../media/noun-pencil-5673251.png"/></media></entry>
+                <entry><emphasis>Request copies of your final transcript a week or two after school lets out.</emphasis> Keep an unofficial copy for yourself, and have your school send an official copy to your selected college. <emphasis>Note:</emphasis> You must also send official transcripts from any local colleges from which you took dual credit classes.
+                </entry>
+              </row>  
+              <row>
+                <entry><media alt="An icon depicting a minimalistic shape of an open book."><image mime-type="image/png" src="../../media/noun-book-5673244.png"/></media></entry>
+                <entry><emphasis>Get prepared for independent living.</emphasis> Soon, you’ll be navigating life more independently — like doing laundry, cooking, advocating for yourself, managing your health care, and taking care of finances. Work with your parents this summer to make sure you’re ready.
+                </entry>
+              </row>
+              <row>
+                <entry><media alt="An icon depicting a minimalistic shape of a graduation cap."><image mime-type="image/png" src="../../media/noun-graduation-1645699.png"/></media></entry>
+                <entry><emphasis>Have fun.</emphasis> You’ve worked hard to get to this point, and now it’s time to take advantage of every opportunity your home for the next four years will give you. Congratulations!
+                </entry>
+              </row>
+            </tbody>
+            </tgroup>
+            </table>
+    </section>
     </content>
 </document>

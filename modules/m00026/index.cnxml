@@ -156,24 +156,24 @@
       <entry><emphasis effect="italics">Search the topic in the library database. Find 4 articles (2 pro and 2 con). Assign each member an article to read</emphasis>.</entry>
       </row>
       <row>
-      <entry>&#160;</entry>
-      <entry>&#160;</entry>
-      <entry>&#160;</entry>
+      <entry> </entry>
+      <entry> </entry>
+      <entry> </entry>
       </row>
       <row>
-      <entry>&#160;</entry>
-      <entry>&#160;</entry>
-      <entry>&#160;</entry>
+      <entry> </entry>
+      <entry> </entry>
+      <entry> </entry>
       </row>
       <row>
-      <entry>&#160;</entry>
-      <entry>&#160;</entry>
-      <entry>&#160;</entry>
+      <entry> </entry>
+      <entry> </entry>
+      <entry> </entry>
       </row>
       <row>
-      <entry>&#160;</entry>
-      <entry>&#160;</entry>
-      <entry>&#160;</entry>
+      <entry> </entry>
+      <entry> </entry>
+      <entry> </entry>
       </row>
       </tbody>
       </tgroup>
@@ -193,12 +193,12 @@
       <entry>Each member will respond via Group Me when asked questions about meeting times or updates on their part of the project.</entry>
       </row>
       <row>
-      <entry>&#160;</entry>
-      <entry>&#160;</entry>
+      <entry> </entry>
+      <entry> </entry>
       </row>
       <row>
-      <entry>&#160;</entry>
-      <entry>&#160;</entry>
+      <entry> </entry>
+      <entry> </entry>
       </row>
       </tbody>
       </tgroup>
@@ -220,24 +220,24 @@
       <entry><emphasis effect="italics">No later than February 12</emphasis></entry>
       </row>
       <row>
-      <entry>&#160;</entry>
-      <entry>&#160;</entry>
-      <entry>&#160;</entry>
+      <entry> </entry>
+      <entry> </entry>
+      <entry> </entry>
       </row>
       <row>
-      <entry>&#160;</entry>
-      <entry>&#160;</entry>
-      <entry>&#160;</entry>
+      <entry> </entry>
+      <entry> </entry>
+      <entry> </entry>
       </row>
       <row>
-      <entry>&#160;</entry>
-      <entry>&#160;</entry>
-      <entry>&#160;</entry>
+      <entry> </entry>
+      <entry> </entry>
+      <entry> </entry>
       </row>
       <row>
-      <entry>&#160;</entry>
-      <entry>&#160;</entry>
-      <entry>&#160;</entry>
+      <entry> </entry>
+      <entry> </entry>
+      <entry> </entry>
       </row>
       </tbody>
       </tgroup>
@@ -264,12 +264,12 @@
       <tbody>
       <row>
       <entry><para id="para-00018a">Dear Garth,</para>
-        <para id="para-00018b">&#160;</para>
-        <para id="para-00018d">&#160;</para>
-        <para id="para-00018e">&#160;</para>
-        <para id="para-00018f">&#160;</para>
-        <para id="para-00018g">&#160;</para>
-        <para id="para-00018h">&#160;</para>
+        <para id="para-00018b"> </para>
+        <para id="para-00018d"> </para>
+        <para id="para-00018e"> </para>
+        <para id="para-00018f"> </para>
+        <para id="para-00018g"> </para>
+        <para id="para-00018h"> </para>
       </entry>
       </row>
       </tbody>
@@ -292,5 +292,140 @@
       </list>
       </section>
       </section>
+      <section class="checking-in" id="sect-00011">
+      <title>Checking In: Your College Readiness Checklist<newline/><newline/>Spring</title>
+      <table class="top-titled" id="table-00008">
+        <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <thead>
+          <row>
+            <entry namest="c1" nameend="c2" align="left">9<sup>th</sup> Grade</entry>
+          </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry><media alt="An icon depicting a minimalistic shape of a calendar."><image mime-type="image/png" src="../../media/noun-calendar-5667273.png"/></media></entry>
+            <entry><emphasis>Maximize spring break trips.</emphasis> Pop by a college campus (or two) along the way or at your destination. Even if you can’t take a formal tour (or if students are on break and the campus is quiet), you can still get a feel for the environment and what college life might look like there.
+            </entry>
+          </row>
+          <row>
+            <entry><media alt="An icon depicting a minimalistic shape of a pencil."><image mime-type="image/png" src="../../media/noun-pencil-5673251.png"/></media></entry>
+            <entry><emphasis>Create a resume.</emphasis> Not only will your resume be useful for completing college applications, but it’ll also help your teachers write you great letters of recommendation. Take some time each semester to update it.
+            </entry>
+          </row>  
+          <row>
+            <entry><media alt="An icon depicting a minimalistic shape of an open book."><image mime-type="image/png" src="../../media/noun-book-5673244.png"/></media></entry>
+            <entry><emphasis>Think about next year’s schedule.</emphasis> Look through your school’s course catalog for class options and talk with your school counselor about how to challenge yourself the next three years while also exploring your interests.
+            </entry>
+          </row>
+          <row>
+            <entry><media alt="An icon depicting a minimalistic shape of a graduation cap."><image mime-type="image/png" src="../../media/noun-graduation-1645699.png"/></media></entry>
+            <entry><emphasis>Talk with your parents about paying for college.</emphasis> College isn’t cheap, but that doesn’t mean it’s unattainable. Talk with your parents about how much college might cost, the financial resources available to you, and how you might contribute to your education.
+            </entry>
+          </row>
+        </tbody>
+        </tgroup>
+        </table>
+        <table class="top-titled" id="table-00009">
+          <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <thead>
+            <row>
+              <entry namest="c1" nameend="c2" align="left">10<sup>th</sup> Grade</entry>
+            </row>
+          </thead>
+          <tbody>
+            <row>
+              <entry><media alt="An icon depicting a minimalistic shape of a calendar."><image mime-type="image/png" src="../../media/noun-calendar-5667273.png"/></media></entry>
+              <entry><emphasis>Sign up to take the ACT and SAT.</emphasis> Register early for the SAT and ACT, if you’re thinking about taking them this spring/summer. Not only will you be able to map out your study plan early, but you also have a better shot at getting a close testing location.
+              </entry>
+            </row>
+            <row>
+              <entry><media alt="An icon depicting a minimalistic shape of a pencil."><image mime-type="image/png" src="../../media/noun-pencil-5673251.png"/></media></entry>
+              <entry><emphasis>Sign up for college mailing lists.</emphasis> You may get inundated with college mail, but take some time to read through the emails and brochures you receive. Some colleges use demonstrated interest when making admission decisions, so reading their emails and clicking the links could give your application a slight boost.
+              </entry>
+            </row>  
+            <row>
+              <entry><media alt="An icon depicting a minimalistic shape of an open book."><image mime-type="image/png" src="../../media/noun-book-5673244.png"/></media></entry>
+              <entry><emphasis>Prep for AP exams.</emphasis> If you’re in an AP class and you want to try to earn college credit for it, AP exams are usually in early May. Visit the College Board’s website for links to free study resources.
+              </entry>
+            </row>
+            <row>
+              <entry><media alt="An icon depicting a minimalistic shape of a graduation cap."><image mime-type="image/png" src="../../media/noun-graduation-1645699.png"/></media></entry>
+              <entry><emphasis>Think about leadership positions for next year.</emphasis> Colleges love to see students show continued, deepening involvement in an activity. Consider taking on a leadership role in one of your extracurricular activities or at your school next year.
+              </entry>
+            </row>
+          </tbody>
+          </tgroup>
+          </table>
+          <table class="top-titled" id="table-00010">
+            <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <thead>
+              <row>
+                <entry namest="c1" nameend="c2" align="left">11<sup>th</sup> Grade</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry><media alt="An icon depicting a minimalistic shape of a calendar."><image mime-type="image/png" src="../../media/noun-calendar-5667273.png"/></media></entry>
+                <entry><emphasis>Look for personal statement prompts to be released.</emphasis> The <link url="http://www.commonapp.org/">Common App</link> and <link url="https://admission.universityofcalifornia.edu/index.html">University of California</link> system usually release their essay prompts in March (the <link url="https://www.coalitionforcollegeaccess.org/">Coalition App</link> and <link url="https://www.applytexas.org/">ApplyTexas</link> are often a little later in the spring). Consider writing down potential story ideas for each prompt — one might turn into your essay!
+                </entry>
+              </row>
+              <row>
+                <entry><media alt="An icon depicting a minimalistic shape of a pencil."><image mime-type="image/png" src="../../media/noun-pencil-5673251.png"/></media></entry>
+                <entry><emphasis>Create a Common App account.</emphasis> Chances are, you’ll apply to some schools via the Common App. Create an account now and become familiar with the site — you can even use it to do college research.
+                </entry>
+              </row>  
+              <row>
+                <entry><media alt="An icon depicting a minimalistic shape of an open book."><image mime-type="image/png" src="../../media/noun-book-5673244.png"/></media></entry>
+                <entry><emphasis>Understand the difference between Early Decision, Early Action, and Regular and Rolling Decisions.</emphasis> Applying Early Action or Early Decision means you get a college’s decision earlier than if you apply through Regular/Rolling Decision, but there are other implications. Learn what these terms mean so you can decide what strategy makes the most sense for you.
+                </entry>
+              </row>
+              <row>
+                <entry><media alt="An icon depicting a minimalistic shape of a graduation cap."><image mime-type="image/png" src="../../media/noun-graduation-1645699.png"/></media></entry>
+                <entry><emphasis>Ask teachers for letters of recommendation.</emphasis> Consider asking two current teachers in core classes and one teacher in an elective class to write you a letter of recommendation. If you participate in extracurricular activities, you may also ask leaders in those organizations (e.g., Scouts, Boys &amp; Girls Club). When you ask them, give them your resume and a letter listing the schools/majors you’re considering and anything else your recommender should know.
+                </entry>
+              </row>
+            </tbody>
+            </tgroup>
+            </table>
+          <table class="top-titled" id="table-00011">
+            <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <thead>
+              <row>
+                <entry namest="c1" nameend="c2" align="left">12<sup>th</sup> Grade</entry>
+              </row>
+            </thead>
+            <tbody>
+              <row>
+                <entry><media alt="An icon depicting a minimalistic shape of a calendar."><image mime-type="image/png" src="../../media/noun-calendar-5667273.png"/></media></entry>
+                <entry><emphasis>Update your calendar with important dates.</emphasis> Once you’ve accepted an offer of admission, put new important dates in your calendar, like college registration, housing selection, orientation, move-in, and the academic calendar.
+                </entry>
+              </row>
+              <row>
+                <entry><media alt="An icon depicting a minimalistic shape of a pencil."><image mime-type="image/png" src="../../media/noun-pencil-5673251.png"/></media></entry>
+                <entry><emphasis>Keep applying for scholarships.</emphasis> Every scholarship dollar helps when it comes to paying for college, so keep applying. Many scholarships are available to enrolled high school and college students.
+                </entry>
+              </row>  
+              <row>
+                <entry><media alt="An icon depicting a minimalistic shape of an open book."><image mime-type="image/png" src="../../media/noun-book-5673244.png"/></media></entry>
+                <entry><emphasis>Be prepared to respond to a request for FAFSA verification.</emphasis> An estimated 30% of FAFSA applications are randomly selected for verification. You’ll need to gather related paperwork — like child support documentation and tax returns — to complete the FAFSA Verification Worksheet.
+                </entry>
+              </row>
+              <row>
+                <entry><media alt="An icon depicting a minimalistic shape of a graduation cap."><image mime-type="image/png" src="../../media/noun-graduation-1645699.png"/></media></entry>
+                <entry><emphasis>Attend admitted student events.</emphasis> Colleges you’ve been accepted to will often hold admitted student events on campus or as part of a “traveling roadshow.” If you haven’t toured a campus or want to learn more about a school, attend one of these events. 
+                </entry>
+              </row>
+            </tbody>
+            </tgroup>
+            </table>
+    </section>
 </content>
 </document>
