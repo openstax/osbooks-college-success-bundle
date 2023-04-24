@@ -6,6 +6,19 @@
     <md:uuid>b4165b68-6f89-454e-b2a7-89064be2ed30</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">Placeholder</para>
+    <table class="unstyled unnumbered" id="table-00001">
+      <tgroup cols="1">
+      <tbody>
+        <row>
+          <entry align="right">Estimated completion time: 14 minutes.</entry>
+        </row>
+      </tbody>
+      </tgroup>
+    </table>  
+    <para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+    <list list-type="bulleted" id="list-00001">
+      <item>How can your academic journey develop skills needed for college success?</item>
+      <item>How can your personal story prepare you for applying to college?</item>
+    </list>
   </content>
 </document>
