@@ -112,12 +112,15 @@
         <title>Cost of attendance</title>
         <para id="para-00011">Cost of attendance refers to the total amount of estimated costs that you will have in college. Each institution’s costs of attendance will differ based on tuition, fees, room, and board (also known as “meals”), but many also estimate the costs of transportation and books and supplies. For public institutions, be sure to look at the in-state costs versus the out-of-state costs. If you attend a public school within your state, the tuition and fees should be lower than if someone from out of state were to attend. Tuition, fees, room, and board are institutional costs and will be paid directly to the school you attend. The personal costs are ones that you will be responsible for are variable, which means they will depend on your circumstances. For example, you may not have substantial transportation costs if you are going to a school in your hometown.</para>
         <para id="para-00012">Be sure to note that an estimated cost of attendance does not equal the total amount that you or family may pay each year because it doesn’t factor in scholarships, grants, loans, and direct payments. However, it does provide you with a realistic starting point as you do more research on where you may want to attend. The table below shows an example of the cost of attendance at an in-state university for an undergraduate student living on campus. </para>
-        <table id="table-00003">
+        <table id="table-00003" class="top-titled">
         <tgroup cols="3">
           <colspec colnum="1" colname="c1"/>
           <colspec colnum="2" colname="c2"/>
           <colspec colnum="3" colname="c3"/>
             <thead>
+              <row>
+                <entry namest="c1" nameend="c3" align="center">Cost of Attendance</entry>
+              </row>
               <row>
                 <entry>Type</entry>
                 <entry>Cost</entry>
