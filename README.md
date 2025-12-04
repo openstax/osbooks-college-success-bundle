@@ -1,6 +1,6 @@
 # College Success, College Success Concise, and Preparing for College Success
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/openstax/osbooks-college-success)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/openstax/osbooks-college-success-bundle)
 
 _College Success, College Success Concise, and Preparing for College Success_ are textbooks published by [OpenStax](https://openstax.org/), a non profit organization that is part of [Rice University](https://www.rice.edu/).
 
