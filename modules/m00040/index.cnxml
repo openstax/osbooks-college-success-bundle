@@ -14,8 +14,7 @@
     </row>
     </tbody>
     </tgroup>
-    </table>
-    <para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+    <caption>Table indicates an estimated completion time of 11 minutes.</caption></table><para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
     <list list-type="bulleted" id="list-00001">
     <item>How do I set motivational goals?</item>
     <item>What are SMART goals?</item>
@@ -161,8 +160,7 @@
     </row>
     </tbody>
     </tgroup>
-    </table>
-    </note>
+    <caption>A simple template outlining prompts for long-term goals, short-term goals, and progress tracking.</caption></table></note>
     <para id="para-00029">Keep in mind that values and goals may change over time as you meet new people, your life circumstances change, and you gain more wisdom or self-awareness. In addition to setting goals and tracking your progress, you should also periodically reflect on your goals to ensure their consistency with your values.</para>
     <figure id="ch08fig03">
     <media id="ch08media03" alt="Seven ways for people to stay motivated and achieve their goals." longdesc="C3-11-longdesc.txt"><image mime-type="image/png" src="../../media/CS_Figure_03_14_001.png"/></media>

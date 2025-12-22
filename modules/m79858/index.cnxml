@@ -17,8 +17,7 @@
     </row>
 	</tbody>
   </tgroup>
-</table>
-<figure id="ch03fig06">
+<caption>Estimated completion time for a task.</caption></table><figure id="ch03fig06">
 
 <media id="ch03media06" alt="A sticky note shows a student's checklist and to-dos." longdesc="C3-6-longdesc.txt"><image mime-type="image/png" src="../../media/CS_Figure_03_07_001.png"/></media>
 <caption>Numbered lists are useful and easy tools to create.</caption>
