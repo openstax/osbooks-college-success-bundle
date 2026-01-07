@@ -14,8 +14,7 @@
        </row>
      </tbody>
       </tgroup>
-     </table>
-     <para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+     <caption>This table presents an estimated completion time of 21 minutes.</caption></table><para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
      <list list-type="bulleted" id="list-00001">
      <item>How can you prepare to take notes to maximize the effectiveness of the experience?</item>
      <item>What are some specific strategies you can employ for better note-taking?</item>
@@ -177,7 +176,7 @@
      <row><entry>info</entry><entry>information</entry></row>
      <row><entry>Measurements: ft, in, k, m</entry><entry>foot, inch, thousand, million</entry></row>
      <row><entry>¶</entry><entry>paragraph or new paragraph</entry></row>
-     <row><entry>Math symbols: =, +, >, &lt;, ÷</entry><entry>equal, plus, greater, less, divided by</entry></row>
+     <row><entry>Math symbols: =, +, &gt;, &lt;, ÷</entry><entry>equal, plus, greater, less, divided by</entry></row>
      <row><entry>WWI, WWII</entry><entry>World Wars I and II</entry></row>
      <row><entry>impt</entry><entry>important</entry></row>
      <row><entry>?, !, **</entry><entry>denote something is very significant; don't over use</entry></row>
