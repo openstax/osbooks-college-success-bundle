@@ -6,7 +6,7 @@
     <md:uuid>d60ee033-9356-4a04-b863-bf64b37f3956</md:uuid>
   </metadata>
   <content>
-    <table class="unstyled unnumbered" id="table-00001">
+    <table class="unstyled unnumbered" id="table-00001" summary="The table indicates an estimated completion time of 12 minutes.">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -61,7 +61,7 @@
     </thead>
     <tbody>
     <row>
-    <entry>&#160;</entry>
+    <entry> </entry>
     <entry>sweating, shaking</entry>
     <entry>feeling sad, hurt, angry</entry>
     <entry>crying, punching, yelling</entry>
@@ -92,7 +92,7 @@
     <colspec colnum="3" colname="c3"/>
     <thead>
     <row>
-    <entry>&#160;</entry>
+    <entry> </entry>
     <entry>Goal</entry>
     <entry>Tactics</entry>
     </row>
@@ -110,18 +110,18 @@
     </row>
     <row>
     <entry>Eating healthfully</entry>
-    <entry>&#160;</entry>
-    <entry>&#160;</entry>
+    <entry> </entry>
+    <entry> </entry>
     </row>
     <row>
     <entry>Being active</entry>
-    <entry>&#160;</entry>
-    <entry>&#160;</entry>
+    <entry> </entry>
+    <entry> </entry>
     </row>
     <row>
     <entry>Sleeping fully</entry>
-    <entry>&#160;</entry>
-    <entry>&#160;</entry>
+    <entry> </entry>
+    <entry> </entry>
     </row>
     </tbody>
     </tgroup>

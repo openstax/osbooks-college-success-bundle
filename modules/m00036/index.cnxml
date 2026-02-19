@@ -6,7 +6,7 @@
     <md:uuid>acea1080-2946-4a4d-a80f-ca9874b37b70</md:uuid>
   </metadata>
   <content>
-    <table id="ch07tab03" class="unstyled unnumbered">
+    <table id="ch07tab03" class="unstyled unnumbered" summary="This table presents an estimated completion time of 19 minutes.">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -78,8 +78,8 @@
   </note>
   <para id="fs-idm253992064">How do your total “need” expenses compare to your total “want” expenses? Should either of them change?</para>
     <para id="fs-idm248500416">Budgets are done in a chart or spreadsheet format and often look like the ones below. Pay attention to how the first budget differs from the second.</para>
-    <para id="fs-idm253992064a">&#160;</para>
-    <para id="fs-idm253992064b">&#160;</para>
+    <para id="fs-idm253992064a"> </para>
+    <para id="fs-idm253992064b"> </para>
     <table id="ch07tab05">
     <tgroup cols="2">
     <colspec colnum="1" colname="c1"/>

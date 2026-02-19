@@ -6,7 +6,7 @@
     <md:uuid>f0f17780-dd47-4a61-9ef2-98c84806a79b</md:uuid>
   </metadata>
   <content>
-    <table id="ch08tab01" class="unstyled unnumbered">
+    <table id="ch08tab01" class="unstyled unnumbered" summary="Table indicates an estimated completion time of 11 minutes.">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -136,7 +136,7 @@
     <para id="para-00018">While departing from your original goals may seem like a failure, taking the time to reflect on goals before you set them aside to develop new ones is a success. Pivoting from one goal to new, better-fitting goal involves increased self-awareness and increased knowledge about the processes surrounding your specific goal (such as the details of a college transfer, for example). With careful reflection and information seeking, your change in plans may even demonstrate learning and increased maturity!</para>
     <note class="application" id="note-00001">
     <para id="para-00019">Take a moment to practice setting long- and short-term goals. Your short-term goal should help you progress toward your long-term goal. Include a plan for when and how you will know if you’re on track or if you need to adjust your goals to match new priorities.</para>
-    <table id="ch08tab03" class="unnumbered">
+    <table id="ch08tab03" class="unnumbered" summary="A simple template outlining prompts for long-term goals, short-term goals, and progress tracking.">
     
     <tgroup cols="1">
     <colspec colnum="1" colname="c1"/>

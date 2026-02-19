@@ -6,7 +6,7 @@
     <md:uuid>41f39aed-2ea4-457c-8269-a273518ed7cd</md:uuid>
   </metadata>
   <content>
-      <table class="unstyled unnumbered" id="table-00001">
+      <table class="unstyled unnumbered" id="table-00001" summary="This table indicates an estimated completion time.">
       <tgroup cols="1">
       <tbody>
         <row>

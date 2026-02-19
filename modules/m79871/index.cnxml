@@ -9,7 +9,7 @@
 </metadata>
 
 <content>
-<table id="fs-idm376731728" class="unstyled unnumbered">
+<table id="fs-idm376731728" class="unstyled unnumbered" summary="This table specifies an estimated completion time of 32 minutes.">
  <tgroup cols="1">
  <tbody>
   <row>
@@ -50,7 +50,7 @@
 <note id="fs-idm527471824" class="activity">
 
 <para id="fs-idm528344384">Consider this list of items. Look at the list for no more than 30 seconds. Then, cover up the list and use the spaces below to complete an activity.</para>
-<table id="ch06tab01" class="unnumbered">
+<table id="ch06tab01" class="unnumbered" summary="This table presents a collection of various common everyday and household objects.">
 
 <tgroup cols="4">
 <colspec colnum="1" colname="c1"/>
@@ -80,7 +80,7 @@
 <para id="fs-idm529780752">Row 3: Items of nature</para>
 <para id="fs-idm367055568">Row 4: Items in a desk drawer/school supplies</para>
 <para id="fs-idm363394480">Row 5: Items found in a bedroom</para>
-<table id="ch06tab02" class="unnumbered">
+<table id="ch06tab02" class="unnumbered" summary="This table lists a variety of miscellaneous objects and everyday items, presented without apparent categorization.">
 
 <tgroup cols="5">
 <colspec colnum="1" colname="c1"/>

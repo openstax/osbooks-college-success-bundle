@@ -9,7 +9,7 @@
 </metadata>
 
 <content>
- <table id="fs-idm341525808" class="unstyled unnumbered">
+ <table id="fs-idm341525808" class="unstyled unnumbered" summary="This table indicates an estimated completion time of 21 minutes.">
  <tgroup cols="1">
  <tbody>
   <row>
@@ -153,7 +153,7 @@
 <row><entry>info</entry><entry>information</entry></row>
 <row><entry>Measurements: ft, in, k, m</entry><entry>foot, inch, thousand, million</entry></row>
 <row><entry>¶</entry><entry>paragraph or new paragraph</entry></row>
-<row><entry>Math symbols: =, +, >, &lt;, ÷</entry><entry>equal, plus, greater, less, divided by</entry></row>
+<row><entry>Math symbols: =, +, &gt;, &lt;, ÷</entry><entry>equal, plus, greater, less, divided by</entry></row>
 <row><entry>WWI, WWII</entry><entry>World Wars I and II</entry></row>
 <row><entry>impt</entry><entry>important</entry></row>
 <row><entry>?, !, **</entry><entry>denote something is very significant; don't over use</entry></row>
@@ -237,7 +237,7 @@
 <para id="fs-idm356193536">Sanvi is a pre-nursing student who is having trouble between all the reading she is expected to complete, her general dislike of reading, and her need to comprehend both her reading assignments and her own notes to be successful in nursing school. She has spoken with several of her instructors and a tutor at the Student Success Center on campus, and their advice centers around Sanvi’s reluctance to read in general. She is working on how to manage her time so she has more dedicated time to read her assignments in between her classes and her work schedule.</para>
 <para id="fs-idm359086384">That is helping some, but Sanvi is still worried because she knows one problem is that she doesn’t exactly know what types of reading or note-taking she would need to know how to do as a professional nurse. This confusion makes her doubt that the extra reading she is doing now is really beneficial. After some reflection on what was holding her back, Sanvi mentioned this aspect of her studying to one of her instructors who had been a hospital RN for years before coming to the college to teach. She recalled that the first time she read a patient chart in the hospital, she had to think quickly about how to get all the meaning out of the chart in the same way she would have read a complex textbook chapter.</para>
 <para id="fs-idm513044416">Sanvi’s nursing instructor reminded her that all professions need their personnel to read. They may not all need to read books or articles, but all jobs involve reading to some extent. For example, consider this list of disciplines and the typical types of reading they do. You may be surprised that not all reading is in text form.</para>
-<table id="ch05tab05" class="unnumbered">
+<table id="ch05tab05" class="unnumbered" summary="This table outlines various professions and the key information sources or documents they typically consult in their work.">
 
 <tgroup cols="2">
 <colspec colnum="1" colname="c1"/>

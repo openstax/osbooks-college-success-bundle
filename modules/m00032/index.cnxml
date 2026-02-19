@@ -6,7 +6,7 @@
     <md:uuid>72a21a4e-db85-498c-bcc5-313547aaa09d</md:uuid>
   </metadata>
   <content>
-    <table class="unstyled unnumbered" id="table-00001">
+    <table class="unstyled unnumbered" id="table-00001" summary="This table indicates the estimated completion time for the activity.">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -43,7 +43,7 @@
     </list>
     </note>
     <para id="para-00006">Upon reflection from the activity above, where is your relationship with social media? To consider the relationship another way, think about the questions in the table below? Which more accurately describes your most frequent feelings when using social media?</para>
-    <table class="unnumbered" id="table-00002">
+    <table class="unnumbered" id="table-00002" summary="Questions for self-reflection on social media usage, contrasting positive/neutral indicators with potential negative impacts across themes like frequency, feelings, and outcomes.">
     <tgroup cols="3">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>

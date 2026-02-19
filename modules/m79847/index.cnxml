@@ -9,7 +9,7 @@
 </metadata>
 
 <content>
-<table id="fs-idm379224736" class="unstyled unnumbered">
+<table id="fs-idm379224736" class="unstyled unnumbered" summary="This table states the estimated completion time is 32 minutes.">
  <tgroup cols="1">
  <tbody>
   <row>
@@ -133,7 +133,7 @@ _______________________________________________________________</item>
 <note id="fs-idm345029168" class="activity">
 
 <para id="fs-idm341404256">For each statement, circle the number that best represents you, with 1 indicating that the statement is least like you, and 5 indicating that the statement is most like you.</para>
-<table id="ch01tab08"><tgroup cols="5">
+<table id="ch01tab08" summary="Self-assessment on motivation, effort, time management, and learning responsibility, using a 1-5 agreement scale."><tgroup cols="5">
 <colspec colnum="1" colname="c1"/>
 <colspec colnum="2" colname="c2"/>
 <colspec colnum="3" colname="c3"/>

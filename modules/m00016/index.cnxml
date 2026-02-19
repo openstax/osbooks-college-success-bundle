@@ -6,7 +6,7 @@
     <md:uuid>d58cf531-dff1-4a41-a1cb-1a4d9088befc</md:uuid>
   </metadata>
   <content>
-    <table class="unstyled unnumbered" id="table-00001">
+    <table class="unstyled unnumbered" id="table-00001" summary="This table presents an estimated completion time of 21 minutes.">
       <tgroup cols="1">
       <tbody>
        <row>
@@ -177,7 +177,7 @@
      <row><entry>info</entry><entry>information</entry></row>
      <row><entry>Measurements: ft, in, k, m</entry><entry>foot, inch, thousand, million</entry></row>
      <row><entry>¶</entry><entry>paragraph or new paragraph</entry></row>
-     <row><entry>Math symbols: =, +, >, &lt;, ÷</entry><entry>equal, plus, greater, less, divided by</entry></row>
+     <row><entry>Math symbols: =, +, &gt;, &lt;, ÷</entry><entry>equal, plus, greater, less, divided by</entry></row>
      <row><entry>WWI, WWII</entry><entry>World Wars I and II</entry></row>
      <row><entry>impt</entry><entry>important</entry></row>
      <row><entry>?, !, **</entry><entry>denote something is very significant; don't over use</entry></row>

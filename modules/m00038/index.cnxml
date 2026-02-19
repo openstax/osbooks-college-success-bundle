@@ -6,7 +6,7 @@
     <md:uuid>985f10db-f838-4147-bb42-09abeb863919</md:uuid>
   </metadata>
   <content>
-    <table id="ch07tab10" class="unstyled unnumbered">
+    <table id="ch07tab10" class="unstyled unnumbered" summary="This table indicates an estimated completion time for a task or activity.">
     <tgroup cols="1">
     <tbody>
     <row>

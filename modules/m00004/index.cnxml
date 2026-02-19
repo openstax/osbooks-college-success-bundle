@@ -6,7 +6,7 @@
     <md:uuid>2f839849-945b-4c12-bb67-645b1dc7f0c0</md:uuid>
   </metadata>
   <content>
-    <table id="ch01tab06" class="unstyled unnumbered">
+    <table id="ch01tab06" class="unstyled unnumbered" summary="This table states an estimated completion time of 32 minutes.">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -131,7 +131,7 @@
     <item>What is an unwritten rule if you are not able to attend that class?</item>
     </list>
     <para id="para-00017">Some of your answers could have included the following:</para>
-    <table id="ch01tab10">
+    <table id="ch01tab10" summary="Effective study strategies and actions recommended for different phases of a class: before, during, after, and when absent.">
     <tgroup cols="4">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -170,7 +170,7 @@
     <note class="activity" id="note-00003">
     
     <para id="para-00036">For each statement, circle the number that best represents you, with 1 indicating that the statement is least like you, and 5 indicating that the statement is most like you.</para>
-    <table id="ch01tab11"><tgroup cols="5">
+    <table id="ch01tab11" summary="Self-assessment statements on study habits and self-regulation, each with a 5-point Likert scale response."><tgroup cols="5">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
     <colspec colnum="3" colname="c3"/>
