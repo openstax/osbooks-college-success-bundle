@@ -6,7 +6,7 @@
     <md:uuid>a96a9f25-7e34-4136-9889-e38ee9b3fdaf</md:uuid>
   </metadata>
   <content>
-    <table class="unstyled unnumbered" id="table-00001">
+    <table class="unstyled unnumbered" id="table-00001" summary="This table indicates an estimated reading time of 9 minutes.">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -14,7 +14,8 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>This table indicates an estimated reading time of 9 minutes.</caption></table><para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+    </table>
+    <para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
     <list list-type="bulleted" id="list-00001">
     <item>What skills do you need to promote self-efficacy?</item>
     <item>What strategies can you use to improve your resiliency?</item>
@@ -23,7 +24,7 @@
     <para id="para-00003">Let’s get started. First, consider your strengths. In <link target-id="table-00002" document="m00028"/>, we have listed several examples of strengths. What are your strengths? What would your family say if we asked them about your strengths? What about your friends or community, would they have other examples of your strengths? Answer these questions to make a list of your own.</para>
     <para id="para-00004">Next, let’s consider your values. When finding your support network, friends, new clubs or organizations to join, one way to start is to understand your values and then look for others that have similar values. Your values have been shaped largely by your family, friends and the culture you grew up in.</para>
     <para id="para-00005">Many of these values may be challenged as you go through college and grow as an independent person. Understanding your current values and recognizing when they are being challenged may give you some insights into why you value what you do and what changes you may be open to. Consider the values in the table below and then list some of yours. Did you come to these through your family, your community?</para>
-    <table id="table-00002">
+    <table id="table-00002" summary="A comprehensive list of personal values and desired qualities, presented in multiple columns for readability.">
     <tgroup cols="4">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -128,7 +129,8 @@
   </row>
     </tbody>
     </tgroup>
-    <caption>A comprehensive list of personal values and desired qualities, presented in multiple columns for readability.</caption></table><para id="para-00006">Throughout life, your values will often be challenged by other individuals. Someone may challenge your political views, or your religion, or your value in family. It is best to recognize your current values and then, as they are challenged, you can have a clearer understanding of the person you want to be.</para>
+    </table>
+    <para id="para-00006">Throughout life, your values will often be challenged by other individuals. Someone may challenge your political views, or your religion, or your value in family. It is best to recognize your current values and then, as they are challenged, you can have a clearer understanding of the person you want to be.</para>
     <note class="analysis-question" id="note-00001">
     <para id="para-00007">Take a few minutes to write down a list of your strengths and values. Once you have created a list, reflect on it and consider what changes you would like to make. Are there strengths that you do not currently have but want to work on over the next few years? Can you imagine how this list might continue to evolve during college and even after you’ve graduated?</para>
     </note>

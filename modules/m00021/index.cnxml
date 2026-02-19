@@ -6,7 +6,7 @@
     <md:uuid>e8f40b3e-43f6-4f6f-a1b4-35d0bb4eac89</md:uuid>
   </metadata>
   <content>
-    <table id="ch04tab09" class="unstyled unnumbered">
+    <table id="ch04tab09" class="unstyled unnumbered" summary="The table specifies an estimated completion time of 23 minutes.">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -14,7 +14,8 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>The table specifies an estimated completion time of 23 minutes.</caption></table><para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+    </table>
+    <para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
     <list list-type="bulleted" id="list-00001">
     <item>What are the differences between test prep and taking the actual test?</item>
     <item>How can you take a <emphasis effect="italics">whole person</emphasis> approach to test taking?</item>

@@ -9,7 +9,7 @@
 </metadata>
 
 <content>
- <table id="fs-idm514239040" class="unstyled unnumbered">
+ <table id="fs-idm514239040" class="unstyled unnumbered" summary="This table shows the estimated completion time for the task.">
  <tgroup cols="1">
  <tbody>
   <row>
@@ -17,7 +17,8 @@
   </row>
 </tbody>
  </tgroup>
-<caption>This table shows the estimated completion time for the task.</caption></table><para id="fs-idm224697376"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+</table>
+<para id="fs-idm224697376"><emphasis effect="bold">Questions to Consider:</emphasis></para>
 <list id="fs-idm219965120" list-type="bulleted">
 <item>What happens if things don’t go according to plan?</item>
 <item>How can I make adjustments to my plan if things change?</item>
@@ -65,7 +66,7 @@
 <note id="fs-idm225150768" class="activity">
 <title>Your Support Call List</title>
 <para id="fs-idm512287616">When you start a new job, go to a new school, or even fill out paperwork at a new doctor’s office, you’re often asked to provide contact information for someone who can assist in making decisions and look out for your best interests in the event of an emergency. Academic decision-making and planning doesn’t involve the same level of urgency, but it’s useful to have in mind the people in your life or the offices and individuals available to you at your college who motivate and support your plans, or can assist you in setting them. Prepare your support call (or text, email, or DM) list now so that all you have to do is pick up your phone to get the support you need. Keep in mind that one person can fulfill more than one role.</para>
-<table id="ch04tab07">
+<table id="ch04tab07" summary="Identify key individuals and offices to form your college planning support network across academic, career, and personal guidance areas.">
 
 <tgroup cols="3">
 <colspec colnum="1" colname="c1" colwidth="60%"/>
@@ -100,7 +101,8 @@
 </row>
 </tbody>
 </tgroup>
-<caption>Identify key individuals and offices to form your college planning support network across academic, career, and personal guidance areas.</caption></table></note>
+</table>
+</note>
 <note id="fs-idm224342896" class="analysis-question">
 <para id="fs-idm228322720">Consider, are you someone who panics if there is a change in plans, or are you relatively flexible? What techniques will you employ to help you manage change if you encounter it?</para>
 </note>

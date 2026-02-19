@@ -6,7 +6,7 @@
     <md:uuid>636006ab-25d7-41bd-9147-fb929906280f</md:uuid>
   </metadata>
   <content>
-    <table id="ch08tab07" class="unstyled unnumbered">
+    <table id="ch08tab07" class="unstyled unnumbered" summary="This table indicates an estimated completion time of 28 minutes.">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -14,7 +14,8 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>This table indicates an estimated completion time of 28 minutes.</caption></table><para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+    </table>
+    <para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
     <list list-type="bulleted" id="list-00001">
     <item>What resources are available to help me understand my degree program requirements?</item>
     <item>Who can assist me in making a plan?</item>

@@ -6,7 +6,7 @@
     <md:uuid>dc850187-e44f-439a-8895-af60ef8d579f</md:uuid>
   </metadata>
   <content>
-    <table class="unstyled unnumbered" id="table-00001">
+    <table class="unstyled unnumbered" id="table-00001" summary="Estimated completion time for an activity.">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -14,7 +14,8 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>Estimated completion time for an activity.</caption></table><para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+    </table>
+    <para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
     <list list-type="bulleted" id="list-00001">
     <item>How can I shift my mindset to change how I feel?</item>
     <item>How can I understand my emotions?</item>

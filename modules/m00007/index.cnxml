@@ -6,7 +6,7 @@
     <md:uuid>8885a816-9ac2-4e11-92a5-62a49335887c</md:uuid>
   </metadata>
   <content>
-    <table id="ch02tab01" class="unstyled unnumbered">
+    <table id="ch02tab01" class="unstyled unnumbered" summary="This table indicates the estimated completion time, which is 11 minutes.">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -14,7 +14,8 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>This table indicates the estimated completion time, which is 11 minutes.</caption></table><para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+    </table>
+    <para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
     <list list-type="bulleted" id="list-00001">
     <item>Is time management different in college from what I am used to?</item>
     <item>How different is college schoolwork from high school or on-the-job work?</item>

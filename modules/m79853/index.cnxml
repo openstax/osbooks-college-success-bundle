@@ -9,7 +9,7 @@
 </metadata>
 
 <content>
-<table id="fs-idm397652336" class="unstyled unnumbered">
+<table id="fs-idm397652336" class="unstyled unnumbered" summary="This table indicates the estimated completion time for a task, which is 18 minutes.">
  <tgroup cols="1">
  <tbody>
   <row>
@@ -17,7 +17,8 @@
   </row>
 </tbody>
  </tgroup>
-<caption>This table indicates the estimated completion time for a task, which is 18 minutes.</caption></table><para id="fs-idm529418976"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+</table>
+<para id="fs-idm529418976"><emphasis effect="bold">Questions to Consider:</emphasis></para>
 <list id="fs-idm364387632" list-type="bulleted"><item>What actually happens to me when I learn something?</item>
 <item>Am I aware of different types of learning?</item>
 <item>Do I approach studying or practicing differently depending on the desired outcome?</item>

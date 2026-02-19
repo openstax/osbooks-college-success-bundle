@@ -6,7 +6,7 @@
     <md:uuid>b46b6309-0c97-422c-94f3-bee4f11a30fd</md:uuid>
   </metadata>
   <content>
-    <table id="ch02tab04" class="unstyled unnumbered">
+    <table id="ch02tab04" class="unstyled unnumbered" summary="Estimated completion time: 13 minutes.">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -14,7 +14,8 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>Estimated completion time: 13 minutes.</caption></table><para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+    </table>
+    <para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
     <list list-type="bulleted" id="list-00001">
     <item>Why do we procrastinate?</item>
     <item>What are the effects of procrastination?</item>

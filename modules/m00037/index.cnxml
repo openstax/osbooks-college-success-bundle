@@ -6,7 +6,7 @@
     <md:uuid>95a2be89-1401-4c43-a7d2-fe1a7c70e966</md:uuid>
   </metadata>
   <content>
-    <table id="ch07tab08" class="unstyled unnumbered">
+    <table id="ch07tab08" class="unstyled unnumbered" summary="This table provides the estimated completion time: 15 minutes.">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -14,7 +14,8 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>This table provides the estimated completion time: 15 minutes.</caption></table><para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+    </table>
+    <para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
     <list list-type="bulleted" id="list-00001">
     <item>How dangerous is debt?</item>
     <item>What should I think about when getting and using a credit card?</item>

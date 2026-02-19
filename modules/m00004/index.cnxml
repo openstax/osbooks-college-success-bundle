@@ -6,7 +6,7 @@
     <md:uuid>2f839849-945b-4c12-bb67-645b1dc7f0c0</md:uuid>
   </metadata>
   <content>
-    <table id="ch01tab06" class="unstyled unnumbered">
+    <table id="ch01tab06" class="unstyled unnumbered" summary="This table states an estimated completion time of 32 minutes.">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -14,7 +14,8 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>This table states an estimated completion time of 32 minutes.</caption></table><para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+    </table>
+    <para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
     <list list-type="bulleted" id="list-00001">
     <item>What language and customs do you need to know to succeed in college?</item>
     <item>What is the hidden curriculum?</item>
@@ -130,7 +131,7 @@
     <item>What is an unwritten rule if you are not able to attend that class?</item>
     </list>
     <para id="para-00017">Some of your answers could have included the following:</para>
-    <table id="ch01tab10">
+    <table id="ch01tab10" summary="Effective study strategies and actions recommended for different phases of a class: before, during, after, and when absent.">
     <tgroup cols="4">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
@@ -153,7 +154,8 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>Effective study strategies and actions recommended for different phases of a class: before, during, after, and when absent.</caption></table><para id="para-00018">The expectations before, during, and after class, as well as what you should do if you miss class, are often unspoken because many professors assume you already know and do these things or because they feel you should figure them out on your own. Nonetheless, some students struggle at first because they don’t know about these habits, behaviors, and strategies. But once they learn them, they are able to meet them with ease.</para>
+    </table>
+    <para id="para-00018">The expectations before, during, and after class, as well as what you should do if you miss class, are often unspoken because many professors assume you already know and do these things or because they feel you should figure them out on your own. Nonetheless, some students struggle at first because they don’t know about these habits, behaviors, and strategies. But once they learn them, they are able to meet them with ease.</para>
     </section>
     <section id="sect-00003">
     <title>Working Within the Hidden Curriculum</title>
@@ -168,7 +170,7 @@
     <note class="activity" id="note-00003">
     
     <para id="para-00036">For each statement, circle the number that best represents you, with 1 indicating that the statement is least like you, and 5 indicating that the statement is most like you.</para>
-    <table id="ch01tab11"><tgroup cols="5">
+    <table id="ch01tab11" summary="Self-assessment statements on study habits and self-regulation, each with a 5-point Likert scale response."><tgroup cols="5">
     <colspec colnum="1" colname="c1"/>
     <colspec colnum="2" colname="c2"/>
     <colspec colnum="3" colname="c3"/>
@@ -187,7 +189,8 @@
     <row><entry align="center">1</entry><entry align="center">2</entry><entry align="center">3</entry><entry align="center">4</entry><entry align="center">5</entry></row>
     </tbody>
     </tgroup>
-    <caption>Self-assessment statements on study habits and self-regulation, each with a 5-point Likert scale response.</caption></table><para id="para-00037">Were you able to mark mostly 4s and 5s? If you were even able to mark at least one 4 or 5, then you are well on your way to taking responsibility for your own learning. Let’s break down each statement in the components of the ownership of learning:</para>
+    </table>
+    <para id="para-00037">Were you able to mark mostly 4s and 5s? If you were even able to mark at least one 4 or 5, then you are well on your way to taking responsibility for your own learning. Let’s break down each statement in the components of the ownership of learning:</para>
     <list list-type="bulleted" id="list-00004">
     <item><emphasis effect="bold">Motivation.</emphasis> Being able to stay motivated while studying and balancing all you have to do in your classes will be important for meeting the rest of the components.</item>
     <item><emphasis effect="bold">Deliberate, focused effort.</emphasis> Taking ownership of learning will hinge on the effort that you put into the work. Because most learning in college will take place outside of the classroom, you will need determination to get the work done. And there will be times that the work will be challenging and maybe even boring, but finding a way to get through it when it is not exciting will pay in the long run.</item>

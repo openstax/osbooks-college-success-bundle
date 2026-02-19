@@ -6,7 +6,7 @@
     <md:uuid>bbdcc570-4a36-4d33-8f70-64036f99beda</md:uuid>
   </metadata>
   <content>
-    <table id="fs-idm346033040" class="unstyled unnumbered">
+    <table id="fs-idm346033040" class="unstyled unnumbered" summary="Provides the estimated completion time for a task.">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -14,7 +14,8 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>Provides the estimated completion time for a task.</caption></table><para id="fs-idm335069552"><emphasis effect="bold">Question to consider:</emphasis></para>
+    </table>
+    <para id="fs-idm335069552"><emphasis effect="bold">Question to consider:</emphasis></para>
     <list id="fs-idm359785552" list-type="bulleted">
     <item>What are some of the ways to tell if you are holding onto stress?</item>
     <item>How do mindfulness and gratitude encourage emotional health?</item>

@@ -6,7 +6,7 @@
     <md:uuid>1cb8f4be-4435-4b31-a574-1c4262ce7a05</md:uuid>
   </metadata>
   <content>
-    <table id="ch01tab14" class="unstyled unnumbered">
+    <table id="ch01tab14" class="unstyled unnumbered" summary="The table shows the estimated completion time.">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -14,7 +14,8 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>The table shows the estimated completion time.</caption></table><para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+    </table>
+    <para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
     <list list-type="bulleted" id="list-00001">
     <item>What is a growth mindset, and how does it affect my learning?</item>
     <item>What are performance goals versus learning goals?</item>

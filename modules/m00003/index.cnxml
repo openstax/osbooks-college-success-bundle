@@ -6,7 +6,7 @@
     <md:uuid>fd418e03-e023-49f2-9ed5-32b74f3a69ec</md:uuid>
   </metadata>
   <content>
-    <table id="ch01tab05" class="unstyled unnumbered">
+    <table id="ch01tab05" class="unstyled unnumbered" summary="This table states the estimated completion time is 14 minutes.">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -14,7 +14,8 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>This table states the estimated completion time is 14 minutes.</caption></table><para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+    </table>
+    <para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
     <list list-type="bulleted" id="list-00001">
     <item>How will you adjust to college?</item>
     <item>What are the common college experiences you will have?</item>

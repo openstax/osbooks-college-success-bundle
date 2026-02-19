@@ -6,7 +6,7 @@
     <md:uuid>7ecb4c9f-7bc0-43f4-b9ae-20b97b2a1b41</md:uuid>
   </metadata>
   <content>
-    <table id="ch04tab03" class="unstyled unnumbered">
+    <table id="ch04tab03" class="unstyled unnumbered" summary="This table indicates an estimated completion time of 32 minutes for the associated task or activity.">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -14,7 +14,8 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>This table indicates an estimated completion time of 32 minutes for the associated task or activity.</caption></table><para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+    </table>
+    <para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
     <list list-type="bulleted" id="list-00001">
     <item>How does working memory work, exactly?</item>
     <item>How do short-term and long-term memory function?</item>
@@ -48,7 +49,7 @@
     <note class="activity" id="note-00002">
     
     <para id="para-00011">Consider this list of items. Look at the list for no more than 30 seconds. Then, cover up the list and use the spaces below to complete an activity.</para>
-    <table id="ch04tab04" class="unnumbered">
+    <table id="ch04tab04" class="unnumbered" summary="This table lists twenty miscellaneous everyday objects.">
     
     <tgroup cols="4">
     <colspec colnum="1" colname="c1"/>
@@ -63,7 +64,8 @@
     <row><entry>Blanket</entry><entry>Ice</entry><entry>Marker</entry><entry>String</entry></row>
     </tbody>
     </tgroup>
-    <caption>This table lists twenty miscellaneous everyday objects.</caption></table><para id="para-00012">Without looking at the list, write down as many items as you can remember.</para>
+    </table>
+    <para id="para-00012">Without looking at the list, write down as many items as you can remember.</para>
     <para id="para-00013">Now, look back at your list and make sure that you give yourself credit for any that you got right. Any items that you misremembered, meaning they were not in the original list, you won’t count in your total. TOTAL ITEMS REMEMBERED _______________________.</para>
     <para id="para-00014">There were 20 total items. Did you remember between 5 and 9 items? If you did, then you have a typical short-term memory and you just participated in an experiment, of sorts, to prove it.</para>
     </note>
@@ -73,7 +75,7 @@
     
     <para id="para-00017">Now, let’s revisit the items above. Go back to them and see if you can organize them in a way that you would have about five groups of items. See below for an example of how to group them.</para>
     <para id="para-00018">Row 1: Items found in a kitchen<newline/>Row 2: Items that a child would play with<newline/>Row 3: Items of nature<newline/>Row 4: Items in a desk drawer/school supplies<newline/>Row 5: Items found in a bedroom</para>
-    <table id="ch04tab05" class="unnumbered">
+    <table id="ch04tab05" class="unnumbered" summary="A collection of miscellaneous everyday objects.">
     
     <tgroup cols="5">
     <colspec colnum="1" colname="c1"/>
@@ -89,7 +91,8 @@
     <row><entry>Ring</entry><entry>Picture frame</entry><entry>Fingernail polish</entry><entry>Tissue</entry><entry>Blanket</entry></row>
     </tbody>
     </tgroup>
-    <caption>A collection of miscellaneous everyday objects.</caption></table><para id="para-00023">Now that you have grouped items into categories, also known as chunking, you can work on remembering the categories and the items that fit into those categories, which will result in remembering more items. Check it out below by covering up the list of items again and writing down what you can remember.</para>
+    </table>
+    <para id="para-00023">Now that you have grouped items into categories, also known as chunking, you can work on remembering the categories and the items that fit into those categories, which will result in remembering more items. Check it out below by covering up the list of items again and writing down what you can remember.</para>
     <para id="para-00024">Now, look back at your list and make sure that you give yourself credit for any that you got right. Any items that you misremembered, meaning they were not in the original list, you won’t count in your total. TOTAL ITEMS REMEMBERED _______________________. Did you increase how many items you could remember?</para>
     </note>
   </section>    

@@ -6,7 +6,7 @@
     <md:uuid>01a2254f-88a5-4aca-80cf-d237110481dc</md:uuid>
   </metadata>
   <content>
-    <table id="ch04tab10" class="unstyled unnumbered">
+    <table id="ch04tab10" class="unstyled unnumbered" summary="This table indicates an estimated completion time of 8 minutes.">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -14,7 +14,8 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>This table indicates an estimated completion time of 8 minutes.</caption></table><para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+    </table>
+    <para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
     <list list-type="bulleted" id="list-00001">
     <item>What is metacognition?</item>
     <item>What contributes to poor metacognition?</item>

@@ -6,7 +6,7 @@
     <md:uuid>a98de810-7051-4819-bc34-ed1ac1dfff06</md:uuid>
   </metadata>
   <content>
-    <table class="unstyled unnumbered" id="table-00001">
+    <table class="unstyled unnumbered" id="table-00001" summary="Estimated completion time: 25 minutes.">
       <tgroup cols="1">
       <tbody>
        <row>
@@ -14,7 +14,8 @@
        </row>
      </tbody>
       </tgroup>
-     <caption>Estimated completion time: 25 minutes.</caption></table><para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+     </table>
+     <para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
      <list list-type="bulleted" id="list-00001">
      <item>What methods can you incorporate into your routine to allow adequate time for reading?</item>
      <item>What are the benefits and approaches to active and critical reading?</item>

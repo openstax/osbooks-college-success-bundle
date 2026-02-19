@@ -156,7 +156,7 @@
 <title>Chapter 4: Planning Your Academic Pathways</title>
 <note id="fs-idm222556912" class="application">
 <para id="fs-idm232382944">Take a moment to practice setting long- and short-term goals. Your short-term goal should help you progress toward your long-term goal. Include a plan for when and how you will know if you’re on track or if you need to adjust your goals to match new priorities.</para>
-<table id="ch04tab02" class="full-width">
+<table id="ch04tab02" class="full-width" summary="This table outlines key components for personal goal setting, including long-term and short-term goals, and methods for tracking progress.">
 
 <tgroup cols="1">
 <colspec colnum="1" colname="c1"/>
@@ -181,7 +181,8 @@
 </row>
 </tbody>
 </tgroup>
-<caption>This table outlines key components for personal goal setting, including long-term and short-term goals, and methods for tracking progress.</caption></table></note>
+</table>
+</note>
 <figure id="ch04fig16">
 <media id="ch04media16" alt="A template of a sample grid diagram shows students’ planning for different semesters, including planned activities, summer plans, and planned courses." longdesc="C4-16-longdesc.txt"><image mime-type="image/png" src="../../media/CS_Figure_04_16_001.png"/></media>
 <caption>This two-year version of the planning document may need to be adopted for colleges operating on a quarter, trimester, or other schedule. (Downloadable versions are available at OpenStax.org.)</caption>

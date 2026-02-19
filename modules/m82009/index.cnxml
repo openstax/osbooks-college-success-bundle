@@ -9,7 +9,7 @@
 </metadata>
 
 <content>
-<table id="fs-idm366554080" class="unstyled unnumbered">
+<table id="fs-idm366554080" class="unstyled unnumbered" summary="This table shows an estimated completion time of 19 minutes.">
  <tgroup cols="1">
  <tbody>
   <row>
@@ -17,7 +17,8 @@
   </row>
 </tbody>
  </tgroup>
-<caption>This table shows an estimated completion time of 19 minutes.</caption></table><para id="fs-idm361261696"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+</table>
+<para id="fs-idm361261696"><emphasis effect="bold">Questions to Consider:</emphasis></para>
 <list id="fs-idm373381264" list-type="bulleted">
 <item>Is there any connection between personality types and learning?</item>
 <item>Can the Myers-Briggs test be used to identify personality traits and learning styles?</item>
@@ -31,7 +32,7 @@
 <title>Myers-Briggs: Identifying Personality Traits and Styles</title>
 <para id="fs-idm353298976">The Myers-Briggs system is one of the most popular personality tests, and it is relatively well known. It has seen a great deal of use in the business world with testing seminars and presentations on group dynamics. In fact, it is so popular that you may already be familiar with it and may have taken a test yourself to find out which of the 16 personality types you most favor.</para>
 <para id="fs-idm383260944">The basic concept of Myers-Briggs is that there are four main traits. These traits are represented by two opposites, seen in the table below.</para>
-<table id="ch02tab05">
+<table id="ch02tab05" summary="This table lists common dichotomies of personality traits, often used in psychological assessments like the Myers-Briggs Type Indicator.">
 
 <tgroup cols="3">
 <colspec colnum="1" colname="c1"/>
@@ -44,7 +45,8 @@
 <row><entry>Judging (J)</entry><entry>vs.</entry><entry>Perceiving (P)</entry></row>
 </tbody>
 </tgroup>
-<caption>This table lists common dichotomies of personality traits, often used in psychological assessments like the Myers-Briggs Type Indicator.</caption></table><para id="fs-idm374063056">It is thought that people generally exhibit one trait or the other in each of these categories, or that they fall along a spectrum between the two opposites. For example, an individual might exhibit both Feeling and Thinking personality traits, but they will favor one more than the other.</para>
+</table>
+<para id="fs-idm374063056">It is thought that people generally exhibit one trait or the other in each of these categories, or that they fall along a spectrum between the two opposites. For example, an individual might exhibit both Feeling and Thinking personality traits, but they will favor one more than the other.</para>
 <para id="fs-idm362471840">Also note that with each of these traits there is a letter in parentheses. The letter is used to represent the specific traits when they are combined to define a personality type (e.g., Extrovert is E and Introvert is I, Intuition is N, etc.). To better understand these, each is briefly explained.</para>
 <para id="fs-idm362840576">Extroverted (E) vs. Introverted (I):  In the Myers-Briggs system, the traits of Extroverted and Introverted are somewhat different from the more common interpretations of the two words. The definition is more about an individual’s attitude, interests, and motivation. The extrovert is primarily motivated by the outside world and social interaction, while the introvert is often more motivated by things that are internal to them—things like their own interests.</para>
 <para id="fs-idm378665600">Intuition (N) vs. Sensing (S): This personality trait is classified as a preference toward one way of perceiving or another. It is concerned with how people tend to arrive at conclusions. A person on the intuitive end of the spectrum often perceives things in broader categories. A part of their process for “knowing things” is internal and is often described as <emphasis effect="italics">having a hunch</emphasis> or <emphasis effect="italics">a gut feeling</emphasis>. This is opposed to the preferred method of a sensing person, who often looks to direct observation as a means of perception. They prefer to arrive at a conclusion by details and facts, or by testing something with their senses.</para>

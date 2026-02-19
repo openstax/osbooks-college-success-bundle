@@ -6,7 +6,7 @@
     <md:uuid>985f10db-f838-4147-bb42-09abeb863919</md:uuid>
   </metadata>
   <content>
-    <table id="ch07tab10" class="unstyled unnumbered">
+    <table id="ch07tab10" class="unstyled unnumbered" summary="This table indicates an estimated completion time for a task or activity.">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -14,7 +14,8 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>This table indicates an estimated completion time for a task or activity.</caption></table><para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+    </table>
+    <para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
     <list list-type="bulleted" id="list-00001">
     <item>What choices should you consider when taking on student debt?</item>
     <item>How do you match debt to postgraduate income?</item>

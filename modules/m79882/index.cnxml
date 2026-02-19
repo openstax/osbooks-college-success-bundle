@@ -9,7 +9,7 @@
 </metadata>
 
 <content>
-<table id="fs-idm384070160" class="unstyled unnumbered">
+<table id="fs-idm384070160" class="unstyled unnumbered" summary="The table specifies an estimated completion time of 16 minutes.">
  <tgroup cols="1">
  <tbody>
   <row>
@@ -17,7 +17,8 @@
   </row>
 </tbody>
  </tgroup>
-<caption>The table specifies an estimated completion time of 16 minutes.</caption></table><para id="fs-idm392894880"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+</table>
+<para id="fs-idm392894880"><emphasis effect="bold">Questions to Consider:</emphasis></para>
 <list id="fs-idm349806640" list-type="bulleted">
 <item>What is identity?</item>
 <item>Can a person have more than one identity?</item>

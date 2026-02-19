@@ -6,7 +6,7 @@
     <md:uuid>21a72706-28db-4b21-8b8e-1b57e8df19b4</md:uuid>
   </metadata>
   <content>
-    <table class="unstyled unnumbered" id="table-00001">
+    <table class="unstyled unnumbered" id="table-00001" summary="The table specifies an estimated completion time of 18 minutes.">
       <tgroup cols="1">
       <tbody>
       <row>
@@ -14,7 +14,8 @@
       </row>
       </tbody>
       </tgroup>
-      <caption>The table specifies an estimated completion time of 18 minutes.</caption></table><para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+      </table>
+      <para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
       <list list-type="bulleted" id="list-00001">
       <item>What are the benefits of working in groups?</item>
       <item>What can I do to work effectively in a group?</item>
@@ -257,7 +258,7 @@
       <para id="para-00017">Most conflict occurs when there is a lack of communication about what is expected. Providing your group members with examples of how to deliver bad or difficult news (e.g., “I am not able to meet my deadline” or “I think I need help with my tasks”) can help your members feel more comfortable when it does occur. Be sure to treat others respectfully and with kindness even if you are justifiably frustrated by your group members’ actions or inactions.</para>
       <note class="application" id="note-00002">
       <para id="para-00018">Your classmate Garth shows up for the in-person meetings, but has yet to complete any of his parts for the project. The rest of your group cannot move forward without his finished work, and you are getting nervous that your classmate’s unfinished work will keep you from successfully completing the project on time. Write Garth a clear and kind message in which you explain what has happened from your observation, what you need from your classmate, when you need their work, and the consequence of their not completing their work by the deadline.</para>
-      <table class="unstyled unnumbered" id="table-00007">
+      <table class="unstyled unnumbered" id="table-00007" summary="This table contains a single entry, representing an example of a salutation.">
       <tgroup cols="1">
         <colspec colnum="1" colname="c1" colwidth="3*"/>
       <tbody>
@@ -267,7 +268,8 @@
       </row>
       </tbody>
       </tgroup>
-      <caption>This table contains a single entry, representing an example of a salutation.</caption></table></note>
+      </table>
+      </note>
       </section>
       <section id="sect-00009"><title>Completing the Project</title>
       <para id="para-00019">The project is complete when all the steps have been taken to submit or present it successfully, but that is not the end of the group work. You will want to also debrief on what worked and what could have been improved. Consider calling a brief meeting to review the process of completing the project or to review your graded work. Ask your group members what they felt were the group’s strengths and weaknesses. Use the debriefing to think about how to make changes to the process the next time you work in a group. Spend some time reflecting on what skills you still need to improve and how you can make the most of future group work.</para>

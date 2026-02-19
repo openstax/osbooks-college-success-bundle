@@ -9,7 +9,7 @@
 </metadata>
 
 <content>
-<table id="fs-idm215272560" class="unstyled unnumbered">
+<table id="fs-idm215272560" class="unstyled unnumbered" summary="Table indicates the estimated time for completion.">
  <tgroup cols="1">
  <tbody>
   <row>
@@ -17,7 +17,8 @@
   </row>
 </tbody>
  </tgroup>
-<caption>Table indicates the estimated time for completion.</caption></table><para id="fs-idm197168640"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+</table>
+<para id="fs-idm197168640"><emphasis effect="bold">Questions to Consider:</emphasis></para>
 <list id="fs-idm197946944" list-type="bulleted">
 <item>What are the pros and cons of online reading?</item>
 <item>How can distinguishing between reading types help you academically and personally?</item>

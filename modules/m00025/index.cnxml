@@ -6,7 +6,7 @@
     <md:uuid>ae1664b0-d5ac-471c-85ea-1a08bbaa3bac</md:uuid>
   </metadata>
   <content>
-    <table class="unstyled unnumbered" id="table-00001">
+    <table class="unstyled unnumbered" id="table-00001" summary="This table indicates an estimated completion time of 18 minutes.">
       <tgroup cols="1">
       <tbody>
       <row>
@@ -14,7 +14,8 @@
       </row>
      </tbody>
      </tgroup>
-     <caption>This table indicates an estimated completion time of 18 minutes.</caption></table><para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+     </table>
+     <para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
      <list list-type="bulleted" id="list-00001">
      <item>What role will faculty play in my college experience?</item>
      <item>What other kinds of relationships do I need to develop?</item>

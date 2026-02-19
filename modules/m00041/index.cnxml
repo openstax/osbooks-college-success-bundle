@@ -6,7 +6,7 @@
     <md:uuid>ec663771-a3b1-410b-ab18-46c615df983f</md:uuid>
   </metadata>
   <content>
-    <table id="ch08tab04" class="unstyled unnumbered">
+    <table id="ch08tab04" class="unstyled unnumbered" summary="An estimated completion time of 32 minutes is provided.">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -14,7 +14,8 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>An estimated completion time of 32 minutes is provided.</caption></table><para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+    </table>
+    <para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
     <list list-type="bulleted" id="list-00001">
     <item>What types of college degrees or certifications can I pursue?</item>
     <item>What is the difference between majors and minors?</item>

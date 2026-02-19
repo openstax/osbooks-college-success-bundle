@@ -6,7 +6,7 @@
     <md:uuid>d60ee033-9356-4a04-b863-bf64b37f3956</md:uuid>
   </metadata>
   <content>
-    <table class="unstyled unnumbered" id="table-00001">
+    <table class="unstyled unnumbered" id="table-00001" summary="The table indicates an estimated completion time of 12 minutes.">
     <tgroup cols="1">
     <tbody>
     <row>
@@ -14,7 +14,8 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>The table indicates an estimated completion time of 12 minutes.</caption></table><para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+    </table>
+    <para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
     <list list-type="bulleted" id="list-00001">
     <item>Are there ways I can control how I react in stressful situations?</item>
     <item>Is it possible to “feel” stressed in your body?</item>
