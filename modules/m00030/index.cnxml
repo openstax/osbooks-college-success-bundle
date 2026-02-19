@@ -14,7 +14,8 @@
     </row>
     </tbody>
     </tgroup>
-    <caption>The table indicates an estimated completion time of 12 minutes.</caption></table><para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
+    </table>
+    <para id="para-00001"><emphasis effect="bold">Questions to Consider:</emphasis></para>
     <list list-type="bulleted" id="list-00001">
     <item>Are there ways I can control how I react in stressful situations?</item>
     <item>Is it possible to “feel” stressed in your body?</item>
@@ -60,7 +61,7 @@
     </thead>
     <tbody>
     <row>
-    <entry> </entry>
+    <entry>&#160;</entry>
     <entry>sweating, shaking</entry>
     <entry>feeling sad, hurt, angry</entry>
     <entry>crying, punching, yelling</entry>
@@ -91,7 +92,7 @@
     <colspec colnum="3" colname="c3"/>
     <thead>
     <row>
-    <entry> </entry>
+    <entry>&#160;</entry>
     <entry>Goal</entry>
     <entry>Tactics</entry>
     </row>
@@ -109,18 +110,18 @@
     </row>
     <row>
     <entry>Eating healthfully</entry>
-    <entry> </entry>
-    <entry> </entry>
+    <entry>&#160;</entry>
+    <entry>&#160;</entry>
     </row>
     <row>
     <entry>Being active</entry>
-    <entry> </entry>
-    <entry> </entry>
+    <entry>&#160;</entry>
+    <entry>&#160;</entry>
     </row>
     <row>
     <entry>Sleeping fully</entry>
-    <entry> </entry>
-    <entry> </entry>
+    <entry>&#160;</entry>
+    <entry>&#160;</entry>
     </row>
     </tbody>
     </tgroup>
